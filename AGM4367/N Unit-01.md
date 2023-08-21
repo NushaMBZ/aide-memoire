@@ -26,7 +26,7 @@ This branch considers the <mark style="background: #FF5582A6;">aggregation of al
 The <mark style="background: #FFF3A3A6;">structure and organization of a society's production, distribution, and consumption of goods and services.</mark>
 
 ## Market Economy
-In a free market economy,the <mark style="background: #FFF3A3A6;">majority of economic decisions are made by private individuals and businesses.</mark> Prices are <mark style="background: #FF5582A6;">determined by supply and demand</mark>, and <mark style="background: #FF5582A6;">the production and distribution of goods and services occur through voluntary exchanges in markets.</mark> The <mark style="background: #FFF3A3A6;">government's role is limited</mark>, mainly focusing on maintaining competition, enforcing contracts, and protecting property rights.
+In a free market economy,the <mark style="background: #FFF3A3A6;">majority of economic decisions are made by private individuals and businesses.</mark> Prices are <mark style="background: #FF5582A6;">determined by supply and demand</mark>, and <mark style="background: #FFB8EBA6;"><mark style="background: #FF5582A6;">the production and distribution of goods and services occur through voluntary exchanges in markets.</mark></mark> The <mark style="background: #FFF3A3A6;">government's role is limited</mark>, mainly focusing on maintaining competition, enforcing contracts, and protecting property rights.
 
 ### Government in Market Economy
 #### Key functions of government 

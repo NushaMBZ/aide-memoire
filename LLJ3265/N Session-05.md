@@ -9,7 +9,7 @@ The main **function** of the Constitution is to  <mark style="background: #FFF3A
 The **doctrine of separation power** means that <mark style="background: #ADCCFFA6;">the powers of main organs of the State such as the legislature, the executive and the judiciary must be clearly described in the  Constitution of the country.</mark>
 
 The present constitution sets out the framework for the governance of a country.
-
+ggj
 **Features of the framework**
 - the Power to make laws; and  (legislative)
 - the Power to carry out those laws; and  (executive)
