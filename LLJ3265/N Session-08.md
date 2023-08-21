@@ -1,5 +1,5 @@
 # Formulation of Contract
-A contract is a legally binding agreement between two or more parties that outlines the terms and conditions under which they agree to perform certain actions, provide specific goods or services, or refrain from certain actions.
+A contract is a <mark style="background: #ABF7F7A6;">legally binding agreement between two or more parties that outlines the terms and conditions under which they agree to perform certain actions, provide specific goods or services, or refrain from certain actions.</mark>
 
 Contracts can cover a wide range of transactions, from business agreements to personal arrangements.
 
@@ -86,4 +86,64 @@ There is generally no contract if <mark style="background: #FFF3A3A6;">two perso
 > In Tinn Vs Hoffman  and Co1, the two parties exchanged the same offer of 800 tons of iron at 69  shillings per ton on the same day, however the offer cannot be enforced  because there was no acceptance to both offer.  
 
 **Counter – Offers**
-When there is no inconsistency between an offer and acceptance, there will  be a binding agreement. This means that the offeree must accept all the  terms of the offer. 
+When there is <mark style="background: #FF5582A6;">no inconsistency</mark> between an offer and acceptance, there will  be a binding agreement. This means that the offeree must accept all the  terms of the offer. 
+
+![[Pasted image 20230821171740.png]]
+
+### How the offer can be Terminated  
+- Acceptance
+- The death of offered
+- Counter-offer/Qualified acceptance
+- Lapse of Time
+- Revocation before acceptance  
+- Failure of a condition precedent
+
+![[Pasted image 20230821172011.png]]
+
+#### Acceptance
+Acceptance is a <mark style="background: #BBFABBA6;">final and unqualified expression of assent to the terms of an  offer.</mark> 
+
+**The requirements of acceptance**
+- By whom offer should be accepted  : Ordinarily it is <mark style="background: #CACFD9A6;">only the offeree</mark> who is entitled to accept a revocable offer.
+![[Pasted image 20230821172321.png]]
+- Acceptance to be manifested : The acceptance of an offer <mark style="background: #CACFD9A6;">must be clearly and unmistakably communicated</mark> in order for the contract to be legally binding.
+- Acceptance must be communicated  : Acceptance<mark style="background: #CACFD9A6;"> must be communicated to the offeror</mark> by the offeree or by his  authorized agent. 
+![[Pasted image 20230821172853.png]]
+> The postal rule is an exception to the general rule of contract formation and communication.
+
+An acceptance sent through the mail becomes effective and legally binding as soon as it is posted, even if it hasn't yet been received by the offeror.
+
+![[Pasted image 20230821174902.png]]
+
+## Intention of creating a legally binding agreement
+
+For an agreement to be considered a contract, the parties involved must<mark style="background: #ABF7F7A6;"> intend for the agreement to have legal consequences.</mark> In other words, they must intend to create legal obligations that can be enforced through the legal system.
+
+![[Pasted image 20230821175408.png]]
+
+## Valuable Consideration / Justa Causa  
+
+**English Law Perspective:** In English Law, a contract is often viewed as a "bargain." For a contract to be considered binding and enforceable, there <mark style="background: #FFF3A3A6;">must be an exchange of something of value</mark> between the parties.
+
+**Roman-Dutch Law Perspective:** In Roman-Dutch Law, a contract is seen as <mark style="background: #FFB86CA6;">binding primarily because a "serious promise"</mark> has been made by one party to another. The focus is on the genuineness and seriousness of the promise itself, rather than the exchange of benefits and detriments.
+
+In general case for a contract to be considered binding and enforceable, there must be an <mark style="background: #ABF7F7A6;">exchange of something of value</mark> between the parties. This concept is known as "consideration." Consideration refers to the fact that both parties have given something of value in return for the promise made.
+
+![[Pasted image 20230821181501.png]]
+**Executory Consideration**
+Consideration is labeled as 'executory' when the defendant's commitment is reciprocated with a counter-promise from the plaintiff. For instance, if Kala places an order for a motorbike from Bala, to be settled upon its delivery the following month, this scenario encompasses two enforceable pledges. Bala is bound to deliver the motorbike, and Kala is obligated to make the payment.
+
+**Executed Consideration**
+'Executed' consideration emerges when it is exchanged for the completion of an action. In such cases, the consideration is offered in response to the act's fulfillment.
+![[Pasted image 20230821183036.png]]
+**Past Consideration** 
+Critical to note is the exclusion of past consideration. Pledges formed based on a promisee's prior service are considered invalid. If an individual vows to reimburse a sum in return for a past service by the promisee, it constitutes past consideration and **lacks legal merit**.
+![[Pasted image 20230821183132.png]]
+
+## Legal Restrictions and Public Policy Considerations on Contract
+
+Contracts are subject to legal regulations to ensure their validity and enforceability. However, there are instances where contracts may be deemed illegal based on statutory provisions or common law principles. Certain statutes explicitly or implicitly prohibit the formation of specific types of contracts.
+
+Moreover, contracts that have the potential to undermine the proper functioning of justice, jeopardize national security, defraud government revenue, or cause harm to public services are strictly prohibited. Additionally, contracts that promote sexual immorality or are contrary to the prevailing public policy and moral standards of a country are also considered unlawful.
+
+

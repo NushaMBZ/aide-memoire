@@ -104,5 +104,3 @@ Today there are three main statutes applicable to the Muslims;
 - The Muslim Mosques and Charitable Trusts or Wakfs Act No:   of 1956  
 - Muslim Intestate Succession Ordinance No: 10 of 1931  
  slide
-**Session : [[2023071014143390.pdf|S-02]]** 
-**Slide : [[2023071214262869.pdf|S-02]]**

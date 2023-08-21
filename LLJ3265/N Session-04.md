@@ -1,8 +1,6 @@
 ---
 mode: fleeting
 ---
-**Session : [[2023071511315182.pdf|S-04]]**
-**Slide : [[2023071510165305.pdf|S-04]]
 
 # Constitutional Law
 
