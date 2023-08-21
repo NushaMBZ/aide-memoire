@@ -134,4 +134,5 @@ Primary Court has <mark style="background: #FFF3A3A6;">original civil jurisdicti
 Primary Court has jurisdiction in relation to the <mark style="background: #FFF3A3A6;">enforcement of by  laws of local authorities</mark>. 
 
 Primary Court has special jurisdiction in relation  to <mark style="background: #FFF3A3A6;">disputes which may lead to breach of the peace</mark>.
+nmckdijfoig0=qirk
 
