@@ -4,7 +4,7 @@ mode: fleeting
 # Legal Systems
 
 
-Dating back from BC 1500, Sri Lanka had been under the rule of different countries. And during these periods our traditional laws underwent considerable modification
+ghjuuuuiDating back from BC 1500, Sri Lanka had been under the rule of different countries. And during these periods our traditional laws underwent considerable modification
 and became a country rich with various legal system. Such as
 
 - Roman - Dutch Law
