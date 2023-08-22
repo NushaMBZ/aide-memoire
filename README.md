@@ -2,6 +2,13 @@
 <img src='assets/attachments/anime study.gif'>
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters.
 
+# Features
+- **Collaborative Note-Taking**
+- **Version History**
+- **Rich Formatting**
+- **Search and Filter**
+- **LaTex Support**
+- 
 ### Notes
 - AGM4367 | **Economics and Marketing for Engineers** 
 	- [N Unit-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-01.md)
@@ -35,3 +42,7 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [N Session-08](https://github.com/Thlurte/aide-memoire/blob/main/LLJ3265/N%20Session-08.md)
 	- [QA Session-01](https://github.com/Thlurte/aide-memoire/blob/main/LLJ3265/QA%20Session-01.md)
 
+
+### TO DO LIST
+ - [ ] **Flash Cards with Spaced Repetition**
+ - [ ] **Advanced Collaboration Tools**
