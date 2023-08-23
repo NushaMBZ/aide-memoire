@@ -1,0 +1,516 @@
+# R
+R is a programming language and free software environment primarily designed for statistical computing, data analysis, and graphical representation.
+
+## Data Types
+
+1. Logical (TRUE, FALSE or T/F) 
+2. Integer (e.g: 2L) 
+3. Numeric (Real numbers) 
+4. Complex (e.g: 1+2i, 3+0i) 
+5. Character  
+
+## Arithmetic Operations
+**Addition**
+```r
+2+5
+[1] 7
+```
+**Subtraction**
+```r
+10-7
+[1] 3
+```
+**Multiplication**
+```r
+7*6
+[1] 42
+```
+**Division**
+```r
+10/4
+[1] 2.5
+```
+**Other**
+```r
+exp(0)
+[1] 1
+log(64,8)
+[1] 2
+```
+
+## Variables
+### Variable Assignment
+
+Identifiers can be used to assign values to variables such as :
+```r
+z<-7
+
+7->z
+
+z=7
+```
+
+### Listing Declared Variables (Objects)
+```r
+ls()
+```
+
+### Deleting Variables
+```r
+rm()
+```
+
+## Objects
+
+- Vectors 
+- Matrices 
+- Arrays 
+- Lists 
+- Data frames
+
+### Vectors
+Can create vectors at the command prompt using the concatenation  function `c()`.
+
+> [!note]
+> The function takes argument and returns a vector containing these  values of the same mode.
+> 
+
+```r
+c(15,35,69,54,12,68)
+[1] 15,35,69,54,12,68
+```
+
+```r
+c("Kasun","Asanka","Nayomi","Dilan","Prasadi","Sumali","Ashani")
+[1] "Kasun"   "Asanka"   "Nayomi"  "Dilan"   "Prasadi" "Sumali"  "Ashani"  
+```
+
+**Assiging vectors to variables**
+
+```r
+MathematicsIT<-c(85,75,52,98,69,80,78)
+MathematicsIT   
+[1] 85 75 52 98 69 80 78 
+```
+
+```r
+NamesIT<c("Kasun","Asanka","Nayomi","Dilan","Prasadi","Sumali","Ashani") 
+NamesIT
+[1] "Kasun"   "Asanka"  "Nayomi"  "Dilan"   "Prasadi" "Sumali"  "Ashani" 
+```
+
+```r
+EnglishIT<-c(80,82,65,75,83,90,78)   
+EnglishIT   
+[1] 80 82 65 75 83 90 78 
+```
+
+**Arithmetic Operations on vectors**
+
+```r
+MathematicsIT+EnglishIT   
+[1] 165 157 117 173 152 170 156 
+```
+
+```r
+MathematicsIT+5   
+[1]  90  80  57 103  74  85  83 
+```
+
+```r
+FinalIT<-MathematicsIT*0.4+EnglishIT*0.6   
+FinalIT   
+[1] 82.0 79.2 59.8 84.2 77.4 86.0 78.0 
+```
+
+>[!tip]
+>Concatenate function can be used to concatenate vectors 
+
+```r
+MathematicsIT<-c(85,75,52,98,69,80,78) MathematicsIS<-c(80,78,69,82,70,85,90) 
+Mathematics<-c(MathematicsIT,MathematicsIS) 
+Mathematics 
+[1] 85 75 52 98 69 80 78 80 78 69 82 70 85 90 
+```
+
+```r
+NamesIT<-c("Kasun","Asanka","Nayomi","Dilan","Prasadi","Sumali","Ashani") 
+NamesIS<-c("A","B","C","D","E","F","G") 
+Names<-c(ITStu,ISStu) 
+Names 
+[1] "Kasun"   "Asanka"  "Nayomi"  "Dilan"   "Prasadi" "Sumali"  "Ashani"  
+[8] "A"       "B"       "C"       "D"       "E"       "F"       "G"  
+```
+
+**Using Numeric Indices**
+
+Indices in R are 1-based, meaning the first element has an index of 1.
+
+```r
+# Create a vector
+my_vector <- c(10, 20, 30, 40, 50)
+
+# Access individual elements by index
+element_1 <- my_vector[1]  # 10
+element_3 <- my_vector[3]  # 30
+```
+
+**Using a Sequence of Indices**
+```r
+# Extract a subset of elements
+subset_vector <- my_vector[c(2, 4)]  # 20, 40
+```
+
+**Using Logical Indices (Subsetting with Conditions)**
+```r
+# Create a logical condition
+condition <- my_vector > 25
+
+# Subset based on the condition
+subset_condition <- my_vector[condition]  # 30, 40, 50
+```
+
+**Using Negative Indices**
+```r
+# Exclude the first and third elements
+excluded_elements <- my_vector[-c(1, 3)]  # 20, 40, 50
+```
+
+**Vectorized Logical Indexing**
+```r
+# Create a logical vector
+logical_indices <- c(FALSE, TRUE, TRUE, FALSE, TRUE)
+
+# Subset based on logical indices
+subset_logical <- my_vector[logical_indices]  # 20, 30, 50
+```
+
+### Matrices 
+Rectangular array of numbers, symbols and expressions.
+
+The basic syntax for creating a matrix in R:   
+```r
+matrix(data, nrow, ncol, byrow, dimnames)  
+```
+
+Where, 
+- `data`: input vector which becomes the data elements of the matrix. 
+- `nrow`: number of rows to be created. 
+- `ncol`: number of columns to be created. • 
+- `byrow`: a logical clue. If TRUE then the input vector elements  are arranged by row. 
+- `dimnames`: list of names assigned to the rows and columns. 
+
+#### Matrix calculations
+- Addition 
+	- Element by element addition   A+B 
+- Subtraction 
+	- Element by element subtraction    A-B 
+- Multiplication 
+	- Element by element multiplication A*B 
+- Matrix multiplication   
+	- If A and B are two matrices   A%*%B 
+- Division 
+	- Element by element division   A/B 
+
+
+#### Matrix computations 
+- `t()`  To get the transpose of a matrix  
+- `rankMatrix()`  To get the rank of a matrix   
+- `sum(diag())`  To get the trace of a matrix
+- `det(A)`  To get the determinant of a matrix 
+- `solve(A)`  To get the inverse of a matrix A 
+
+### Arrays 
+Arrays are the R data objects which can store data in more than  two dimensions.
+
+The basic syntax for creating a array in R:   
+```r
+array(data, dim, dimnames) 
+```
+
+Where, 
+- `data`: input vector which becomes the data elements of the  matrix. 
+- `dim`: integer vector iving the number of indices of each  dimension 
+- `dimnames`: list of names assigned to the dimensions. 
+
+```r
+array(c(1,2,3,4,5,6,7,8),dim=c(2,4))        
+	  [,1] [,2] [,3] [,4] 
+[1,]    1    3    5    7 
+[2,]    2    4    6    8 
+```
+
+**Input**
+```r
+vector1<-c(1,2,3) 
+vector2<-c(4,5,6,7,8) 
+colNames<-c("Col1","Col2","Col3","Col4") 
+rowNames<-c("Row1","Row2") 
+matrixNames<-c("Mat1","Mat2") 
+arr1<-array(c(vector1,vector2), dim = c(2,4,2), dimnames = list(rowNames,colNames,matrixNames)) 
+```
+**Output**
+```r
+, , Mat1
+
+     Col1 Col2 Col3 Col4
+Row1    1    3    5    7
+Row2    2    4    6    8
+
+, , Mat2
+
+     Col1 Col2 Col3 Col4
+Row1    1    3    5    7
+Row2    2    4    6    8
+```
+
+**Using Numeric Indices**
+```r
+# Create a 2x3x3 array
+my_array <- array(1:18, dim = c(2, 3, 3))
+
+# Access individual elements by indices
+element <- my_array[1, 2, 3]  # Access element at (1, 2, 3)
+```
+
+**Using Sequences of Indices**
+```r
+# Extract a subset of elements
+subset_array <- my_array[1:2, , 2]  # Extract rows 1 and 2, all columns, and layer 2
+```
+
+**Using Logical Indices**
+```r
+# Create logical conditions for each dimension
+condition_1 <- c(TRUE, FALSE)
+condition_2 <- matrix(c(TRUE, FALSE, TRUE), nrow = 2)
+condition_3 <- c(FALSE, TRUE, FALSE)
+
+# Subset based on logical conditions
+subset_logical <- my_array[condition_1, condition_2, condition_3]
+```
+
+**Using Negative Indices**
+```r
+# Exclude the first row, second column, and third layer
+excluded_elements <- my_array[-1, ,-3]
+```
+
+**Array Slicing**
+```r
+# Slice the array
+sliced_array <- my_array[1:2, 2:3, 1:2]
+
+```
+
+**Vectorized Logical Indexing**
+```r
+# Create logical matrices
+logical_indices_1 <- matrix(c(TRUE, FALSE), nrow = 1)
+logical_indices_2 <- matrix(c(FALSE, TRUE, FALSE), nrow = 1)
+logical_indices_3 <- matrix(c(TRUE, FALSE, TRUE), nrow = 1)
+
+# Subset based on logical indices
+subset_logical_array <- my_array[logical_indices_1, logical_indices_2, logical_indices_3]
+```
+
+### Lists 
+In R, a list is a versatile data structure that can contain elements of different data types, such as vectors, matrices, data frames, other lists, or even functions.
+
+```r
+my_list <- list(name = "John", age = 30, scores = c(85, 92, 78))
+```
+#### Accessing Elements
+```r
+# Accessing elements by name
+name <- my_list$name
+age <- my_list$age
+scores <- my_list$scores
+
+# Accessing elements by position
+first_element <- my_list[[1]]
+second_element <- my_list[[2]]
+
+```
+#### Adding Element
+```r
+# Adding a new element
+my_list$new_element <- "Some value"
+
+# Adding an element using indexing
+my_list[[4]] <- "Another value"
+```
+#### Nested Lists
+```r
+# Creating a nested list
+nested_list <- list(
+  person = list(name = "Alice", age = 25),
+  scores = c(90, 88, 95)
+)
+```
+
+#### List Operations:
+
+You can perform various operations on lists:
+
+- **Length:** Get the number of elements in a list with `length(my_list)`.
+    
+- **Names:** Get the names of elements in a list with `names(my_list)`.
+    
+- **Subsetting:** Extract a subset of a list using indexing or subsetting operations.
+    
+- **Removing Elements:** Use the `NULL` value to remove elements from a list.
+    
+- **Iterating:** Loop through elements in a list using functions like `lapply()` and `sapply()`.
+
+```r
+# Removing an element
+my_list$age <- NULL
+
+# Iterating through a list
+lapply(my_list, function(x) print(x))
+```
+
+### Data Frames
+
+In R, a data frame is a two-dimensional tabular data structure that can hold data of different types, similar to a spreadsheet or a database table. Data frames are a fundamental data structure for data manipulation and analysis in R, and they are commonly used to store and work with structured data.
+
+Here are the key features and characteristics of data frames in R:
+
+1. **Tabular Structure:** Data frames have rows and columns, similar to a table in a relational database or a spreadsheet. Each row represents a single observation or record, while each column represents a variable or attribute.
+    
+2. **Heterogeneous Data:** A data frame can hold different types of data, such as numeric values, character strings, factors, dates, and more, in its various columns.
+    
+3. **Column Names:** Columns in a data frame have names, which can be used to refer to specific variables. These names are also used when accessing and manipulating the data.
+    
+4. **Observations:** Each row in a data frame represents an observation, case, or record. This could be anything from a person's information to a data point in an experiment.
+    
+5. **Data Manipulation:** R provides numerous functions and packages for data manipulation, transformation, filtering, and aggregation on data frames. The "dplyr" package is a commonly used tool for such operations.
+    
+6. **Data Analysis:** Data frames are the foundation for statistical analysis in R. You can apply statistical functions, perform hypothesis tests, and create visualizations based on the data stored in data frames.
+    
+7. **Importing and Exporting Data:** R supports various formats for importing and exporting data frames, including CSV, Excel, SQL databases, and more. This makes it easy to work with data from different sources.
+    
+8. **Indexing and Subsetting:** You can access specific rows and columns in a data frame using indexing, column names, or logical conditions.
+
+```r
+# Creating a data frame
+my_df <- data.frame(
+  Name = c("Alice", "Bob", "Carol"),
+  Age = c(25, 30, 28),
+  Score = c(90, 85, 92)
+)
+
+# Printing the data frame
+print(my_df)
+
+# Accessing specific columns
+names <- my_df$Name
+ages <- my_df$Age
+
+# Adding a new column
+my_df$Grade <- c("A", "B", "A")
+
+# Subsetting rows based on a condition
+subset_df <- my_df[my_df$Age > 25, ]
+```
+
+>[!tip]
+>The `fix()` function is used to open a data object, such as a data frame or a matrix, in an interactive spreadsheet-like editor.
+
+### Regular sequences 
+
+#### seq()
+In R, a regular sequence is a sequence of numbers that follow a consistent pattern with a defined start, end, and interval.
+
+The `seq()` and `seq.int()` functions are often used to create regular sequences in R:
+
+1. **Using `seq()` Function:**
+
+	The `seq()` function generates a sequence of numbers with a specified start, end, and interval.
+
+```r
+# Generate a sequence from 1 to 10 with an interval of 1
+sequence_1 <- seq(from = 1, to = 10, by = 1)
+print(sequence_1)
+
+# Generate a sequence from 0 to 1 with 0.2 interval
+sequence_2 <- seq(from = 0, to = 1, by = 0.2)
+print(sequence_2)
+```
+
+2. **Using `seq.int()` Function:**
+
+	The `seq.int()` function generates a sequence of integers with a specified start, end, and interval.
+	
+```r
+# Generate a sequence of integers from 5 to 20 with an interval of 3
+int_sequence <- seq.int(from = 5, to = 20, by = 3)
+print(int_sequence)
+```
+
+3. **Shortcut Notation:**
+
+	R also supports a shorter notation for generating regular sequences using the colon `:` operator. This is commonly used when creating sequences with an interval of 1.
+
+```r
+# Generate a sequence from 1 to 5 using the colon operator
+short_sequence <- 1:5
+print(short_sequence)
+```
+
+Regular sequences can be used in various contexts, including:
+
+- **Loop Iteration:** When you want to repeat a process a specific number of times or iterate through a sequence of indices.
+    
+- **Generating Data Points:** When you need a set of data points for plotting graphs or generating data for simulations.
+    
+- **Vector Indexing:** To access specific elements in a vector using a sequence of indices.
+    
+- **Time Series Generation:** When working with time series data, you might generate regular sequences of dates or timestamps.
+
+
+#### rep()
+
+The `rep()` function is used to replicate or repeat values, vectors, or other objects a specified number of times.
+
+The basic syntax of the `rep()` function is as follows:
+```r
+rep(x, times, each)
+
+```
+
+- `x`: The object or value you want to replicate.
+- `times`: The number of times you want to replicate the entire object.
+- `each`: The number of times you want to replicate each element within the object. This argument is optional.
+
+```r
+# Replicating a single value
+repeated_value <- rep(5, times = 3)
+print(repeated_value)  # Outputs: 5 5 5
+
+# Replicating a vector
+original_vector <- c(1, 2, 3)
+repeated_vector <- rep(original_vector, times = 2)
+print(repeated_vector)  # Outputs: 1 2 3 1 2 3
+
+# Replicating each element in a vector
+repeated_each <- rep(original_vector, each = 2)
+print(repeated_each)  # Outputs: 1 1 2 2 3 3
+
+# Replicating a matrix
+original_matrix <- matrix(1:6, nrow = 2)
+repeated_matrix <- rep(original_matrix, times = 2)
+print(repeated_matrix)
+# Outputs:
+#      [,1] [,2]
+# [1,]    1    3
+# [2,]    2    4
+# [3,]    1    3
+# [4,]    2    4
+
+# Replicating using both 'times' and 'each'
+repeated_both <- rep(original_vector, times = 2, each = 2)
+print(repeated_both)  # Outputs: 1 1 2 2 3 3 1 1 2 2 3 3
+```
+
