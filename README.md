@@ -9,6 +9,7 @@ Here, we record topics related to the courses we follow, these discussions are m
 - **Search and filter**
 - **LaTex support**
 
+## Table of Content
 ### Notes
 - AGM4367 | **Economics and Marketing for Engineers** 
 	- [N Unit-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-01.md)
@@ -33,7 +34,9 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [N Session-06](https://github.com/Thlurte/aide-memoire/blob/main/LLJ3265/N%20Session-06.md)
 	- [N Session-07](https://github.com/Thlurte/aide-memoire/blob/main/LLJ3265/N%20Session-07.md)
 	- [N Session-08](https://github.com/Thlurte/aide-memoire/blob/main/LLJ3265/N%20Session-08.md)
-
+- EEX4373 | Data Science
+	- [N Session-02](https://github.com/Thlurte/aide-memoire/blob/main/EEX4373/N%20Session-02.md)
+	- [N Session-06](https://github.com/Thlurte/aide-memoire/blob/main/EEX4373/N%20Session-06.md)
 ### Quizzes
 - EEX4373 | **Data Science**
 	- [QA Session-01](https://github.com/Thlurte/aide-memoire/blob/main/EEX4373/QA%20Session-01.md)
@@ -47,6 +50,10 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [Q Unit-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/Q%20Unit-01.md)
 	- [QA Session-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/QA%20Session-01.md)
 
-### Upcoming Features 
+### Practical
+- EEX4373 | Data Science
+	- [P Session-01](https://github.com/Thlurte/aide-memoire/blob/main/EEX4373/P%20Session-01.md)
+	- [P Session-02](https://github.com/Thlurte/aide-memoire/blob/main/EEX4373/P%20Session-02.md)
+## Upcoming Features 
  - [ ] **Spaced repetition with flashcards**
  - [ ] **Advanced collaboration tools**
