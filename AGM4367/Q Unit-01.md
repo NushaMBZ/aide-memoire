@@ -118,4 +118,4 @@
 55. How is the Total Cost (TC) calculated in relation to Fixed Costs (FC) and Variable Costs (VC)?
     
 56. <mark style="background: #FF5582A6;">Provide the equations for Average Fixed Cost, Average Variable Cost, Average Total Cost, and Marginal Cost.</mark>
-57. 
+57. what is Economic Policy?
