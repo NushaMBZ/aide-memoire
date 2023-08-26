@@ -7,27 +7,56 @@ Design patterns are <mark style="background: #ABF7F7A6;">reusable and proven sol
 2. **Problem**: A <mark style="background: #FFF3A3A6;">description of the design problem</mark> or scenario that the pattern addresses. 
     
 3. **Solution**: The actual <mark style="background: #FFF3A3A6;">design solution</mark> that addresses the problem.
-    
-4. **Intent**: The <mark style="background: #FFF3A3A6;">high-level purpose</mark> and goal of the pattern.
-    
-5. **Motivation**: A more <mark style="background: #FFF3A3A6;">detailed explanation</mark> of why the pattern is beneficial, including the trade-offs and advantages it offers compared to alternative approaches.
-    
-6. **Applicability**: The <mark style="background: #FFF3A3A6;">scenarios or conditions under which the pattern is applicable</mark> and useful. 
-    
-7. **Structure**: A <mark style="background: #FFF3A3A6;">visual representation of the key classes, objects, and relationships involved in the pattern.</mark>
-    
-8. **Participants**: A <mark style="background: #FFF3A3A6;">list of the classes and objects</mark> that play roles within the pattern, along with their responsibilities and interactions.
-    
-9. **Collaborations**: A description of how the <mark style="background: #FFF3A3A6;">participants collaborate and interact</mark> to implement the pattern.
-    
-10. **Consequences**: The <mark style="background: #FFF3A3A6;">results and implications of using the pattern.</mark>
-    
-11. **Implementation**: <mark style="background: #FFF3A3A6;">Guidelines and considerations for implementing the pattern</mark> in actual code. 
-    
-12. **Known Uses**: Examples of real-world scenarios or systems where the pattern has been successfully applied. 
-    
-13. **Related Patterns**: Links to other design patterns that are related to or often used in conjunction with the current pattern. 
+	   
+4. **Consequences and trade-offs of application**: Consequences are the outcomes or effects that result from applying a design pattern to your software design. Trade-offs are the compromises you make when choosing a particular design pattern.
+## Design Patterns Templates
+### Intent
 
+A brief statement describing <mark style="background: #FFF3A3A6;">the purpose and goal of the design pattern.</mark>
+
+### Motivation
+
+Explain the problem or scenario the design pattern aims to address. Discuss the context and conditions under which the pattern becomes relevant.
+
+### Applicability
+
+Describe the situations where the design pattern is most appropriate. This includes scenarios where the pattern can be effectively used to improve the design, structure, or behavior of the software.
+
+### Structure
+
+Provide an overview of the components and relationships involved in the design pattern. You can use diagrams or textual descriptions to illustrate the structure.
+
+### Participants
+
+List the key elements or classes involved in the pattern and explain their roles.
+
+### Collaborations
+
+Explain how the participants interact and collaborate to achieve the pattern's goals.
+
+### Consequences
+
+Outline the positive and negative effects of applying the design pattern. This includes the benefits gained, as well as any trade-offs or drawbacks that need to be considered.
+
+### Implementation
+
+Provide guidance on how to implement the design pattern in code. This can include code snippets, code structures, and best practices for integrating the pattern into your software.
+
+### Sample Code (Optional)
+
+If appropriate, provide a complete or partial code example to showcase how the pattern can be implemented in a real-world scenario.
+
+### Known Uses (Optional)
+
+Highlight any well-known software systems or projects that utilize this design pattern.
+
+### Related Patterns
+
+Discuss any relationships between the current design pattern and other design patterns. This could include variations, alternatives, or complementary patterns.
+
+### References
+
+List any sources, books, articles, or online resources where readers can find more information about the design pattern.
 ## Classification of Design Patterns
 - **Creational Patterns**: Creational patterns deal with the process of <mark style="background: #FF5582A6;">object creation.</mark> They provide ways to instantiate objects while hiding the exact logic of how objects are created and initialized.
 - **Structural Patterns**: Structural patterns focus on the <mark style="background: #FF5582A6;">composition of classes and objects, helping to form larger structures</mark> while keeping the system flexible and efficient.
