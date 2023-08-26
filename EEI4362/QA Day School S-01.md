@@ -1,8 +1,3 @@
----
-mode: fleeting
----
-**Source** : **[[20230705223630.pdf|DS-01]]**
-
 Discuss the _fundamental principles of object-oriented programming_ and how they relate to real-world concepts.
 
 * OOP emphazises that the object as we methapohorize or translate into code from real life should have four characteristics, such as ==encapsulation, polymorphism, inheritence and abstraction==. These characteristics help organize and reduce the complexity of code as it gets larger and larger.
