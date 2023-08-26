@@ -73,3 +73,4 @@ The Strategy Pattern defines a <mark style="background: #FF5582A6;">family of in
 #### Iterator Pattern 
 The Iterator Pattern provides a way to <mark style="background: #FF5582A6;">access elements of a collection without exposing its underlying representation.</mark>
 
+hello
