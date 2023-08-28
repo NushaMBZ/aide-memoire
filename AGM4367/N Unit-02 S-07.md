@@ -14,7 +14,7 @@ The *difference* between the <mark style="background: #FFF3A3A6;">amount a selle
 ![[Pasted image 20230817175800.png]]
 
 ## Market Efficiency
-In a free market, demand and supply mechanism or the market mechanism decides the  market equilibrium. In other words, resource allocation is determined by the market  mechanism.
+Market efficiency refers to the <mark style="background: #FFF3A3A6;">effectiveness with which resources are allocated in a market to maximize overall economic welfare.</mark>
 
 > [!note]
 > 𝐶𝑜𝑛𝑠𝑢𝑚𝑒𝑟 𝑠𝑢𝑟𝑝𝑙𝑢𝑠 = 𝑣𝑎𝑙𝑢𝑒 𝑡𝑜 𝑐𝑜𝑛𝑠𝑢𝑚𝑒𝑟𝑠 − 𝑣𝑎𝑙𝑢𝑒 𝑝𝑎𝑖𝑑 𝑏𝑦 𝑡ℎ𝑒 𝑐𝑜𝑛𝑠𝑢𝑚𝑒𝑟𝑠 
@@ -38,7 +38,6 @@ Negative economic effects and efficiency losses that taxes can impose on an econ
 ![[Pasted image 20230817153919.png]]
 
 ![[Pasted image 20230817154143.png]]
-
 ![[Pasted image 20230817153949.png]]
 
 
