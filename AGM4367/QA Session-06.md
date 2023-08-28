@@ -19,11 +19,11 @@ $$
 Short-run price elasticity of demand = 0.3 
 Long-run price elasticity of demand = 0.8
 
-For the short run:
+**For the short run:**
 
 Percentage Change in Quantity Demanded (Short Run) = 0.3 * 40% = 12%
 
-For the long run:
+**For the long run:**
 
 Percentage Change in Quantity Demanded (Long Run) = 0.8 * 40% = 32%
 
