@@ -47,4 +47,7 @@ Negative economic effects and efficiency losses that taxes can impose on an econ
 
 This is when the allocation of goods and services by a free market is inefficient and results in outcomes that are not optimal for society.
 
+# Dead weight loss
+
+A deadweight loss is **a cost to society created by market inefficiency, which occurs when supply and demand are out of equilibrium**.
 
