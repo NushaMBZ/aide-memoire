@@ -1,11 +1,11 @@
 # Elasticity of Demand and Supply  
 
+>[!Note]
 >Tabular representation of quantity demanded at each price is called the ‘demand  schedule’ and its graphical representation which is usually a downward sloping line  relating price and quantity is called the ‘demand curve’. 
 
 
 ## Market Equilibrium
 Market equilibrium refers to the <mark style="background: #FF5582A6;">state in which the quantity of a particular good or service demanded by buyers is equal to the quantity supplied by producers or sellers</mark> in a given market. 
-
 
 ## Market Forces of Demand  
 
@@ -14,7 +14,7 @@ Change in the quantity of a good or service that consumers are willing and able 
 ![[Pasted image 20230816123427.png]]
 
 ### Demand Shifters
-Demand determinants or factors affecting demand, are <mark style="background: #FFF3A3A6;">variables that influence the quantity of a good or service that consumers are willing and able to purchase at different price levels. </mark>
+Demand determinants or factors affecting demand, are <mark style="background: #FFF3A3A6;">variables that influence the quantity of a good or service demanded (that consumers are willing and able to purchase) at different price levels. </mark>
 
 #### Types of Demand Shifters
 - Income: <mark style="background: #FFF3A3A6;">Changes in consumers' income levels</mark> can affect their purchasing power.
@@ -25,9 +25,9 @@ Demand determinants or factors affecting demand, are <mark style="background: #F
 - Government policies and regulations: Changes in <mark style="background: #FFF3A3A6;">government policies, such as taxes, subsidies, and regulations, can influence demand.</mark>
 - **Population and demographics**: An <mark style="background: #FFF3A3A6;">increase in population can lead to an increase in demand</mark> for certain goods and services, particularly if the new population has a demand for those specific products.
 
-
 ## Market Forces of Supply  
 
+>[!Note]
 >The tabular representation of price and quantity supplied is called the supply schedule.  Graphical representation of the relationship between price and the quantity supplied  while other influencing factors are kept constant is called the supply curve. 
 
 ### Shift in Supply
@@ -55,9 +55,10 @@ When both the demand and supply curves shift simultaneously, the equilibrium pri
 ## Measuring the Magnitude of Change
 
 ### Elasticity
-This is a quantitative tool which measures ‘how much’ the response of buyers and sellers for a change is. Elasticity values provide us both the direction and the magnitude of a change.
+This is a quantitative tool which measures <mark style="background: #FFF3A3A6;">‘how much’ the response of buyers and sellers for a change is.</mark> Elasticity values provide us both the direction and the magnitude of a change.
 
-> Elasticity is defined as the percentage change in quantity supplied or percentage change in quantity demanded in response to a percentage change in one of its determinants.
+> [!note]
+>  Elasticity is defined as the percentage change in quantity supplied or percentage change in quantity demanded in response to a percentage change in one of its determinants.
 
 ![[Pasted image 20230816124131.png]]
 
@@ -87,6 +88,9 @@ The elasticities can be different along a demand curve. To get a consistent valu
 
 $$
 \text{mid - point price elasticity of demand}=(\frac{(Q_2-Q_1)/(\frac{Q_2+Q_1}{2})}{(P_2-P_1)/(\frac{P_2+P_1}{2})})
+$$
+$$
+\text{Percentage Change = }((\text{New Value - Old Value}) / ((\text{New Value + Old Value}) / 2)) * 100%
 $$
 #### Different types of demand curves
 Demand curves are categorised according to their elasticities. When the elasticity is greater than 1, the demand is elastic, when it is less than 1, the demand is inelastic.

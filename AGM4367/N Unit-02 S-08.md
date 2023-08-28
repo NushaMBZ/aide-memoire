@@ -23,7 +23,7 @@ The effects of a price ceiling can be summarized as follows:
 **Welfare effect of a price ceiling**: 
 The welfare effect of a price ceiling is a measure of the economic efficiency of a price ceiling. It is calculated by <mark style="background: #ABF7F7A6;">comparing the total surplus in the market with and without the price ceiling.</mark>
 
-The welfare effect of a price ceiling is negative, as it leads to a decrease in total surplus. The decrease in total surplus is the result of the decrease in consumer surplus, which is larger than the decrease in producer surplus.
+The <mark style="background: #FF5582A6;">welfare effect of a price ceiling is negative</mark>, as it leads to a decrease in total surplus. The decrease in total surplus is the result of the decrease in consumer surplus, which is larger than the decrease in producer surplus.
 
 ![[Pasted image 20230821221541.png]]
 

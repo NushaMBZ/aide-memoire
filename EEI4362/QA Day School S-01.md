@@ -39,7 +39,7 @@ Describe the role of polymorphism in object-oriented programming and provide exa
  
 Discuss the concept of abstraction in object-oriented programming and its significance in simplifying complex systems.
 
-* This involves **simplifying complex systems by focusing on essential features while hiding unnecessary details.**
+* This involves **<mark style="background: #FF5582A6;">simplifying complex systems by focusing on essential features while hiding unnecessary details.</mark>**
 * This is achieved through the creation of abstract classes or interfaces.
     * An abstract class defines common attributes and behaviors that are shared by a group of related objects. It serves as a blueprint for creating concrete subclasses that provide specific implementations.
         * An abstract class **cannot be instantiated**.
