@@ -56,8 +56,7 @@ A **price floor** is a <mark style="background: #ABF7F7A6;">legal minimum price 
 - Distort market signals: Price controls can distort market signals, making it difficult for producers to make informed decisions about how much to produce and how much to charge. 
 
 ## Taxes
-Taxes are compulsory levies on consumers or producers by a governmental organization in order to fund government spending and various public services. Taxes can be imposed on income, property, goods and services, and other activities.
-
+Taxes are <mark style="background: #ABF7F7A6;">compulsory levies on consumers or producers by a governmental organization in order to fund government spending and various public services.</mark> 
 
 **Tax on Sellers**
 This is a tax that is <mark style="background: #FFF3A3A6;">imposed on the producers of a good or service</mark>. The tax is usually levied per unit of output produced. The tax burden is shared by both consumers and producers, but the exact share depends on the elasticity of supply and demand.
@@ -86,7 +85,7 @@ The following are the effects of a tax on buyers:
 - Deadweight loss: The tax will create a deadweight loss, which is the loss of economic efficiency due to the tax.
 
 ## Tax Incidence
-Tax incidence refers to who ultimately bears the burden of a tax. The tax incidence may not be the same as the person who is legally liable to pay the tax.
+Tax incidence refers to <mark style="background: #ABF7F7A6;">who ultimately bears the burden of a tax.</mark> The tax incidence may not be the same as the person who is legally liable to pay the tax.
 
 The tax incidence will depend on the elasticity of demand and supply. Elasticity measures how responsive the quantity demanded or supplied is to a change in price. If demand is inelastic, consumers are less likely to change their consumption in response to a price change. This means that the burden of the tax will fall more heavily on consumers. If supply is elastic, producers are more likely to change their production in response to a price change. This means that the burden of the tax will fall more heavily on producers.
 
@@ -99,11 +98,11 @@ The tax incidence will depend on the elasticity of demand and supply. Elasticity
 
 ![[Pasted image 20230821225710.png]]
 **Welfare effect of a tax**
-The welfare effect of a tax is the <mark style="background: #ABF7F7A6;">change in economic well-being that results from the imposition of the tax.</mark> The welfare effect can be measured by the loss of consumer surplus and producer surplus.
+The welfare effect of a tax is the <mark style="background: #ABF7F7A6;">change in economic well-being that results from the imposition of the tax.</mark> The welfare effect of tax can be measured by <mark style="background: #ABF7F7A6;">the loss of consumer surplus and producer surplus.</mark>
 
 The total welfare loss from the tax is the sum of the decrease in consumer surplus and the decrease in producer surplus. This loss is called the deadweight loss. The deadweight loss is a measure of the inefficiency that results from the tax.
 
-The deadweight loss from a tax is larger when the elasticity of demand and supply are higher. Elasticity measures how responsive the quantity demanded or supplied is to a change in price. If demand or supply is more elastic, the consumers or producers are more likely to change their behavior in response to the tax. This leads to a larger deadweight loss.
+The deadweight loss from a tax is larger when the elasticity of demand and supply are higher. If demand or supply is more elastic, the consumers or producers are more likely to change their behavior in response to the tax. This leads to a larger deadweight loss.
 
 |Elasticity|Deadweight loss|
 |---|---|

@@ -1,11 +1,11 @@
 # Fundamental Rights
 
-The Preamble of the Constitution, states that the people of Sri  Lanka have been assured, “Freedom, Equality, Justice, Fundamental Human  Rights and Independence of the Judiciary” as the intangible heritage that  guarantees the dignity and well -being of succeeding generations of the  People of Sri Lanka.
+The <mark style="background: #ABF7F7A6;">Preamble of the Constitution</mark>, states that the people of Sri  Lanka have been assured, “Freedom, Equality, Justice, Fundamental Human  Rights and Independence of the Judiciary” as the intangible heritage that  guarantees the dignity and well -being of succeeding generations of the  People of Sri Lanka.
 
 > Chapter III of the Second Republican Constitution of  1978 enunciates the fundamental rights of the people in Sri Lanka.
 
 
-The 19th Amendment to the Constitution  passed in 2015 has introduced the right to information as a fundamental  right of the country.
+The 19th Amendment to the Constitution  passed in 2015 has introduced the <mark style="background: #ABF7F7A6;">right to information as a fundamental  right</mark> of the country.
 
 | Article | Description                                                                                                                                                                   |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,6 +49,7 @@ Article 12, 13(1), 13(2) and 14 embody fundamental rights which operate  subject
 
 > [!Article 15(7) is as follows:]
 >   “The exercise and operation of all the fundamental rights declared and  recognized by Articles 12, 13(1), 13(2) and 14 shall be subject to such  restrictions as may be prescribed by law in the interest of National  Security, public order and the protection of public health or morality or the  purpose of securing due recognition and respect for the rights and freedom  of others or of meeting the just requirements of the general welfare of a  democratic society. For the purpose of this paragraph law includes  regulations made under the law for the time being relation to public  security”  
+
 
 Article 15(8) provides that the exercise and operation of the fundamental  rights declared and recognized by Article 12(1), 13 and 14 shall in their  application to the members of the Armed Forces, Police Force and other  forces charged with the maintenance of public order, be <mark style="background: #FF5582A6;">subject to such  restriction as may be prescribed by law</mark> in the interest of the proper  discharge of their duties and the maintenance of discipline among them.
 

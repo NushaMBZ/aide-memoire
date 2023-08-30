@@ -23,7 +23,6 @@ A production process involves activities that influence the wellbeing of bystand
 
 - **Pollution:** When a factory pollutes the air or water, it harms the health of people who live nearby. It can also damage ecosystems and reduce property values.
 - **Noise pollution:** When a noisy factory or airport is located near homes or businesses, it can make it difficult for people to sleep, concentrate, and enjoy their lives.
-- **Traffic congestion:** When there is too much traffic on the roads, it can lead to delays, pollution, and accidents.
 - **Land use:** When a factory or other development takes up land, it can prevent others from using that land for other purposes, such as agriculture or recreation.
 - **Resource depletion:** When a company depletes a natural resource, such as oil or water, it can harm future generations who will need to rely on that resource.
 

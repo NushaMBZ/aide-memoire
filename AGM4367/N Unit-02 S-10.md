@@ -31,11 +31,10 @@ There are a number of ways to regulate monopolies, including:
 
 ## How monopolies make production and pricing decisions?  
 
-Monopolies are price makers, They can control the price of their product. As a result, monopolies can choose to produce any quantity of output that they want. However, they will always choose to produce the quantity of output where marginal revenue equals marginal cost.
+Monopolies are<mark style="background: #FFF3A3A6;"> price makers</mark>, They can control the price of their product. As a result, monopolies can choose to produce any quantity of output that they want. However, they will always choose to produce the quantity of output where <mark style="background: #FF5582A6;">marginal revenue equals marginal cost.
+</mark>
 
-The marginal revenue of a monopoly is the additional revenue that the monopoly earns by selling one more unit of output. The marginal cost of a monopoly is the additional cost that the monopoly incurs by producing one more unit of output.
-
-The monopoly will produce the quantity of output where marginal revenue equals marginal cost. This is the quantity of output that maximizes the monopoly's profits.
+The marginal revenue of a monopoly is the additional revenue that the monopoly earns by selling one more unit of output. The marginal cost of a monopoly is the additional cost that the monopoly incurs by producing one more unit of output. 
 
 The price that the monopoly charges will be determined by the demand curve for the product. The demand curve shows the quantity of output that consumers are willing to buy at each price. The monopoly will charge the highest price that consumers are willing to pay for the quantity of output that it is producing.
 
@@ -90,7 +89,7 @@ The deadweight loss is the sum of the loss of consumer surplus and the loss of p
 In a monopoly, the monopoly will produce the quantity of output where marginal revenue equals marginal cost. Marginal revenue is the additional revenue that the monopoly earns by selling one more unit of output. Marginal cost is the additional cost that the monopoly incurs by producing one more unit of output.
 
 ## Price discrimination
-Price discrimination is a strategy that a monopolist can use to increase its profits. Price discrimination involves charging different prices to different consumers, even though the cost of producing the good or service is the same. This can be done by grouping consumers based on their willingness to pay, their location, or other factors.
+Price discrimination is a <mark style="background: #FF5582A6;">strategy that a monopolist can use to increase its profits. </mark>Price discrimination involves <mark style="background: #FF5582A6;">charging different prices to different consumers, even though the cost of producing the good or service is the same.</mark> This can be done by grouping consumers based on their willingness to pay, their location, or other factors.
 
 In the context of a monopoly, price discrimination can be used to increase the monopolist's profits by charging a higher price to consumers who are willing to pay more and a lower price to consumers who are willing to pay less. This can be done by charging different prices for different products, different prices for different quantities of the same product, or different prices for different groups of consumers.
 

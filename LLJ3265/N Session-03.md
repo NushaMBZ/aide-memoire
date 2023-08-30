@@ -87,7 +87,6 @@ This is to hear cases involving <mark style="background: #FFF3A3A6;">commercial 
 The permanent High Court consisting of three Judges sitting together to hear  and determine cases relating to a <mark style="background: #FFF3A3A6;">number of financial fraud, corruption and  economic offences.</mark>
 
 ## District Court
-
 District Court has unlimited original jurisdiction in respect to the following :
 - In all <mark style="background: #ABF7F7A6;">civil</mark> matters  
 - <mark style="background: #ABF7F7A6;">Revenue</mark> matters  

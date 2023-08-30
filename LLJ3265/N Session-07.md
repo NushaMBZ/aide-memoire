@@ -1,6 +1,6 @@
 # Introduction to Criminal Law
 
-The body of law relating to crime  and punishment is criminal law, it enforces and regulates social conduct, to prohibiting threats, harm or other elements that endangers the  health, safety and moral welfare of people within a jurisdiction.
+The body of law relating to crime  and punishment is criminal law, it <mark style="background: #ABF7F7A6;">enforces and regulates social conduct, to prohibiting threats, harm or other elements that endangers the  health, safety and moral welfare of people within a jurisdiction.</mark>
 
 ## Aims and Objectives
 

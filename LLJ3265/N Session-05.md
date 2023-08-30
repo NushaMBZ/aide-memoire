@@ -15,12 +15,11 @@ The present constitution sets out the framework for the governance of a country.
 - the Power to carry out those laws; and  (executive)
 - the power to decide whether those laws have been obeyed or  broken (judiciary)
 
-These powers are known respectively as, legislative, executive and judicial.
-
 The Constitutions of modern  democracies, recognizing this doctrine of separation of Powers, <mark style="background: #ADCCFFA6;">establish  different institutions to exercise the three Powers</mark>: The **legislature** to *make  laws*, the **executive** to *administer them* and the **Courts** to *adjudicate* upon  them.
 
 The doctrine is useful in stating the need for  different organs to perform the different functions, but these organs and  functions do, and must, interrelate to some extent. They cannot operate in  isolation.
 
+> [!note]
 > the doctrine of separation of powers is indeed one of  fundamental importance in modern governments, even though it might not  be possible to adhere to it rigidly in the world of practical politics, and even  though no constitution can ensure a complete insulation of each of the three  branches of government from the others.
 
 ## Rule of Law
@@ -33,7 +32,7 @@ Based on Dicey's definition rule of law could be defined in the following terms.
 
 **Article 27(2) of the Constitution**
 
-> Not only that with us No man is above the law, but that  everyman, whatever be his rank or condition is subject to the  ordinary law of the realm and amenable to the jurisdiction of the  ordinary tribunals
+> Not only that with us No man is above the law, but that  everyman, whatever be his rank or condition is subject to the  ordinary law of the realm and amenable to the jurisdiction of the  ordinary tribunals.
 
 **Article  13(5) and Article 105(1) of the Constitution.**
 
@@ -70,8 +69,8 @@ Legal connotation of the  concept is contained in the following eight propositio
 - There are no Procedural limitations to the powers of Parliament.
 
 **Limitations to Parliamentary Supremacy**
-- The legal concept of parliamentary supremacy exists, practical limitations do exist in practice.
-- Sir Ivor Jennings suggested that parliamentary supremacy might be a legal fiction due to these practical limitations.
+- The legal concept of parliamentary supremacy exists, <mark style="background: #FFF3A3A6;">practical limitations</mark> do exist in practice.
+- Sir Ivor Jennings suggested that parliamentary supremacy <mark style="background: #FFF3A3A6;">might be a legal fiction</mark> due to these <mark style="background: #ABF7F7A6;">practical limitations.</mark>
 
 **Comparing British Parliament and Ceylon Parliament**
 - *British Parliament's powers have historically grown* over time, while *Ceylon Parliament's powers were defined by a written constitution.*
@@ -119,7 +118,7 @@ The Sri Lankan Constitution is the supreme law of the country which has had vari
 - The first Sri Lankan Constitution was adopted in 1972, marking the country's complete break from British allegiance.
 - The 1972 Constitution was replaced by the 1978 Constitution, both referred to as "autochthonous" or "home grown" as they were created solely by elected representatives of Sri Lanka.
 **Preamble and Fundamental Principles**
-- The preamble of the Constitution outlines the foundational principles of freedom, equality, justice, human rights, and the independence of the judiciary.
+- The <mark style="background: #ABF7F7A6;">preamble of the Constitution</mark> outlines the foundational principles of freedom, equality, justice, human rights, and the independence of the judiciary.
 - Chapter I of the Constitution covers general provisions about the people, the state, and sovereignty.
 - Article 3 defines the five principal components of sovereignty, including legislative, executive, and judicial powers, fundamental rights, and the franchise.
 

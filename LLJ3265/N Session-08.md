@@ -3,7 +3,7 @@ A contract is a <mark style="background: #ABF7F7A6;">legally binding agreement b
 
 Contracts can cover a wide range of transactions, from business agreements to personal arrangements.
 
-For a contract to be valid, it typically requires several key elements, including an offer by one party, acceptance by another party, consideration (something of value exchanged between the parties), legal capacity of the parties to enter into the contract, and a mutual intent to create legal obligations.
+For a <mark style="background: #FF5582A6;">contract to be valid</mark>, it typically requires several key elements, including <mark style="background: #ABF7F7A6;">an offer by <mark style="background: #ABF7F7A6;">one party, acceptance by another party, consideration</mark></mark> (something of value exchanged between the parties), legal capacity of the parties to enter into the contract, and a mutual intent to create legal obligations.
 
 The requirements for the formation of a legally valid contract are,
 - Minimum two parties with contractual capacity  
@@ -34,8 +34,8 @@ Before the introduction of Married Women’s property Ordinance in 1923, a  marr
 
 ## Agreement between parties by way of offer and  acceptance  
 
-An offer is a unilateral and a definite promise given by one person to  another person. It must be accepted by the person to whom it is directed.  It can be a specific general offer.  
-- Specific offer –If the promise addressed or directed to a class or a  person it is treated as specific offer  
+An offer is a <mark style="background: #ABF7F7A6;">unilateral and a definite promise given by one person to  another person. </mark>It must be accepted by the person to whom it is directed.  It can be a specific general offer.  
+- Specific offer –If the promise <mark style="background: #ABF7F7A6;">addressed or directed to a class or a  person it is treated as specific offer </mark> 
 
 **Boulton vs Jones [1857] 2 H & N 564, 27 LJ Ex 117**
 
@@ -55,13 +55,13 @@ For an offer to be considered valid in the context of contract law, it must fulf
 - It must be seriously intended  
 
 **Clear Intention**
-This means that the offer should specially indicate what is going to be done  and to whom it is referred.
-
+This means that the <mark style="background: #FFF3A3A6;">offer should specially indicate what is going to be done  and to whom it is referred.
+</mark>
 **Definiteness**
-The offer must be definite. This means that the offer must not be framed  vaguely.
+The offer must be definite. This means that the <mark style="background: #ABF7F7A6;">offer must not be framed  vaguely.</mark>
 
 **Serious Intention**
-This means that the offer should be seriously intended. Therefore, a  statement made as a joke does not constitute an offer.
+This means that the offer should be seriously intended. Therefore, a  <mark style="background: #ABF7F7A6;">statement made as a joke does not constitute an offer.</mark>
 
 ## Why offer is different from an Invitation to treat?
 Offer and Invitation to offer or invitation to treat is two different topics.  Offer can be accepted and once it is accepted it is a legally binding contract.  

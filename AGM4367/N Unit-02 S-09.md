@@ -1,10 +1,10 @@
 # Perfect Competition
 ## Competitive Market
-A competitive market is a market structure where there are many buyers and sellers of a homogeneous product. This means that the products sold by different firms are identical, and buyers have perfect information about the prices offered by all firms.
+A competitive market is a market structure where <mark style="background: #ABF7F7A6;">there are many buyers and sellers of a homogeneous product.</mark> This means that the products sold by different firms are identical, and buyers have perfect information about the prices offered by all firms.
 
-In a competitive market, no individual buyer or seller has any control over the market price. The price is determined by the interaction of supply and demand in the market as a whole.
+In a competitive market, <mark style="background: #FFF3A3A6;">no individual buyer or seller has any control over the market price.</mark> The price is determined by the interaction of supply and demand in the market as a whole.
 
-As a result, firms in competitive markets are price takers. They must accept the market price and cannot charge more or less for their products.
+As a result, <mark style="background: #FF5582A6;">firms in competitive markets are price takers.</mark> They must accept the market price and cannot charge more or less for their products.
 
 Here are the characteristics of a competitive market:
 
@@ -14,21 +14,11 @@ Here are the characteristics of a competitive market:
 - **Perfect information.** Buyers and sellers in a perfectly competitive market have perfect information about the prices offered by all firms. This means that buyers know the best price they can get for a product, and sellers know the best price they can charge for a product.
 
 ## Revenue of a Competitive Firm
-This is the total amount of money the firm earns by selling its output. In a perfectly competitive market, the <mark style="background: #FFF3A3A6;">revenue of a firm is equal to the market price of the product multiplied by the quantity of output sold.</mark>
-
-The total revenue of a firm is equal to the price times the quantity sold. This can be expressed mathematically as: 
+This is the total amount of money the firm earns by selling its output. In a *perfectly competitive market*, the <mark style="background: #FFF3A3A6;">revenue of a firm is equal to the market price of the product multiplied by the quantity of output sold.</mark> This can be expressed mathematically as: 
 $$
-\[TR = P \cdot Q\]
+TR = P \cdot Q
 $$
-The average revenue (AR) of a firm is equal to the total revenue (TR) divided by the quantity of output sold. This can be expressed mathematically as:
-$$
-\[AR = \dfrac{TR}{Q}\]
-$$
-The marginal revenue (MR) of a firm is the change in total revenue from selling one additional unit of output. This can be expressed mathematically as:
-$$
-\[MR = \dfrac{dTR}{dQ}\]
-$$
-In a perfectly competitive market, the average revenue and marginal revenue of the firm are equal to the market price. This is because the firm can sell all of the additional output it produces at the same price.
+In a perfectly competitive market, <mark style="background: #FF5582A6;">the average revenue and marginal revenu</mark>e of the firm are equal to the market price. 
 
 To show this, we can substitute the expression for total revenue into the expression for average revenue:
 $$
@@ -56,7 +46,7 @@ Let $TR$ be the total revenue, $TC$ be the total cost, $MR$ be the marginal reve
 $$
 \text{Profit} = TR - TC
 $$
-The firm can maximize its profit by setting $MR = MC$. This is because when $MR = MC$, the firm is making the most money possible from each additional unit of output produced. If $MR > MC$, the firm can make more money by producing more output. If $MR < MC$, the firm can make more money by producing less output.
+The firm can <mark style="background: #FF5582A6;">maximize its profit by setting MR = MC.</mark> This is because when $MR = MC$, the firm is making the most money possible from each additional unit of output produced. If $MR > MC$, the firm can make more money by producing more output. If $MR < MC$, the firm can make more money by producing less output.
 $$
 \begin{align*}
 MR &= \dfrac{dTR}{dQ} \\
@@ -80,12 +70,12 @@ A supply curve in a competitive market is a graphical representation of the rela
 This figure shows the relationship between costs and revenue with the quantity of output.  Marginal Cost (MC) curve is upward sloping, Average Total Cost (ATC) curve is ‘U’  shaped and Average Variable Cost (AVC) curve is below the AVC curve.  AVC curve is  first declining and after a minimum it is increasing. The price line is horizontal which  represents the Marginal Revenue (MR) and Average Revenue (AR) considering the fact  that in a competitive market, MR=MC=P (equation 9) at the profit maximisation output  level. Therefore, the firm should come to $𝑄_{MAX}$  output level from $𝑄_1$ or $𝑄_2$ production  levels.   
 
 ## Firm’s Short Run Decision to Shut Down
-A firm's short-run decision to shut down is the decision to stop production temporarily, even though it is still able to operate. This decision is made when the <mark style="background: #ABF7F7A6;">firm is not covering its variable costs</mark>, which are the costs that change with the quantity of output produced.
+A firm's short-run decision to shut down is the decision <mark style="background: #FF5582A6;">to stop production temporarily</mark>, even though it is still able to operate. This decision is made when the <mark style="background: #ABF7F7A6;">firm is not covering its variable costs</mark>, which are the costs that change with the quantity of output produced.
 $$
-TR<TC
+TR<TAC
 $$
 
-There are <mark style="background: #ABF7F7A6;">two reasons why a firm might shut down</mark> in the short run. First, <mark style="background: #ADCCFFA6;">the price might be below the minimum average variable cost</mark>. This means that the firm is making a loss on each unit of output produced. Second, the firm might be facing a temporary shock, such as a <mark style="background: #ADCCFFA6;">decline in demand</mark>, that makes it unprofitable to produce.
+There are <mark style="background: #ABF7F7A6;">two reasons why a firm might shut down</mark> in the short run. First, <mark style="background: #ADCCFFA6;">the price might be below the minimum average variable cost</mark>. This means that the <mark style="background: #FF5582A6;">firm is making a loss on each unit of output produced.</mark> Second, the firm might be facing a temporary shock, such as a <mark style="background: #ADCCFFA6;">decline in demand</mark>, that makes it unprofitable to produce.
 $$
 \begin{align}
 \frac{TR}{Q}<\frac{TC}{Q} \\
@@ -121,7 +111,7 @@ $$
 &= (P - ATC) * Q
 \end{align*}
 $$
-Therefore, profit can be expressed as either $(AR - ATC) * Q or (P - ATC) * Q$.
+Therefore, profit can be expressed as either $(AR - ATC) * Q \text{ or } (P - ATC) * Q$.
 
 ![[Pasted image 20230822091449.png]]
 ![[Pasted image 20230822091517.png]]
@@ -134,7 +124,6 @@ Therefore, profit can be expressed as either $(AR - ATC) * Q or (P - ATC) * Q$.
 - The supply curve is upward sloping because as the price increases, firms are willing to produce more output.
 - This is because the marginal cost curve is also upward sloping.
 - The marginal cost curve shows the additional cost of producing one more unit of output.
-- As the price increases, firms are willing to produce more output because the additional revenue from selling one more unit of output also increases.
 
 **Long Run Market Supply Curve**
 

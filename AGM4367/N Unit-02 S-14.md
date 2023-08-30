@@ -1,7 +1,7 @@
 # Marketing   
 
 Marketing:
-Marketing is a comprehensive process that involves everything from understanding customer needs and preferences to creating products or services that satisfy those needs. It encompasses various stages, including market research, product development, pricing, promotion, and distribution. 
+Marketing is a comprehensive process that involves everything from <mark style="background: #FF5582A6;">understanding customer needs and preferences to creating products or services that satisfy those needs. </mark> It encompasses various stages, including market research, product development, pricing, promotion, and distribution. 
 
 > [!Goal]
 > The primary goal of marketing is to create value for both customers and the business by effectively communicating the benefits of a product or service to the target audience. It's about building a strong brand, generating awareness, and fostering customer loyalty.
@@ -9,7 +9,7 @@ Marketing is a comprehensive process that involves everything from understanding
 ### Elements of Marketing
 The "4 Ps" is a classic marketing framework that represents the four key elements of a marketing mix.
 
-- Product: The "Product" refers to what you're offering to your target market. 
+- Product: The "Product" refers to <mark style="background: #ABF7F7A6;">what you're offering to your target market. </mark>
 
 - Price: The amount of money customers are willing to pay for your product or service. 
 
@@ -19,7 +19,7 @@ The "4 Ps" is a classic marketing framework that represents the four key element
 
 - Selling: Selling, on the other hand, is a subset of marketing. It focuses specifically on the process of persuading customers to make a purchase.
 
-Selling: Selling, on the other hand, is a subset of marketing. It focuses specifically on the process of persuading customers to make a purchase. This involves activities such as personal interactions, presentations, negotiations, and closing deals. Selling is more directly related to the transactional aspect of the business, where the goal is to convince potential customers to buy the products or services being offered.
+Selling: This is a subset of marketing. It focuses specifically on the process of persuading customers to make a purchase. This involves activities such as personal interactions, presentations, negotiations, and closing deals. Selling is more directly related to the transactional aspect of the business, where the goal is to convince potential customers to buy the products or services being offered.
 
 |**Marketing**|**Sales**|
 |---|---|

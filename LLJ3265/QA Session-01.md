@@ -1,7 +1,3 @@
----
-mode: fleeting
----
-
 What is the significance of law in society, and how does it regulate the behavior of its members?
 
 - Law in general is <mark style="background: #FFF3A3A6;">the system of rules that a hierarchical organization develops to counter-measure any activities that are harmful to the collective.</mark> In the absence of such regulating bodies, the balance between order and chaos becomes questionable.
@@ -183,6 +179,3 @@ How does procedural law facilitate the enforcement of substantive law?
 What is the significance of procedural law in the legal system?
 
 - Procedural law plays a crucial role in the legal system as it ensures that substantive rights and obligations are effectively enforced, and disputes are resolved in a fair and orderly manner. It provides a framework for the administration of justice and upholds the principles of due proces.
-
-**Session: [[2023071012105870.pdf| S-01]]**
-**Slide: [[2023071213024751.pdf|S-01]]
