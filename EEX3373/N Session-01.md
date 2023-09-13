@@ -280,7 +280,7 @@ This architecture serves as the foundation for most modern computers and is char
     - This allows programs to be easily modified and manipulated as data, leading to the concept of a "stored program."
 4. **Instruction Set:**
     
-    - The CPU understands a specific set of instructions, known as the instruction set architecture (ISA).
+    - The CPU understands a specific set of instructions, known as the <mark style="background: #FF5582A6;">instruction set architecture</mark> (ISA).
     - These instructions define the operations that the CPU can perform, such as arithmetic operations, data movement, and branching.
 5. **Fetching and Execution Cycle:**
     
@@ -320,10 +320,10 @@ The Harvard architecture is an alternative computer architecture design that dif
     - In contrast, the von Neumann architecture typically <mark style="background: #FFF3A3A6;">alternates between fetching instructions and accessing data from a single memory unit</mark>, which can introduce bottlenecks.
 3. **Program and Data Independence:**
     
-    - Because instructions and data are stored in separate memory spaces, the Harvard architecture offers greater independence between program and data operations. This can simplify the design and reduce the risk of unintended interactions.
+    - Because instructions and data are stored in <mark style="background: #FF5582A6;">separate memory spaces</mark>, the Harvard architecture offers greater independence between program and data operations. This can simplify the design and reduce the risk of unintended interactions.
 4. **Increased Throughput:**
     
-    - The Harvard architecture can achieve higher throughput for certain types of applications, particularly those that involve heavy instruction fetches or data transfers.
+    - The Harvard architecture can achieve <mark style="background: #FF5582A6;">higher throughput for certain types of applications</mark>, particularly those that involve heavy instruction fetches or data transfers.
     - It is often used in embedded systems, digital signal processors (DSPs), and microcontrollers where real-time processing and efficiency are critical.
 5. **Complex Instruction Set Computer (CISC):**
     
