@@ -3,23 +3,12 @@ dg-publish: true
 dg-home: true
 ---
 
-# aide-memoire
-<img src='assets/attachments/anime study.gif'>
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Thlurte/aide-memoire)
-
-## Features
-- **Collaborative note-taking**
-- **Version history**
-- **Rich formatting**
-- **Search and filter**
-- **LaTex support**
 
 ## Table of Content
 ### Notes
 - AGM4367 | **Economics and Marketing for Engineers**
-	- [N Unit-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-01.md)
+	- [[Q Unit-01]]
 	- [N Unit-02 S-06](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-06.md)
 	- [N Unit-02 S-07](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-07.md)
 	- [N Unit-02 S-08](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-08.md)
@@ -61,6 +50,14 @@ Here, we record topics related to the courses we follow, these discussions are m
 - EEX4373 | Data Science
 	- [P Session-01](https://github.com/Thlurte/aide-memoire/blob/main/EEX4373/P%20Session-01.md)
 	- [P Session-02](https://github.com/Thlurte/aide-memoire/blob/main/EEX4373/P%20Session-02.md)
+
+## Features
+- **Collaborative note-taking**
+- **Version history**
+- **Rich formatting**
+- **Search and filter**
+- **LaTex support**
+
 ## Upcoming Features
  - [ ] **Spaced repetition with flashcards**
  - [ ] **Advanced collaboration tools**

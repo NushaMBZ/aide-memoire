@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 1. <mark style="background: #ABF7F7A6;">What is economics and what does it study?</mark>
 2. <mark style="background: #CACFD9A6;">Define economic agents and explain their role in resource utilization.</mark> 
 3. <mark style="background: #ABF7F7A6;">What are resources in economics, and why are they considered scarce with alternative uses?</mark>
