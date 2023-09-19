@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Stored Procedure
 
 A stored procedure is a <mark style="background: #FF5582A6;">precompiled and reusable database object</mark> in a relational database management system (RDBMS). It is a <mark style="background: #FFF3A3A6;">collection of one or more SQL statements and procedural logic that is stored on the database server</mark> for later execution.
