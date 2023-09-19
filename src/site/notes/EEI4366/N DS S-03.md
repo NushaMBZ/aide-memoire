@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/eei-4366/n-ds-s-03/"}
+dg-publish: true
 ---
-
 # Stored Procedure
 
 A stored procedure is a <mark style="background: #FF5582A6;">precompiled and reusable database object</mark> in a relational database management system (RDBMS). It is a <mark style="background: #FFF3A3A6;">collection of one or more SQL statements and procedural logic that is stored on the database server</mark> for later execution.
@@ -115,6 +114,7 @@ CALL GetEmployeeByID(123);
 ```mysql
 -- Syntax for dropping a stored procedure in SQL
 DROP PROCEDURE [IF EXISTS] procedure_name;
+
 ```
 
 
@@ -186,4 +186,3 @@ Key characteristics of NoSQL databases include:
 4. **Data model diversity:** NoSQL databases support various data models, including document-based (e.g., MongoDB), key-value (e.g., Redis), column-family (e.g., Apache Cassandra), and graph-based (e.g., Neo4j).
     
 5. **No rigid ACID transactions:** NoSQL databases often prioritize performance and scalability over strict ACID (Atomicity, Consistency, Isolation, Durability) transactions found in traditional SQL databases.
-
