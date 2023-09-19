@@ -70,3 +70,85 @@ MOVEMENTS OF THE CCPI
 66.0
 61.0
 57.2
+
+
+
+
+
+**NCPI
+YOY**
+
+2018
+--------
+January - 5.4
+February - 3.2
+March - 2.8
+April - 1.6
+May - 2.1
+June - 2.5
+July - 3.4
+August - 2.5
+September - 0.9
+October - 0.1
+November - 1.0
+December - 0.4
+
+2019
+--------
+January - 1.2
+February - 2.4
+March - 2.9
+April - 3.6
+May - 3.5
+June - 2.1
+July - 2.2
+August - 3.4
+September - 5.0
+October - 5.6
+November - 4.1
+December - 6.2
+
+2020
+---------
+January - 7.6
+February - 8.1
+March - 7.0
+April - 5.9
+May - 5.2
+June - 6.3
+July - 6.1
+August - 6.2
+September - 6.4
+October - 5.5
+November - 5.2
+December - 4.6
+
+2021
+---------
+January - 3.7
+February - 4.2
+March - 5.1
+April - 5.5
+May - 6.1
+June - 6.1
+July - 6.8
+August - 6.7
+September - 6.2
+October - 8.3
+November - 11.1
+December - 14.0
+
+2022
+----------
+January - 16.8
+February - 17.5
+March - 21.5
+April - 33.8
+May - 45.3
+June - 58.9
+July - 66.7
+August - 70.2
+September - 73.7
+October - 70.6
+November - 65.0
+December - 59.2

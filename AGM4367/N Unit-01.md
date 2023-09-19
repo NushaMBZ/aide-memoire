@@ -9,7 +9,7 @@ Economic agents are <mark style="background: #FFF3A3A6;">individual units capabl
 ## Resources
 Resources refer to the <mark style="background: #FFF3A3A6;">various materials, assets, or factors that are available and utilized to meet human needs and wants.</mark> 
 The inherent nature of resources is that, they are <mark style="background: #FF5582A6;">scarce</mark> and have <mark style="background: #FF5582A6;">alternative uses</mark>.
-kkkkkkk
+
 
 ## Opportunity Cost
 
