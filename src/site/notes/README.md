@@ -9,9 +9,9 @@ Here, we record topics related to the courses we follow, these discussions are m
 ### Notes
 - AGM4367 | **Economics and Marketing for Engineers**
 	- [[AGM4367/Q Unit-01\|Q Unit-01]]
-	- [N Unit-02 S-06](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-06.md)
+	- [[N Unit-02 S-06\|N Unit-02 S-06]]
 	- [N Unit-02 S-07](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-07.md)
-	- [N Unit-02 S-08](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-08.md)
+	- [[AGM4367/N Unit-02 S-08\|N Unit-02 S-08]]
 	- [N Unit-02 S-09](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-09.md)
 	- [N Unit-02 S-10](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-10.md)
 	- [N Unit-02 S-11](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/N%20Unit-02%20S-11.md)
@@ -45,7 +45,7 @@ Here, we record topics related to the courses we follow, these discussions are m
 - AGM4367 | **Economics and Marketing for Engineers**
 	- [Q Unit-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/Q%20Unit-01.md)
 	- [QA Session-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/QA%20Session-01.md)
-- EEI4366 | Data Modelling and Database Systems
+- EEI4366 | # Data Modelling and Database Systems
 	- [[EEI4366/N DS S-03\|N DS S-03]]
 
 ### Practical
