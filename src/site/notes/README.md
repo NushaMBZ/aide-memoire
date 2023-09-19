@@ -45,6 +45,8 @@ Here, we record topics related to the courses we follow, these discussions are m
 - AGM4367 | **Economics and Marketing for Engineers**
 	- [Q Unit-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/Q%20Unit-01.md)
 	- [QA Session-01](https://github.com/Thlurte/aide-memoire/blob/main/AGM4367/QA%20Session-01.md)
+- EEI4366 | Data Modelling and Database Systems
+	- [[EEI4366/N DS S-03\|N DS S-03]]
 
 ### Practical
 - EEX4373 | Data Science
