@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Market and Government Policies
 
 ## Controls on Prices
