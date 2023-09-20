@@ -1,7 +1,9 @@
 MOVEMENTS OF THE CCPI
 2018 - 2022 Year on Year Inflation %
 
+![[CCPI.png]]
 2018
+------
 5.8
 4.5
 4.2
@@ -16,6 +18,7 @@ MOVEMENTS OF THE CCPI
 2.8
 
 2019
+-----
 3.7
 4.0
 4.3
@@ -30,6 +33,7 @@ MOVEMENTS OF THE CCPI
 4.8
 
 2020
+------
 5.7
 6.2
 5.4
@@ -44,6 +48,7 @@ MOVEMENTS OF THE CCPI
 4.2
 
 2021
+------
 3.0
 3.3
 4.1
@@ -58,6 +63,7 @@ MOVEMENTS OF THE CCPI
 12.1
 
 2022
+------
 14.2
 15.1
 18.7
@@ -74,10 +80,10 @@ MOVEMENTS OF THE CCPI
 
 
 
+**MOVEMENTS OF THE NCPI
+2018 - 2022 Year on Year Inflation %**
 
-**NCPI
-YOY**
-
+![[NCPI.png]]
 2018
 --------
 January - 5.4
@@ -152,3 +158,4 @@ September - 73.7
 October - 70.6
 November - 65.0
 December - 59.2
+
