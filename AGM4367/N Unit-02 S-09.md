@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Perfect Competition
 ## Competitive Market
 A competitive market is a market structure where <mark style="background: #ABF7F7A6;">there are many buyers and sellers of a homogeneous product.</mark> This means that the products sold by different firms are identical, and buyers have perfect information about the prices offered by all firms.

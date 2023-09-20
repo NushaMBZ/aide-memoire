@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Monopoly, Monopoly Power and Patents
 ## Monopoly
 A monopoly is a market structure in which there is only one seller of a good or service. This seller has a lot of market power, which means that they can control the price of the good or service.

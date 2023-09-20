@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Externalities
 An externality is the impact of one party's economic activities on another party's well-being that is not considered in the market price. In other words, it is the cost or benefit that arises from an economic activity that falls on a third party.
 

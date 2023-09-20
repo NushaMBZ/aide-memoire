@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Oligopoly and Monopolistic Competition
 ![[Pasted image 20230822111322.png]]
 ## Oligopoly

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Trade and Comparative Advantage  
 ## International Trade
 International trade is the exchange of goods and services between two or more countries. It is a major part of the global economy, and it allows countries to specialize in the production of goods and services that they are good at producing.

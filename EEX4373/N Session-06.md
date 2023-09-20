@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Classification Algorithms
 Set of machine learning techniques designed to categorize or classify data points into predefined classes or categories.
 

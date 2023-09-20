@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # The Product Life Cycle (PLC)   
 
 The **Product Life Cycle (PLC)** model provides a normative and descriptive framework to understand the trajectory of products in the market. 

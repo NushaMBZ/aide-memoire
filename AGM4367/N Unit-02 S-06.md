@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Elasticity of Demand and Supply  
 
 >[!Note]

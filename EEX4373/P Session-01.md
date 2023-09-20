@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # R
 R is a programming language and free software environment primarily designed for statistical computing, data analysis, and graphical representation.
 

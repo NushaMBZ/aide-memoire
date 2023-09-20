@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Markets and Social Welfare  
 
 ## Welfare economics  

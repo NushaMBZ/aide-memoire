@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Discuss the advantages of using object-oriented (O-O) techniques in complicated systems that require continuous maintenance, adaptation, and design. Provide examples to support your argument.
 
 - [[QA Day School S-01|Answer]]

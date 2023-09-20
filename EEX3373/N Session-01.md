@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Evolution of Computers (unstructured)
 
 **3000 BC - Babylonian Abacus:**

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 What is machine learning, and how does it differ from traditional programming approaches?
 
 - Machine learning is a field of study that focuses on <mark style="background: #FFF3A3A6;">developing algorithms and models that enable computers to learn and make predictions or decisions without being explicitly programmed.</mark>

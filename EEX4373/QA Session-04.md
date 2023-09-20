@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 What is data fitting, and why is it important in understanding the relationship between variables?
 
 - Data fitting is the process of <mark style="background: #FFF3A3A6;">finding a mathematical model or function that closely matches the observed data points.</mark>

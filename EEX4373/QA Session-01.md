@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 What is the significance of data science in today's world, considering its ability to handle vast volumes of data using modern tools and techniques?
 
 - With the exponential growth of data, traditional methods of analysis are no longer sufficient. Data science provides the <mark style="background: #ABF7F7A6;">necessary skills and methods to effectively process and analyze massive datasets and uncover underlying patters and behaviours.</mark>
