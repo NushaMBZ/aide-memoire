@@ -84,7 +84,7 @@ The marketing mix is a strategic tool used by businesses to position their produ
 
 **2. Actual Product:** The actual product is the tangible entity that customers purchase and use. Using the car example, it refers to the physical car you buy and drive. 
 
-**3. Augmented Product:** The augmented product includes additional attributes beyond the physical product. It addresses factors such as safety standards, regulatory approvals, and after-sales services.
+**3. Augmented Product:** The inclusion of additional features, benefits, attributes or related services that serve to differentiate the product from its competitors.
 
 ### Price: Factors, Decisions, and Pricing Strategies
 
@@ -205,11 +205,11 @@ A well-executed promotion strategy aids in creating brand awareness, influencing
 
 #### Physical Evidence:
 
-**Role of Physical Evidence in Services:** Physical evidence refers to the tangible aspects that support services when customers cannot rely solely on intangible attributes. Examples include packaging, websites, paperwork (invoices, brochures), furnishings, uniforms, business cards, and buildings.
+**Role of Physical Evidence in Services:** Physical evidence refers to <mark style="background: #FF5582A6;">the tangible aspects that support services when customers cannot rely solely on intangible attributes.</mark> Examples include packaging, websites, paperwork (invoices, brochures), furnishings, uniforms, business cards, and buildings.
 
 #### Process:
 
-**Understanding the Process Element:** Process is a part of the extended marketing mix (7Ps). It refers to the way customers access services. Processes can be means to achieve outcomes (e.g., market share goals) or interconnected activities forming an overall marketing process (e.g., telemarketing and internet marketing integration).
+**Understanding the Process Element:** Process is a part of the extended marketing mix (7Ps). It refers to <mark style="background: #FF5582A6;">the way customers access services.</mark> Processes can be means to achieve outcomes (e.g., market share goals) or interconnected activities forming an overall marketing process (e.g., telemarketing and internet marketing integration).
 
 **Role of Process in the Marketing Mix:** In the context of the marketing mix, process pertains to the customer's experience with an organization's offerings. For instance, booking a flight online involves visiting the airline's website, entering flight details, booking, and receiving confirmation via email or post. This entire process shapes the customer's perception.
 
@@ -219,7 +219,7 @@ A well-executed promotion strategy aids in creating brand awareness, influencing
 
 **Tailoring the Process:** The process can be customized to meet the unique needs of different individuals experiencing a similar service concurrently. Adapting the process enhances customer satisfaction and engagement.
 
-## ## The Four "C's"
+## The Four "C's"
 
 The Four "C's" offers a more customer-centric perspective on marketing. Proposed by Robert Lauterborn and endorsed by Philip Kotler, the Four "C's" provide a modern framework to approach marketing:
 
