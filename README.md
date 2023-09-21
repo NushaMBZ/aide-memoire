@@ -2,13 +2,14 @@
 dg-publish: true
 dg-home: true
 ---
-
+![[anime study.gif]]
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
 ## Table of Content
+
 ### Notes
 - AGM4367 | **Economics and Marketing for Engineers**
-	- [[Q Unit-01]]
+	- [[N Unit-01]]
 	- [[N Unit-02 S-06]]
 	- [[N Unit-02 S-07]]
 	- [[N Unit-02 S-08]]
@@ -32,6 +33,8 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[N Session-08]]
 	- [[N Session-02]]
 	- [[N Session-06]]
+- EEI4366 | Data Modelling and Database Systems
+	- [[N DS S-03]]
 ### Quizzes
 - EEX4373 | **Data Science**
 	- [[QA Session-01]]
@@ -44,8 +47,6 @@ Here, we record topics related to the courses we follow, these discussions are m
 - AGM4367 | **Economics and Marketing for Engineers**
 	- [[Q Unit-01]]
 	- [[QA Session-01]]
-- EEI4366 | Data Modelling and Database Systems
-	- [[N DS S-03]]
 
 ### Practical
 - EEX4373 | Data Science

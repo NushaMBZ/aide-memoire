@@ -15,15 +15,13 @@ The "4 Ps" is a classic marketing framework that represents the four key element
 
 - Product: The "Product" refers to <mark style="background: #ABF7F7A6;">what you're offering to your target market. </mark>
 
-- Price: The amount of money customers are willing to pay for your product or service. 
+- Price: The amount of money customers are <mark style="background: #FF5582A6;">willing to pay </mark>for your product or service. 
 
 - Place: The distribution and availability of your product or service. 
   
 - Promotion: All the activities you undertake to make your target audience aware of your product or service.
 
-- Selling: Selling, on the other hand, is a subset of marketing. It focuses specifically on the process of persuading customers to make a purchase.
-
-Selling: This is a subset of marketing. It focuses specifically on the process of persuading customers to make a purchase. This involves activities such as personal interactions, presentations, negotiations, and closing deals. Selling is more directly related to the transactional aspect of the business, where the goal is to convince potential customers to buy the products or services being offered.
+Selling: This is a subset of marketing. It focuses specifically on the process of <mark style="background: #FF5582A6;">persuading customers to make a purchase.</mark> This involves activities such as personal interactions, presentations, negotiations, and closing deals. 
 
 |**Marketing**|**Sales**|
 |---|---|
@@ -35,7 +33,7 @@ Selling: This is a subset of marketing. It focuses specifically on the process o
 
 ## Marketing Mix: Components and Importance
 
-The marketing mix is a strategic tool used by businesses to position their products or services effectively in the market and achieve their marketing objectives. It involves a set of controllable variables that marketing managers can manipulate to satisfy target market needs.
+The marketing mix is a strategic tool used by businesses to <mark style="background: #FF5582A6;">position their products or services effectively in the market</mark> and achieve their marketing objectives.
 
 ### Components
 
@@ -88,7 +86,7 @@ The marketing mix is a strategic tool used by businesses to position their produ
 
 ### Price: Factors, Decisions, and Pricing Strategies
 
-**Price Considerations:** Price decisions in business should take into account factors such as profit margins and the expected response of competitors to pricing changes. Several key aspects of price decisions include the listed price, discounts offered, financing options, and leasing possibilities. These decisions are influenced by various factors and strategies:
+**Price Considerations:** Price decisions in business should take into account factors such as profit margins and the expected response of competitors to pricing changes. Several key aspects of price decisions include the listed price, discounts offered, financing options, and leasing possibilities. 
 
 #### Factors Influencing Price Decisions:
 
@@ -161,86 +159,60 @@ Even the decision not to charge for a service constitutes a pricing strategy, as
 
 **7. Sponsorships:** Sponsorship involves paying to associate an organization with a particular event or cause. 
 
-#### Integration of Promotion Mix Elements:
-
-These elements form a cohesive campaign when integrated. They work together to convey a consistent message to the audience, enhancing the effectiveness of promotional efforts.
-
-### Importance of a Coherent Promotion Strategy:
-
-A well-executed promotion strategy aids in creating brand awareness, influencing customer perceptions, and driving sales. 
-
 ### Place: Distribution and Channel Decisions
 
-**Place Overview:** Place, in the context of marketing, refers to the distribution and channels through which goods and services are delivered from manufacturers or service providers to consumers. It involves determining where products/services will be available for purchase.
+Place, in the context of marketing, refers to the <mark style="background: #FF5582A6;">distribution and channels through which goods and services are delivered from manufacturers or service providers to consumers.</mark> 
 
 ### Distribution Considerations:
 
-**1. Distribution Channel Type:**
+**1. Distribution *Channel Type*:**
 
 - Deciding between direct (manufacturer to consumer) or indirect (using intermediaries) channels.
 - Choosing single or multiple channels, considering the cumulative length of multiple channels.
 - Determining the types and number of intermediaries to be involved.
 
-**2. Role of Channel Intermediaries:**
+**2. Role of *Channel Intermediaries*:**
 
 - Channel intermediaries enhance place utility by providing facilities like transport, storage, and display.
 - Wholesalers offer storage and packaging services, making products accessible to retailers.
 - Agents assist with international marketing by securing orders from producers.
 - Retailers maintain consumer relationships and offer a variety of brands and products for selection.
 
-**3. E-commerce and Direct Distribution:**
-
-- E-commerce has revolutionized distribution through online shopping and payment.
-- Direct distribution involves marketing products directly from manufacturers to consumers without intermediaries.
-
 ### Extended Marketing Mix: People, Physical Evidence, and Process
 
 #### People:
 
-**Significance of People in Services:** People constitute a critical element of services. Since services are produced and consumed simultaneously, customer experiences are customized to cater to individual needs. The attitudes, skills, and appearance of staff play a pivotal role in influencing customer preferences. People tend to buy from individuals they like, making staff qualities essential.
-
-**Role of People in Adding Value:** People enhance customer experiences by providing personalized service, training, and effective customer interactions. Skilled, motivated, and well-trained staff are vital for delivering quality services. Different types of salespersons include product delivery personnel, order takers, external field sales representatives, missionaries aiming to build goodwill, technical salespersons offering expertise, and creative sellers persuading customers to make a purchase.
-
-**Impact of Customer Services Teams:** Customer services teams are crucial in many industries. They provide expertise, technical support, and coordinate customer interactions. The attitude and disposition of these teams significantly influence customer satisfaction, making effective communication and interaction essential.
+The people who are <mark style="background: #FF5582A6;">involved in the marketing and delivery of the product.</mark>
 
 #### Physical Evidence:
 
-**Role of Physical Evidence in Services:** Physical evidence refers to <mark style="background: #FF5582A6;">the tangible aspects that support services when customers cannot rely solely on intangible attributes.</mark> Examples include packaging, websites, paperwork (invoices, brochures), furnishings, uniforms, business cards, and buildings.
+The tangible evidence that the <mark style="background: #FF5582A6;">product exists and that it is worth buying.</mark>
 
 #### Process:
 
-**Understanding the Process Element:** Process is a part of the extended marketing mix (7Ps). It refers to <mark style="background: #FF5582A6;">the way customers access services.</mark> Processes can be means to achieve outcomes (e.g., market share goals) or interconnected activities forming an overall marketing process (e.g., telemarketing and internet marketing integration).
+The systems and procedures that a company uses to deliver the product to customers.
 
-**Role of Process in the Marketing Mix:** In the context of the marketing mix, process pertains to the customer's experience with an organization's offerings. For instance, booking a flight online involves visiting the airline's website, entering flight details, booking, and receiving confirmation via email or post. This entire process shapes the customer's perception.
-
-#### Integration and Marketing Process:
-
-**Value Delivery and Feedback:** The marketing process delivers value through all mix elements. Customer feedback helps refine and adjust the mix. Customer retention is crucial, and businesses extend and market additional products or services to existing customers.
-
-**Tailoring the Process:** The process can be customized to meet the unique needs of different individuals experiencing a similar service concurrently. Adapting the process enhances customer satisfaction and engagement.
 
 ## The Four "C's"
 
-The Four "C's" offers a more customer-centric perspective on marketing. Proposed by Robert Lauterborn and endorsed by Philip Kotler, the Four "C's" provide a modern framework to approach marketing:
+The Four "C's" offers a more <mark style="background: #FF5582A6;">customer-centric perspective</mark> on marketing. Proposed by Robert Lauterborn and endorsed by Philip Kotler, the Four "C's" provide a modern framework to approach marketing:
 
 ### 1. Convenience (Formerly Place):
 
-In the Four "C's" framework, "Place" transforms into "Convenience." This shift emphasizes the importance of making products and services readily accessible and easy to obtain for customers. 
+In the Four "C's" framework, "Place" transforms into "Convenience." It is the level of convenience for a customer to buy and use particular product or service.
 
 ### 2. Cost to the User (Formerly Price):
 
-"Price" is reimagined as "Cost to the user." Instead of solely focusing on the monetary aspect, this perspective takes into account the total cost incurred by the customer.
+"Price" is reimagined as "Cost to the user." The overall cost of acquiring a product or service, including the purchase price, shipping and handling, taxes, and any other associated costs.
 
 ### 3. Communication (Formerly Promotion):
 
-"Promotion" evolves into "Communication." This change reflects a shift from simply promoting products to engaging in meaningful communication with customers. 
+"Promotion" evolves into "Communication." It is a way to interact with the customers, including marketing messages, sales process, and customer support.
 
 ### 4. Customer Needs and Wants (Formerly Product):
 
-"Product" is replaced by "Customer needs and wants." This alteration underscores the importance of aligning offerings with the specific requirements and desires of customers.
+"Product" is replaced by "Customer needs and wants." 
 
 ## Evaluating the Four "C's"
 
 The Four "C's" offer a client-centric approach to marketing, emphasizing customer convenience, cost considerations, effective communication, and tailored solutions. This approach challenges the traditional product-oriented perspective of the marketing mix.
-
-While the Four "C's" present a valuable alternative, the original Four "P's" (Product, Price, Place, and Promotion) remain deeply ingrained in marketing terminology and practice. The "P's" provide a memorable and well-established framework for analysis. However, as marketing evolves to become more customer-oriented, the Four "C's" offer a fresh viewpoint that can enhance customer satisfaction and engagement.

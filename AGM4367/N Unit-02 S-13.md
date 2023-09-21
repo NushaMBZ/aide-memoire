@@ -4,28 +4,34 @@ dg-publish: true
 
 # Trade and Comparative Advantage  
 ## International Trade
-International trade is the exchange of goods and services between two or more countries. It is a major part of the global economy, and it allows countries to specialize in the production of goods and services that they are good at producing.
+
+International trade is the exchange of goods and services between two or more countries. 
 
 
 > [!definition]
-> **Specialization:** Specialization is the production of a good or service by a particular country or region that has a comparative advantage in producing that good or service. Comparative advantage refers to the ability of a country or region to produce a good or service at a lower opportunity cost than another country or region.
+> Specialization is the production of a good or service by a particular country or region that has a comparative advantage in producing that good or service. 
 
 > [!definition]
-> **Exchange:** Exchange is the voluntary trading of goods and services between two or more parties. International trade is a type of exchange that occurs between countries.
+> Comparative advantage refers to the ability of a country or region to produce a good or service at a lower opportunity cost than another country or region.
+
+> [!definition]
+> Exchange is the voluntary trading of goods and services between two or more parties. International trade is a type of exchange that occurs between countries.
+
 
 ## Theory of Absolute Advantage
 The theory of absolute advantage is an economic theory that states that a country should <mark style="background: #ABF7F7A6;">specialize in the production of goods and services in which it has an absolute advantage and trade those goods and services with other countries for goods and services in which those countries have an absolute advantage.</mark>
 
 ## Production Possibilities Frontier
-This (PPF) is a curve that shows all the possible combinations of two goods that can be produced by an economy with a given amount of resources. The PPF is also known as the production possibility curve or the transformation curve.
+This (PPF) is a curve that shows all the possible combinations of two goods that can be produced by an economy with a given amount of resources. 
 
-The PPF is typically drawn with two goods on the axes, such as cars and computers. The points on the PPF represent efficient production levels, meaning that the economy is using all of its resources and producing the maximum output possible.
+The PPF is typically drawn <mark style="background: #FFF3A3A6;">with two goods on the axes</mark>, such as cars and computers. The points on the PPF represent efficient production levels, meaning that the economy is using all of its resources and producing the maximum output possible.
 
 
 ## The theory of comparative advantage  
 The theory of comparative advantage is an economic theory that states that a country should specialize in the production of goods and services <mark style="background: #ABF7F7A6;">in which it has a comparative advantage and trade those goods and services with other countrie</mark>s for goods and services in which those countries have a comparative advantage.
 
-The theory of comparative advantage assumes that countries have different opportunity costs in the production of different goods and services. This means that one country may be able to produce a good or service at a lower opportunity cost than another country.
+The theory of comparative advantage assumes that countries have different opportunity costs in the production of different goods and services. 
+
 
 ## Assumptions underlying the theory of absolute advantage  and the theory of comparative advantage  
 
