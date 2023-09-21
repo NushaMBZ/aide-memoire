@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Business Cycle
 
 > [!definition]
