@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/agm-4367/n-unit-02-s-15/"}
 ---
+
 
 # The Product Life Cycle (PLC)   
 
