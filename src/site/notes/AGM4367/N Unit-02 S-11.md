@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/agm-4367/n-unit-02-s-11/"}
 ---
+
 # Oligopoly and Monopolistic Competition
 ![Pasted image 20230822111322.png](/img/user/assets/attachments/Pasted%20image%2020230822111322.png)
 ## Oligopoly
