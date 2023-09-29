@@ -26,16 +26,16 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[AGM4367/N Unit-03 S-19\|N Unit-03 S-19]]
 - EEI4362 | **Object Oriented Design**
 	- [[EEX3373/N Session-01\|N Session-01]]
-	- [[EEI4362/N Session-02\|N Session-02]]
+	- [[N S-02|N Session-02]]
 - LLJ3265 | **Introduction to Laws of Sri Lanka**
-	- [[EEI4362/N Session-02\|N Session-02]]
+	- [[N S-02|N Session-02]]
 	- [[LLJ3265/N Session-03\|N Session-03]]
 	- [[LLJ3265/N Session-04\|N Session-04]]
 	- [[LLJ3265/N Session-05\|N Session-05]]
 	- [[EEX4373/N Session-06\|N Session-06]]
 	- [[LLJ3265/N Session-07\|N Session-07]]
 	- [[LLJ3265/N Session-08\|N Session-08]]
-	- [[EEI4362/N Session-02\|N Session-02]]
+	- [[N S-02|N Session-02]]
 	- [[EEX4373/N Session-06\|N Session-06]]
 - EEI4366 | Data Modelling and Database Systems
 	- [[EEI4366/N DS S-03\|N DS S-03]]

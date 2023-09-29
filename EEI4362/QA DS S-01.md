@@ -113,4 +113,3 @@ Discuss the important methods provided by the Thread class in Java for managing 
 * interrupt(): The interrupt() method interrupts a thread that is currently sleeping, waiting, or in a blocked state. 
 * isAlive(): The isAlive() method checks whether a thread is still alive or has completed its execution. 
   
-

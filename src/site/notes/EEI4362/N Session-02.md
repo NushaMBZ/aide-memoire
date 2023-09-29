@@ -4,7 +4,7 @@
 
 Discuss the advantages of using object-oriented (O-O) techniques in complicated systems that require continuous maintenance, adaptation, and design. Provide examples to support your argument.
 
-- [[EEI4362/QA Day School S-01\|Answer]]
+- [[QA DS S-01|Answer]]
 
 Explain the significance of the Unified Modeling Language (UML) as an industry standard for modeling object-oriented systems. Discuss its key features and how it contributes to effective system design and communication within a development team.
 

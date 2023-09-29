@@ -22,19 +22,19 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[N Unit-02 S-15]]
 - EEI4362 | **Object Oriented Design**
 	- [[N Session-01]]
-	- [[N Session-02]]
+	- [[N S-02]]
 - LLJ3265 | **Introduction to Laws of Sri Lanka**
-	- [[N Session-02]]
+	- [[N S-02]]
 	- [[N Session-03]]
 	- [[N Session-04]]
 	- [[N Session-05]]
 	- [[N Session-06]]
 	- [[N Session-07]]
 	- [[N Session-08]]
-	- [[N Session-02]]
+	- [[N S-02]]
 	- [[N Session-06]]
 - EEI4366 | Data Modelling and Database Systems
-	- [[N DS S-03]]
+	- [[EEI4366/N DS S-03]]
 ### Quizzes
 - EEX4373 | **Data Science**
 	- [[QA Session-01]]
