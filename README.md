@@ -2,7 +2,7 @@
 dg-publish: true
 dg-home: true
 ---
-![[anime study.gif]]
+![[student-studying.gif|600]]
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
 ## Table of Content
