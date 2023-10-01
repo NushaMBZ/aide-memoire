@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/eex-3373/n-session-01/"}
+dg-publish: true
 ---
 
-
-# Evolution of Computers (unstructured)
+# Evolution of Computers 
 
 **3000 BC - Babylonian Abacus:**
 
