@@ -172,7 +172,7 @@ for $title in /library/book/title
 return $title 
 ```
 
-- **Select Books Publixhed Before 2000
+- **Select Books Published Before 2000
 ```xquery
 for $title in /library/book
 where $book/publicationYear < 2000
@@ -190,7 +190,7 @@ return $price
 for $element in //@currency
 return $element
 ```
-hi
+
 - **Select the first book in the document
 ```xquery
 for $book in /library/book[1]
