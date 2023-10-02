@@ -190,7 +190,7 @@ return $price
 for $element in //@currency
 return $element
 ```
-
+hi
 - **Select the first book in the document
 ```xquery
 for $book in /library/book[1]
