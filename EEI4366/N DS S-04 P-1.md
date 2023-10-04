@@ -202,8 +202,3 @@ return $book
 for $details in //*[text()="F. Scott Fitzgerald"]
 return $details
 ```
-
-
-```xquery
-
-```

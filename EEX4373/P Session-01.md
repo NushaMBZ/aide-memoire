@@ -98,7 +98,7 @@ MathematicsIT
 ```
 
 ```r
-NamesIT<c("Kasun","Asanka","Nayomi","Dilan","Prasadi","Sumali","Ashani") 
+NamesIT<-c("Kasun","Asanka","Nayomi","Dilan","Prasadi","Sumali","Ashani") 
 NamesIT
 [1] "Kasun"   "Asanka"  "Nayomi"  "Dilan"   "Prasadi" "Sumali"  "Ashani" 
 ```
@@ -131,7 +131,8 @@ FinalIT
 >Concatenate function can be used to concatenate vectors 
 
 ```r
-MathematicsIT<-c(85,75,52,98,69,80,78) MathematicsIS<-c(80,78,69,82,70,85,90) 
+MathematicsIT<-c(85,75,52,98,69,80,78)
+MathematicsIS<-c(80,78,69,82,70,85,90) 
 Mathematics<-c(MathematicsIT,MathematicsIS) 
 Mathematics 
 [1] 85 75 52 98 69 80 78 80 78 69 82 70 85 90 
@@ -491,16 +492,19 @@ rep(x, times, each)
 ```r
 # Replicating a single value
 repeated_value <- rep(5, times = 3)
-print(repeated_value)  # Outputs: 5 5 5
+print(repeated_value)  
+# Outputs: 5 5 5
 
 # Replicating a vector
 original_vector <- c(1, 2, 3)
 repeated_vector <- rep(original_vector, times = 2)
-print(repeated_vector)  # Outputs: 1 2 3 1 2 3
+print(repeated_vector)  
+# Outputs: 1 2 3 1 2 3
 
 # Replicating each element in a vector
 repeated_each <- rep(original_vector, each = 2)
-print(repeated_each)  # Outputs: 1 1 2 2 3 3
+print(repeated_each)  
+# Outputs: 1 1 2 2 3 3
 
 # Replicating a matrix
 original_matrix <- matrix(1:6, nrow = 2)
@@ -515,6 +519,7 @@ print(repeated_matrix)
 
 # Replicating using both 'times' and 'each'
 repeated_both <- rep(original_vector, times = 2, each = 2)
-print(repeated_both)  # Outputs: 1 1 2 2 3 3 1 1 2 2 3 3
+print(repeated_both)  
+# Outputs: 1 1 2 2 3 3 1 1 2 2 3 3
 ```
 
