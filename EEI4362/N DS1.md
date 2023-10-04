@@ -71,8 +71,8 @@ public void methodToOverride() }
 |  In method overloading, methods must have the same name and different signatures.|In method overriding, methods must have the same name and same signature.                                                                 
 ## Abstraction
 
-Abstraction in Java refers to<mark style="background: #FFB8EBA6;"> **hiding the implementation details of a code and exposing only the necessary information to the user**. </mark> It provides the ability to simplify complex systems by ignoring irrelevant details and reducing complexity.
+Abstraction in Java refers to<mark style="background: #FFB8EBA6;"> hiding the implementation details of a code and exposing only the necessary information to the user. </mark> It provides the ability to simplify complex systems by ignoring irrelevant details and reducing complexity.
 
 There are two ways to achieve abstraction 
 1. Abstract classes 
-2. Interfaces
+2. Interfaces 
