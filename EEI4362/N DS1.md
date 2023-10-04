@@ -12,6 +12,7 @@
 - The variables of a class are only accessible through the methods of that class, making them hidden from other classes. This concept is known as data hiding. 
 - To achieve encapsulation in Java, o declare the class variables as private o provide public setter and getter methods. 
 - The setter methods allow modification of the variables' values, while the getter methods allow viewing of the variables' values.
+  
 ## Inheritance
 
 <mark style="background: #FFB8EBA6;">A class can extend another class, inheriting all its data members and methods while redefining some of them and/or adding its own.</mark>
