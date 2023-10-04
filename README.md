@@ -2,7 +2,7 @@
 dg-publish: true
 dg-home: true
 ---
-![[student-studying.gif]]
+![[src/site/img/user/assets/attachments/anime study.gif]]
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
 ## Table of Content
@@ -21,7 +21,7 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[AGM4367/N Unit-02 S-14|N Unit-02 S-14]]
 	- [[AGM4367/N Unit-02 S-15|N Unit-02 S-15]]
 - EEI4362 | **Object Oriented Design**
-	- [[N DS S-02]]
+	- [[EEI4362/N DS S-02|N DS S-02]]
 	- [[EEI4362/N DS S-03|N DS S-03]]
 - LLJ3265 | **Introduction to Laws of Sri Lanka**
 	- [[LLJ3265/N Session-02|N Session-02]]
@@ -30,18 +30,17 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[LLJ3265/N Session-05|N Session-05]]
 	- [[LLJ3265/N Session-06|N Session-06]]
 	- [[LLJ3265/N Session-07|N Session-07]]
-	- [[N Session-08]]
+	- [[LLJ3265/N Session-08|N Session-08]]
 - EEI4366 | Data Modelling and Database Systems
-	- [[N DS S-02 P-1]]
+	- [[EEI4366/N DS S-04 P-1|N DS S-04 P-1]]
 	- [[EEI4366/N DS S-03|N DS S-03]]
-	- [[N DS S-04 P-1]]
 ### Quizzes
 - EEX4373 | **Data Science**
 	- [[EEX4373/QA Session-01|QA Session-01]]
 	- [[EEX4373/QA Session-03|QA Session-03]]
 	- [[EEX4373/QA Session-03|QA Session-03]]
 - EEI4362 | **Object Oriented Design**
-	- [[QA DS S-01]]
+	- [[EEI4366/QA DS S-01]]
 - LLJ3265 | **Introduction to Laws of Sri Lanka**
 	- [[LLJ3265/QA Session-01|QA Session-01]]
 - AGM4367 | **Economics and Marketing for Engineers**
