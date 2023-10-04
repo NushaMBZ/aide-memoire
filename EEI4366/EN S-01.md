@@ -44,7 +44,7 @@ Hierarchy is a ranking of ordering of abstractions. The two most important hiera
 
 The minor elements are listed below.
 
-###### ******typing
+##### ***typing
 
 Concepts of typing derive primarily from theories of abstract data types. A type is a precise characterization of structural or behavioral which a collection of entities all share. 
 
