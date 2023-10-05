@@ -13,14 +13,11 @@
 
 1. Binding Price Floor:
     
-    - A binding price floor is set above the equilibrium price, which is the price at which the quantity of a good supplied equals the quantity demanded in a free market.
-    - When a price floor is binding, it has real economic consequences because it creates a situation where the price that the government mandates (the floor price) is higher than the price that would naturally occur in a free market.
-    - The result is that there is an excess supply or surplus of the good at the higher price, as producers are willing to supply more of the product than consumers are willing to buy at that price. This can lead to an accumulation of unsold goods.
+    - A binding price floor is set above the equilibrium price.
+      
 2. Non-binding Price Floor:
     
     - A non-binding price floor is set below the equilibrium price or at a level where it has no impact on the market because it's lower than the prevailing market price.
-    - In this case, the market price is already higher than the government-mandated price floor, so the floor has no effect on market outcomes.
-    - Producers can continue to sell their goods at the market price without any interference from the price floor.
 
 > [!question]
 > Give examples of a price floor
@@ -48,7 +45,7 @@ Consumer taxes and producer taxes are forms of taxation that can affect differen
 2. **Value Added Tax (VAT):** In many countries, a value-added tax is applied to the price of goods and services at various stages of production and distribution.
     
 3. **Sin Taxes:** These are taxes specifically imposed on products that are considered harmful or undesirable, such as alcohol, tobacco, and sugary beverages.
-    
+
 
 **Producer Tax (also known as an excise tax or production tax):**
 
@@ -71,21 +68,21 @@ Consumer taxes and producer taxes are forms of taxation that can affect differen
 >[!question]
 >What factors determine the economic incidence of a tax
 
-1. **Elasticity of Demand and Supply:** The relative price elasticity of demand and supply for the taxed good or service is a critical factor.
+1. <mark style="background: #FFB8EBA6;">Elasticity of Demand and Supply</mark>: The relative price elasticity of demand and supply for the taxed good or service is a critical factor.
     
     - If the demand for a good is inelastic (insensitive to price changes), consumers may bear a larger portion of the tax burden because they cannot easily reduce their consumption when prices rise due to the tax.
         
     - Conversely, if the supply of a good is inelastic (insensitive to price changes), producers may bear more of the tax burden because they cannot easily reduce their production in response to lower prices caused by the tax.
         
-2. **Market Structure:** The level of competition in the market plays a role. In markets with limited competition, such as monopolies or oligopolies, producers may have more power to pass the tax burden onto consumers through price increases.
+2. <mark style="background: #FFB8EBA6;">Market Structure</mark>: The level of competition in the market plays a role. In markets with limited competition, such as monopolies or oligopolies, producers may have more power to pass the tax burden onto consumers through price increases.
     
-3. **Ability to Shift the Burden:** The ability of one party (consumers or producers) to pass on the burden of the tax to the other party depends on various factors.
+3. <mark style="background: #FFB8EBA6;">Ability to Shift the Burden</mark>: The ability of one party (consumers or producers) to pass on the burden of the tax to the other party depends on various factors.
     
     - For instance, if consumers can easily switch to substitute goods or services, producers may find it challenging to pass on the entire tax burden.
         
     - Conversely, if producers have few competitors, they may be better positioned to shift the burden to consumers.
         
-4. **Relative Price Changes:** The extent to which prices change in response to the tax can influence tax incidence. If prices rise significantly after the imposition of a tax, consumers may bear more of the burden, while if prices remain relatively stable, producers may bear more of the burden.
+4. <mark style="background: #FFB8EBA6;">Relative Price Changes</mark>: The extent to which prices change in response to the tax can influence tax incidence. If prices rise significantly after the imposition of a tax, consumers may bear more of the burden, while if prices remain relatively stable, producers may bear more of the burden.
 
 > [!question]
 > Explain the welfare effect of a subsidy on producers, consumers and government.
@@ -118,36 +115,35 @@ In the context of subsidies :
         
 2. **Deadweight Loss:**
     
-    - **Definition:** Deadweight loss represents the loss of economic efficiency that occurs when the allocation of resources in a market is not at the equilibrium point. In the context of subsidies, deadweight loss can occur because subsidies can distort market prices and quantities, leading to a misallocation of resources.
+    - **Definition:** <mark style="background: #FF5582A6;">Deadweight loss represents the loss of economic efficiency that occurs when the allocation of resources in a market is not at the equilibrium point.</mark> In the context of subsidies, deadweight loss can occur because subsidies can distort market prices and quantities, leading to a misallocation of resources.
         
     - **Reasons for Deadweight Loss with Subsidies:**
         
         - **Overproduction:** Subsidies often encourage overproduction because producers have less incentive to be efficient when part of their costs are covered by the government.
         - **Underconsumption of Other Goods:** When resources are diverted toward producing the subsidized good, there may be underinvestment in other sectors of the economy, leading to a reduction in the production of non-subsidized goods that might have higher social value.
-        - **Distorted Consumer Choices:** Subsidies can alter consumer choices by making the subsidized product more attractive, even if it's not the most socially beneficial choice.
 3. **Assessing Social Welfare Impact:**
     
-    - **Efficiency vs. Equity:** When evaluating the social welfare impact of subsidies, it's essential to consider both efficiency and equity. While subsidies may improve equity by assisting certain groups or industries, they can also reduce overall economic efficiency due to deadweight loss.
+    - Efficiency vs. Equity: When evaluating the social welfare impact of subsidies, it's essential to consider both efficiency and equity. While subsidies may improve equity by assisting certain groups or industries, they can also reduce overall economic efficiency due to deadweight loss.
         
-    - **Cost-Benefit Analysis:** Policymakers often conduct cost-benefit analyses to determine whether the benefits of a subsidy program (e.g., improved access to education or healthcare) outweigh the economic costs associated with deadweight loss.
+    - Cost-Benefit Analysis: Policymakers often conduct cost-benefit analyses to determine whether the benefits of a subsidy program (e.g., improved access to education or healthcare) outweigh the economic costs associated with deadweight loss.
 
 > [!question]
 > Why governments use different policies to intervene in the markets?
 
-1. **Market Failure Correction:**
+1. <mark style="background: #FF5582A6;">Market Failure Correction</mark>
     
     - **Externalities:** Governments intervene when market participants do not fully consider the external costs or benefits of their actions. For example, environmental regulations are used to address negative externalities like pollution.
     - **Public Goods:** Certain goods and services, such as national defense or public infrastructure, are non-excludable and non-rivalrous. Governments provide these as public goods because private markets often undersupply them.
-2. **Income Redistribution:**
+2. <mark style="background: #FF5582A6;">Income Redistribution</mark>
     
     - Governments may use tax and transfer policies (e.g., progressive taxation, social welfare programs) to redistribute income and reduce economic inequality.
-3. **Consumer Protection:**
+3. <mark style="background: #FF5582A6;">Consumer Protection</mark>
     
     - Regulations and consumer protection laws ensure that products and services meet safety and quality standards and that consumers are not exploited or misled.
-4. **Monopoly and Oligopoly Regulation:**
+4. <mark style="background: #FF5582A6;">Monopoly and Oligopoly Regulation</mark>
     
     - To prevent abuse of market power, governments regulate industries with significant market concentration. Antitrust laws and regulatory bodies exist to promote competition and protect consumers.
-5. **Stabilization of the Economy:**
+5. <mark style="background: #FF5582A6;">Stabilization of the Economy</mark>
     
     - During economic crises or recessions, governments may employ fiscal and monetary policies to stimulate economic growth, reduce unemployment, or control inflation.
 
