@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eex-4373/n-session-06/"}
+{"dg-publish":true,"permalink":"/EEX4373/N Session-06/"}
 ---
 
 # Classification Algorithms
