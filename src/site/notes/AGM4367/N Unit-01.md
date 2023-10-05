@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agm-4367/n-unit-01/"}
+{"dg-publish":true,"permalink":"/AGM4367/N Unit-01/"}
 ---
 
 # Economics
