@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eei-4366/n-ds-s-03/"}
+{"dg-publish":true,"permalink":"/EEI4366/N DS S-03/"}
 ---
 
 # Stored Procedure
