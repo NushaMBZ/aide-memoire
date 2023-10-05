@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eei-4362/n-ds-s-02/"}
+{"dg-publish":true,"permalink":"/EEI4362/N DS S-02/"}
 ---
 
 Discuss the advantages of using object-oriented (O-O) techniques in complicated systems that require continuous maintenance, adaptation, and design. Provide examples to support your argument.
