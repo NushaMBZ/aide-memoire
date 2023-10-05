@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/llj-3265/n-session-08/"}
+{"dg-publish":true,"permalink":"/LLJ3265/N Session-08/"}
 ---
 
 # Formulation of Contract
