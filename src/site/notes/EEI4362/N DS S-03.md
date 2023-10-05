@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eei-4362/n-ds-s-03/"}
+{"dg-publish":true,"permalink":"/EEI4362/N DS S-03/"}
 ---
 
 # Design Patterns
