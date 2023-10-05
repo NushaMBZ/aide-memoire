@@ -87,9 +87,9 @@ In the short run, a firm's profit-maximizing objective is to earn the highest po
     
     Profit (π) = TR - TC
     
-4. **Profit Maximization Point:** To maximize profit in the short run, the firm will produce the quantity of output where marginal cost (MC) equals marginal revenue (MR). In a perfectly competitive market, this is where MC = market price (P).
+4. **Profit Maximization Point:** To maximize profit in the short run, the firm will produce the quantity of output where ==marginal cost (MC) equals marginal revenue (MR).== In a perfectly competitive market, this is where MC = market price (P).
     
-5. **Shutdown Point:** If the market price falls below the firm's average variable cost (AVC), the firm may choose to shut down temporarily, as it cannot cover its variable costs, and continuing production would lead to greater losses.
+5. **Shutdown Point:** If the market price ==falls below the firm's average variable cost (AVC),== the firm may choose to shut down temporarily, as it cannot cover its variable costs, and continuing production would lead to greater losses.
     
 6. **Economic Profit or Loss:** The firm may earn economic profit (positive profit) or incur an economic loss (negative profit) depending on whether the market price is above or below the firm's average total cost (ATC) at the profit-maximizing quantity.
 
@@ -163,12 +163,41 @@ Zero economic profit, in the context of firms at the long-run equilibrium in eco
     
     We are given that the total revenue (TR) is Rs. 500,000, and we've just found that the market price (P) is Rs. 1000. Now, we can rearrange the formula to find Q:
     
-    Q = TR / P Q = Rs. 500,000 / Rs. 1000 Q = 500 units
+    Q = TR / P 
+    Q = Rs. 500,000 / Rs. 1000 
+    Q = 500 units
     
     So, the firm sold 500 units of output.
 
 > [!question]
-> A profit maximising firm in a perfectly competitive market produces 2000 electric bulbs. The average revenue is Rs. 500. Average total cost is Rs.400. The fixed cost is Rs.100, 000. Calculate the profit, marginal cost, average variable cost. Does the firm produces at the efficient scale?
+> A profit maximising firm in a perfectly competitive market produces 2000 electric bulbs. The average revenue is Rs. 500. Average total cost is Rs.400. The fixed cost is Rs.100,000. Calculate the profit, average variable cost. Does the firm produces at the efficient scale?
+
+==Look up there adheeb==
+
+Output = 2,000
+AR = MR = P = 500
+ATC = 400
+
+TR = Output $\times$ Market Price
+TR = 2,000 $\times$ 500
+TR = 1,000,000
+
+
+TC = Output $\times$ ATC
+TC = 2,000 $\times$ 400
+TC = 800,000
+
+FC = 100,000
+
+Profit = TR - TC
+Profit = 1,000,000 - 800,000
+Profit =   200,000
+
+TVC = TC-FC
+TVC = 800,000 - 100,000
+AVC = TVC/Output
+AVC = 700,000/2,000
+AVC = 350
 
 >[!note]
 Consider the information given in the following table.
@@ -176,8 +205,86 @@ Consider the information given in the following table.
 | Quantity      | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | ------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Total Cost    | 16  | 18  | 20  | 22  | 26  | 38  | 54  | 74  |
-| Total Revenue | 0   | 16  | 32  | 48  | 64  | 80  | 96  | 112    |
+| Total Revenue | 0   | 16  | 32  | 48  | 64  | 80  | 96  | 112 |
+| Profit        | -16 | -2  | 12  | 26  | 38  | 42  | 45  | 38  |
+| Price (MR=AR) | 0   | 16  | 16  | 16  | 16  | 16  | 16  | 16  |
+| MC            | -   | 2   | 2   | 2   | 4   | 12  | 16  | 20  | 
 
 > [!question]
 > Calculate the profit for each output level
+
+> [!question]
+> At which output level the profit is maximised?
+
+Therefore when the output of the product is 6, the profit is maximized because MC at this output level equals to MR.
+
+
+| Quantity      | 0   | 1   | 2   | 3   | 4   | 5   | ==6==  | 7   |
+| ------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Total Cost    | 16  | 18  | 20  | 22  | 26  | 38  | ==54==  | 74  |
+| Total Revenue | 0   | 16  | 32  | 48  | 64  | 80  | ==96==  | 112 |
+| Profit        | -16 | -2  | 12  | 26  | 38  | 42  | ==45==  | 38  |
+| Price (MR=AR) | 0   | 16  | 16  | 16  | 16  | 16  | ==16==  | 16  |
+| MC            | -   | 2   | 2   | 2   | 4   | 12  | ==16==  | 20  | 
+
+> [!question]
+> .Calculate the marginal cost and marginal revenue for each output level. Then graphically explain those and find the profit maximising output level
+> 
+
+
+
+> [!question]
+> Is this industry in competitive equilibrium? If so can you tell it is in short run or long run equilibrium?
+
+Yes, it's because the market price of this product is equal to marginal revenue and average revenue. And we can say that this is short run equilibrium because the firm generates more profits in the specified period of time.
+
+> [!note]
+> A tile manufacturing industry faces the following cost of production.
+
+| Quantity | Total Fixed Costs (Rs.) | Total Variable Costs (Rs.) |
+| -------- | ----------------------- | -------------------------- |
+| 0        | 200                     | 0                          |
+| 1        | 200                     | 100                        |
+| 2        | 200                     | 140                        |
+| 3        | 200                     | 180                        |
+| 4        | 200                     | 280                        |
+| 5        | 200                     | 400                        |
+| 6        | 200                     | 720                           |
+
+
+
+
+> [!question]
+> Calculate the firm’s average fixed cost, average variable cost, average total cost and marginal cost at each output level.
+
+| Qty | TFC (Rs.) | TVC (Rs.) | AFC (Rs.) | TC (Rs.) | AVC (Rs.) | ATC (Rs.) | MC (Rs.) |
+| --- | --------- | --------- | --------- | -------- | --------- | --------- | -------- |
+| 0   | 200       | 0         | 0         | 200      | 0         | 200       | 0        |
+| 1   | 200       | 100       | 200       | 300      | 100       | 300       | 100      |
+| 2   | 200       | 140       | 100       | 340      | 70        | 170       | 40       |
+| 3   | 200       | 180       | 66.67     | 380      | 60        | 126.67    | 40       |
+| 4   | 200       | 280       | 50        | 480      | 70        | 120       | 100      |
+| 5   | 200       | 400       | 40        | 600      | 40        | 120       | 120      |
+| 6   | 200       | 720       | 33.34     | 920      | 120       | 153.34    | 320      |
+
+
+> [!question]
+> If the market price is Rs.100, do you think that the firm should shut down? Explain.
+
+
+| Qty | TFC (Rs.) | TVC (Rs.) | AFC (Rs.) | TC (Rs.) | AVC (Rs.) | ATC (Rs.) | MC (Rs.) |
+| --- | --------- | --------- | --------- | -------- | --------- | --------- | -------- |
+| 0   | 200       | 0         | 0         | 200      | 0         | 200       | 0        |
+| 1   | 200       | 100       | 200       | 300      | 100       | 300       | 100      |
+| 2   | 200       | 140       | 100       | 340      | 70        | 170       | 40       |
+| 3   | 200       | 180       | 66.67     | 380      | 60        | 126.67    | 40       |
+| 4   | 200       | 280       | 50        | 480      | 70        | 120       | 100      |
+| 5   | 200       | 400       | 40        | 600      | ==40==        | 120       | 120      |
+| 6   | 200       | 720       | 33.34     | 920      | 120       | 153.34    | 320      |
+
+> [!question]
+> If the market price is Rs.100, do you think that the firm should shut down? Explain.
+
+No, Because for a firm to shutdown the market price of a particular product should be lower.
+
 
