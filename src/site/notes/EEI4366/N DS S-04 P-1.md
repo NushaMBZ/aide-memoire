@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eei-4366/n-ds-s-04-p-1/"}
+{"dg-publish":true,"permalink":"/EEI4366/N DS S-04 P-1/"}
 ---
 
 # Database Administration
