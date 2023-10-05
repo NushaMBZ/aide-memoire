@@ -66,7 +66,7 @@
 > What is meant by efficiency and equity in a market?
 > 
 
-1. **Efficiency:** Efficiency in a market refers to the extent to which resources are allocated to maximize overall economic well-being or utility. In an efficient market, resources are used in a way that produces the most value, where no one can be made better off without making someone else worse off. Efficiency is often categorized into two types:
+1. **Efficiency:** Efficiency in a market refers to the extent to which r<mark style="background: #FF5582A6;">esources are allocated to maximize overall economic well-being or utility.</mark> In an efficient market, resources are used in a way that produces the most value, where no one can be made better off without making someone else worse off. Efficiency is often categorized into two types:
     
     - **Allocative Efficiency:** This occurs when resources are allocated to produce the goods and services that consumers value the most. 
         
@@ -75,28 +75,28 @@
 
 2. Efficiency is often associated with the idea of Pareto efficiency, where no further changes can be made to improve one person's well-being without reducing another person's well-being. However, achieving Pareto efficiency may not address issues of fairness or distribution.
 
-2. **Equity:** Equity, in the context of a market, relates to the fairness or justice in the distribution of resources, income, or wealth. It focuses on whether the outcomes of market transactions are considered just and equitable. Equity considerations often include:
+2. **Equity:** Equity, in the context of a market, <mark style="background: #FF5582A6;">relates to the fairness or justice in the distribution of resources, income, or wealth.</mark> It focuses on whether the outcomes of market transactions are considered just and equitable. Equity considerations often include:
     
-    - **Income Distribution:** Equity concerns whether income is distributed fairly among individuals or groups within a society. It examines whether the wealthy and the poor have a reasonable share of the economic pie.
+    - **Income Distribution:** Equity concerns whether income is distributed fairly among individuals or groups within a society. 
         
-    - **Access to Basic Needs:** Equity also considers whether all members of society have access to essential goods and services, such as healthcare, education, and housing. It's concerned with ensuring that basic needs are met for everyone, regardless of their economic status.
+    - **Access to Basic Needs:** Equity also considers whether all members of society have access to essential goods and services, such as healthcare, education, and housing.
         
-    - **Social Justice:** Equity extends to broader notions of social justice and equal opportunities. It seeks to address historical injustices and discrimination, aiming to create a level playing field for all members of society.
+    - **Social Justice:** Equity extends to broader notions of social justice and equal opportunities. 
 
 > [!question]
 > Suppose the demand for steel products rises. Explain what happens to producer surplus, consumer surplus and total economic surplus in the market.
 
 1. **Producer Surplus:** When demand for steel products increases, the market price typically rises. This leads to the following effects on producer surplus:
     
-    - **Increase in Producer Surplus:** Producers benefit from the increase in demand because they can sell their steel products at a higher price. As a result, producer surplus generally increases. Producers are better off as they receive a price higher than what they were willing to accept.
+    - **Increase in Producer Surplus:** Producers benefit from the increase in demand because they can sell their steel products at a higher price. As a result, producer surplus generally increases. 
       
 2. **Consumer Surplus:** When the demand for steel products rises, the market price goes up, affecting consumer surplus in the following way:
     
-    - **Decrease in Consumer Surplus:** As the price of steel products increases due to higher demand, consumers must pay more for these products. This reduces consumer surplus because consumers are now paying a price higher than what they were originally willing to pay.
+    - **Decrease in Consumer Surplus:** As the price of steel products increases due to higher demand, consumers must pay more for these products.
       
 3. **Total Economic Surplus:** When demand for steel products rises, the impact on total economic surplus is as follows:
     
-    - **Increase in Total Economic Surplus:** Total economic surplus may increase, decrease, or remain relatively constant depending on the magnitude of the changes in producer surplus and consumer surplus. In this scenario, where producer surplus increases and consumer surplus decreases, the net effect on total economic surplus depends on the relative sizes of these changes. If the increase in producer surplus is larger than the decrease in consumer surplus, total economic surplus will increase. Conversely, if the decrease in consumer surplus is larger than the increase in producer surplus, total economic surplus may decrease.
+    - **Increase in Total Economic Surplus:** In this scenario, where producer surplus increases and consumer surplus decreases, the net effect on total economic surplus depends on the relative sizes of these changes. If the increase in producer surplus is larger than the decrease in consumer surplus, total economic surplus will increase. Conversely, if the decrease in consumer surplus is larger than the increase in producer surplus, total economic surplus may decrease.
 
 > [!question]
 > . Suppose the supply of rice has reduced due to a pest attack. What will happen to the consumer surplus?
@@ -154,13 +154,3 @@ The market equilibrium for aluminum production, where price and quantity are det
 1. **Externalities:** The environmental damage associated with aluminum production represents a negative externality.
     
 2. **Market Failure:** In the presence of negative externalities, markets can fail to allocate resources efficiently. 
-
-To address these issues and improve the efficiency of resource allocation in the aluminum production market, various policy interventions may be necessary. These could include:
-
-- **Environmental Regulations:** Governments can implement regulations and standards to limit pollution and require firms to internalize the environmental costs associated with production. This can incentivize cleaner and more sustainable production methods.
-    
-- **Pricing Externalities:** Implementing mechanisms like carbon taxes or cap-and-trade systems can help assign a price to environmental externalities, ensuring that producers bear the full cost of their actions.
-    
-- **Subsidies for Green Technologies:** Governments can encourage the adoption of environmentally friendly technologies by providing subsidies or incentives for cleaner production methods.
-    
-- **Public Awareness and Education:** Educating consumers and businesses about the environmental consequences of their choices can influence demand and encourage more sustainable behavior.
