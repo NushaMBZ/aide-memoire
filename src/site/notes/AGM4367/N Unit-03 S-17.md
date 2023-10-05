@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agm-4367/n-unit-03-s-17/"}
+{"dg-publish":true,"permalink":"/AGM4367/N Unit-03 S-17/"}
 ---
 
 # National Income
