@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/eex-4373/p-session-02/"}
+{"dg-publish":true,"permalink":"/EEX4373/P Session-02/"}
 ---
 
