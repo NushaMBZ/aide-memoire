@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/agm-4367/n-unit-02-s-13/"}
 ---
+
 
 # Trade and Comparative Advantage  
 ## International Trade
