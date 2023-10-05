@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/llj-3265/qa-session-01/"}
+{"dg-publish":true,"permalink":"/LLJ3265/QA Session-01/"}
 ---
 
 What is the significance of law in society, and how does it regulate the behavior of its members?
