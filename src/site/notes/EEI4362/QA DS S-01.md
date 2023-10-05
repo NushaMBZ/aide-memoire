@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eei-4362/qa-ds-s-01/"}
+{"dg-publish":true,"permalink":"/EEI4362/QA DS S-01/"}
 ---
 
 Discuss the _fundamental principles of object-oriented programming_ and how they relate to real-world concepts.
