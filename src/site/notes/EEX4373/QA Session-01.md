@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eex-4373/qa-session-01/"}
+{"dg-publish":true,"permalink":"/EEX4373/QA Session-01/"}
 ---
 
 
