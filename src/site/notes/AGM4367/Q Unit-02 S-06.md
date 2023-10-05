@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/AGM4367/Q Unit-02 S-06/"}
 ---
 
-
 > [!question]
 > What are the factors that determine quantity supplied and quantity demanded for a product?
 
