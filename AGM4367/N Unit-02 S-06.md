@@ -16,7 +16,7 @@ Change in the quantity of a good or service that consumers are willing and able 
 ![[Pasted image 20230816123427.png]]
 
 ### Demand Shifters
-Demand determinants or factors affecting demand, are <mark style="background: #FFF3A3A6;">variables that influence the quantity of a good or service demanded (that consumers are willing and able to purchase) at different price levels. </mark>
+Demand determinants or factors affecting demand, are <mark style="background: #FFF3A3A6;">variables that influence the quantity of a good or service demanded  at different price levels. </mark>
 
 #### Types of Demand Shifters
 - Income: <mark style="background: #FFF3A3A6;">Changes in consumers' income levels</mark> can affect their purchasing power.
