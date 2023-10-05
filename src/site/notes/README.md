@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/README/","tags":["gardenEntry"]}
 ---
 
 ![anime study.gif](/img/user/assets/attachments/anime%20study.gif)
