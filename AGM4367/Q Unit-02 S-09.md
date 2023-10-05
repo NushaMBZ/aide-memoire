@@ -163,7 +163,7 @@ Zero economic profit, in the context of firms at the long-run equilibrium in eco
     
     We are given that the total revenue (TR) is Rs. 500,000, and we've just found that the market price (P) is Rs. 1000. Now, we can rearrange the formula to find Q:
     
-    Q = TR / P Q = Rs. 500,000 / Rs. 1000 Q = 500 unit
+    Q = TR / P Q = Rs. 500,000 / Rs. 1000 Q = 500 units
     
     So, the firm sold 500 units of output.
 
