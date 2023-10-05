@@ -71,7 +71,7 @@
     - **Allocative Efficiency:** This occurs when resources are allocated to produce the goods and services that consumers value the most. 
         
     - **Productive Efficiency:** Productive efficiency means that goods and services are produced at the lowest possible cost. 
-        
+
 
 2. Efficiency is often associated with the idea of Pareto efficiency, where no further changes can be made to improve one person's well-being without reducing another person's well-being. However, achieving Pareto efficiency may not address issues of fairness or distribution.
 
