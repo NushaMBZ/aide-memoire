@@ -1,5 +1,6 @@
 ---
 mode: fleeting
+dg-publish: true
 ---
 # Legal Systems
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Database Administration
 
 > [!definition]

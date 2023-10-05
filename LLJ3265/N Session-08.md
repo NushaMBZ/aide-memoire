@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Formulation of Contract
 A contract is a <mark style="background: #ABF7F7A6;">legally binding agreement between two or more parties that outlines the terms and conditions under which they agree to perform certain actions, provide specific goods or services, or refrain from certain actions.</mark>
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Economics
 
 Economics is a <mark style="background: #FF5582A6;">social science</mark> that studies phenomena related to humans' behavior in relation to how they <mark style="background: #FFF3A3A6;">make decisions in meeting thier needs and wants when limited resource is available.</mark>

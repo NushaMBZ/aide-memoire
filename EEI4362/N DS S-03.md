@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Design Patterns
 Design patterns are <mark style="background: #ABF7F7A6;">reusable  to commonly occurring design problems</mark> in software development.
 

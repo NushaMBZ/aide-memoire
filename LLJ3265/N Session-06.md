@@ -1,3 +1,7 @@
+---
+mode: 
+dg-publish: true
+---
 # Fundamental Rights
 
 The <mark style="background: #ABF7F7A6;">Preamble of the Constitution</mark>, states that the people of Sri  Lanka have been assured, “Freedom, Equality, Justice, Fundamental Human  Rights and Independence of the Judiciary” as the intangible heritage that  guarantees the dignity and well -being of succeeding generations of the  People of Sri Lanka.
