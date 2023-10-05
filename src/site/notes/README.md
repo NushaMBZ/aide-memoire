@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"]}
 ---
 
-![src/site/img/user/assets/attachments/anime study.gif](/img/user/src/site/img/user/assets/attachments/anime%20study.gif)
+![src/site/img/user/assets/attachments/anime study.gif](/img/user/src/site/img/user/src/site/img/user/assets/attachments/anime%20study.gif)
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
 ## Table of Content
