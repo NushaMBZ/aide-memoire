@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agm-4367/q-unit-01/"}
+{"dg-publish":true,"permalink":"/AGM4367/Q Unit-01/"}
 ---
 
 1. <mark style="background: #ABF7F7A6;">What is economics and what does it study?</mark>
