@@ -43,7 +43,6 @@ Examples of perfectly competitive markets are:
 > [!question]
 > What is the supply curve of a firm in a perfectly competitive market?
 
-a
 The supply curve of an individual firm is typically a portion of its marginal cost (MC) curve that lies above the average variable cost (AVC) curve.
 
 ![[Pasted image 20231005075241.png]]
