@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 > [!question]
 > What are the factors that determine quantity supplied and quantity demanded for a product?
 

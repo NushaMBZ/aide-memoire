@@ -5,34 +5,34 @@ dg-publish: true
 > [!question]
 > What is a perfectly competitive market? Give some examples for a perfectly competitive market
 
-In a perfectly competitive market, there are many buyers and sellers of a homogeneous (identical) product, and no single firm has the power to influence the market price. Additionally, there is free entry and exit of firms in the industry, perfect information is available to all participants, and transactions are costless.
+In a perfectly competitive market, there are <mark style="background: #FF5582A6;">many buyers and sellers</mark> of a <mark style="background: #FFF3A3A6;">homogeneous (identical) product</mark>, and <mark style="background: #ABF7F7A6;">no single firm has the power to influence the market price.</mark> Additionally, there is <mark style="background: #FFB8EBA6;">free entry and exit of firms in the industry</mark>, perfect information is available to all participants, and transactions are costless.
 
 Examples of perfectly competitive markets are:
 
-1. Agricultural Markets: In some agricultural markets, such as the market for wheat or corn, there are many small farmers producing nearly identical products. Prices are often determined by supply and demand forces, and individual farmers have little control over the market price.
+1. <mark style="background: #FFF3A3A6;">Agricultural Markets</mark>: In some agricultural markets, such as the market for wheat or corn, there are many small farmers producing nearly identical products. Prices are often determined by supply and demand forces, and individual farmers have little control over the market price.
     
-2. Stock Market: The stock market for widely traded stocks can be considered relatively close to a perfectly competitive market. There are many buyers and sellers of the same stocks, and prices are determined by supply and demand.
+2. <mark style="background: #FFF3A3A6;">Stock Market</mark>: The stock market for widely traded stocks can be considered relatively close to a perfectly competitive market. There are many buyers and sellers of the same stocks, and prices are determined by supply and demand.
     
-3. Street Food Vendors: In some urban areas, street food vendors selling similar products (e.g., hot dogs, pretzels) may operate in conditions close to perfect competition. Prices are often set by market forces, and barriers to entry are relatively low.
+3. <mark style="background: #FFF3A3A6;">Street Food Vendors</mark>: In some urban areas, street food vendors selling similar products (e.g., hot dogs, pretzels) may operate in conditions close to perfect competition. Prices are often set by market forces, and barriers to entry are relatively low.
 
 > [!question]
 > Define the terms TR, MR, AR and MC
 
-1. **Total Revenue (TR):** Total Revenue is the total amount of money a firm receives from selling its products in a given time period. It is calculated by multiplying the quantity of goods sold by the price at which they are sold:
+1. **Total Revenue (TR):** Total Revenue is the <mark style="background: #FF5582A6;">total amount of money a firm receives from selling its products</mark> in a given time period. It is calculated by multiplying the quantity of goods sold by the price at which they are sold:
     
     TR = Quantity Sold × Price per Unit
     
-2. **Marginal Revenue (MR):** Marginal Revenue is the additional revenue a firm earns by selling one more unit of a product. It represents the change in total revenue when the quantity sold increases by one unit:
+2. **Marginal Revenue (MR):** Marginal Revenue is the <mark style="background: #FF5582A6;">additional revenue a firm earns by selling one more unit of a product.</mark> It represents the change in total revenue when the quantity sold increases by one unit:
     
     MR = ΔTR / ΔQuantity Sold
     
-    In a perfectly competitive market, where each additional unit sold has no impact on the market price, MR is equal to the market price.
+    In a perfectly competitive market, where each additional unit sold has no impact on the market price, <mark style="background: #FF5582A6;">MR is equal to the market price.</mark>
     
-3. **Average Revenue (AR):** Average Revenue, also known as the Price, is the revenue a firm earns per unit of output. It is calculated by dividing the total revenue (TR) by the quantity sold (Q):
+3. **Average Revenue (AR):** Average Revenue, also known as the Price, is the <mark style="background: #FF5582A6;">revenue a firm earns per unit of output</mark>. It is calculated by dividing the total revenue (TR) by the quantity sold (Q):
     
     AR = TR / Quantity Sold
     
-    In a perfectly competitive market, AR is equal to the market price, as all units are sold at the same price.
+    In a perfectly competitive market, <mark style="background: #FF5582A6;">AR is equal to the market price</mark>, as all units are sold at the same price.
     
 4. **Marginal Cost (MC):** Marginal Cost is the additional cost incurred by a firm when producing one more unit of a product. It represents the change in total cost when the quantity produced increases by one unit:
     
@@ -43,6 +43,7 @@ Examples of perfectly competitive markets are:
 > [!question]
 > What is the supply curve of a firm in a perfectly competitive market?
 
+a
 The supply curve of an individual firm is typically a portion of its marginal cost (MC) curve that lies above the average variable cost (AVC) curve.
 
 ![[Pasted image 20231005075241.png]]
