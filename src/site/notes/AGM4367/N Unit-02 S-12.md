@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/agm-4367/n-unit-02-s-12/"}
 ---
+
 
 # Externalities
 An externality is the <mark style="background: #FF5582A6;">impact of one party's economic activities on another party's well-being that is not considered in the market price.</mark> 
