@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/eex-4373/p-session-01/"}
 ---
+
 
 # R
 R is a programming language and free software environment primarily designed for statistical computing, data analysis, and graphical representation.
@@ -333,8 +334,8 @@ age <- my_list$age
 scores <- my_list$scores
 
 # Accessing elements by position
-first_element <- my_list[[1\|1]]
-second_element <- my_list[[2\|2]]
+first_element <- my_list[[1]]
+second_element <- my_list[[2]]
 
 ```
 #### Adding Element
@@ -343,7 +344,7 @@ second_element <- my_list[[2\|2]]
 my_list$new_element <- "Some value"
 
 # Adding an element using indexing
-my_list[[4\|4]] <- "Another value"
+my_list[[4]] <- "Another value"
 ```
 #### Nested Lists
 ```r
