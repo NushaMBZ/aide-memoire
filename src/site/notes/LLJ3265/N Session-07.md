@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/llj-3265/n-session-07/"}
+{"dg-publish":true,"permalink":"/LLJ3265/N Session-07/"}
 ---
 
 
