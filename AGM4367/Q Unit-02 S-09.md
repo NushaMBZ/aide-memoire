@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 > [!question]
 > What is a perfectly competitive market? Give some examples for a perfectly competitive market
 

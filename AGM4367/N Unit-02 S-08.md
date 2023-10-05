@@ -17,9 +17,9 @@ The effects of a price ceiling can be summarized as follows:
 - **Reduced quality:** Suppliers may <mark style="background: #ABF7F7A6;">reduce the quality of the goods or services they sell in order to maintain profits.</mark> This is because they are not able to charge a price that reflects the true value of the higher quality goods or services.
 - **Inefficiency:** A price ceiling can lead to inefficiency in the market. This is because <mark style="background: #ABF7F7A6;">it prevents the market from reaching equilibrium,</mark> where supply and demand are equal.
 
-> A **binding price ceiling** is a price ceiling that is <mark style="background: #ADCCFFA6;">set below the equilibrium price.</mark> This means that the price ceiling is *not binding on suppliers*, as they are willing to supply the good or service at the lower price. However, the price ceiling is binding on consumers, as they are willing to pay more for the good or service. This leads to a shortage of the good or service, as there is more demand than supply at the lower price. 
+> A **binding price ceiling** is a price ceiling that is <mark style="background: #ADCCFFA6;">set below the equilibrium price.</mark> 
 
-> A **non-binding price ceiling** is a price ceiling that is s<mark style="background: #ADCCFFA6;">et above the equilibrium price.</mark> This means that the price ceiling is not binding *on either suppliers or consumers.* Suppliers are willing to supply the good or service at the higher price, and consumers are willing to pay the higher price. This means that there is no shortage of the good or service.
+> A **non-binding price ceiling** is a price ceiling that is s<mark style="background: #ADCCFFA6;">et above the equilibrium price.</mark> 
 
 ![[Pasted image 20230821214653.png]]
 
@@ -41,9 +41,8 @@ A **price floor** is a <mark style="background: #ABF7F7A6;">legal minimum price 
 
 ![[Pasted image 20230821221657.png]]
 
-> A **binding price floor** is a price floor that is <mark style="background: #ABF7F7A6;">set above the equilibrium price</mark>. This means that the price floor is binding on suppliers, as they are not willing to supply the good or service at the lower price.
-
-> A **non-binding price** floor is a price floor that is <mark style="background: #ABF7F7A6;">set below the equilibrium price.</mark> This means that the price floor is not binding on either suppliers or consumers. 
+> A **binding price floor** is a price floor that is <mark style="background: #ABF7F7A6;">set above the equilibrium price</mark>. 
+> A **non-binding price** floor is a price floor that is <mark style="background: #ABF7F7A6;">set below the equilibrium price.</mark> 
 
 
 **Pros of price controls:**

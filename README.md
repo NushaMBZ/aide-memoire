@@ -2,7 +2,7 @@
 dg-publish: true
 dg-home: true
 ---
-![[src/site/img/user/assets/attachments/anime study.gif]]
+![[anime study.gif]]
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
 ## Table of Content
@@ -20,6 +20,10 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[AGM4367/N Unit-02 S-13|N Unit-02 S-13]]
 	- [[AGM4367/N Unit-02 S-14|N Unit-02 S-14]]
 	- [[AGM4367/N Unit-02 S-15|N Unit-02 S-15]]
+	- [[AGM4367/N Unit-03 S-16|N Unit-03 S-16]]
+	- [[AGM4367/N Unit-03 S-17|N Unit-03 S-17]]
+	- [[N Unit-03 S-18]]
+	- [[AGM4367/N Unit-03 S-19|N Unit-03 S-19]]
 - EEI4362 | **Object Oriented Design**
 	- [[EEI4362/N DS S-02|N DS S-02]]
 	- [[EEI4362/N DS S-03|N DS S-03]]
@@ -40,11 +44,15 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[EEX4373/QA Session-03|QA Session-03]]
 	- [[EEX4373/QA Session-03|QA Session-03]]
 - EEI4362 | **Object Oriented Design**
-	- [[EEI4366/QA DS S-01]]
+	- [[EEI4362/QA DS S-01|QA DS S-01]]
 - LLJ3265 | **Introduction to Laws of Sri Lanka**
 	- [[LLJ3265/QA Session-01|QA Session-01]]
 - AGM4367 | **Economics and Marketing for Engineers**
 	- [[AGM4367/Q Unit-01|Q Unit-01]]
+	- [[Q Unit-02 S-06|Q Unit-02 S-06]]
+	- [[Q Unit-02 S-07|Q Unit-02 S-07]]
+	- [[AGM4367/Q Unit-02 S-08|Q Unit-02 S-08]]
+	- [[Q Unit-02 S-09|Q Unit-02 S-09]]
 
 ### Practical
 - EEX4373 | Data Science

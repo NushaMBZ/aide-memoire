@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 What is the significance of law in society, and how does it regulate the behavior of its members?
 
 - Law in general is <mark style="background: #FFF3A3A6;">the system of rules that a hierarchical organization develops to counter-measure any activities that are harmful to the collective.</mark> In the absence of such regulating bodies, the balance between order and chaos becomes questionable.
