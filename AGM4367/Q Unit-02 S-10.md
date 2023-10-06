@@ -16,7 +16,6 @@ A monopoly is a market structure in which there is <mark style="background: #D2B
 
 
 
-
  > [!question]
  > What are the natural monopolies in Sri Lanka?
 
@@ -174,3 +173,60 @@ b. 50 percent of the profits
 c. 150 Rs. per unit sold 
 
 d. 50 percent of the revenue
+
+> [!note]
+> You are going to organise a workshop for your village community where there are 600 adults and 400 children. It has a fixed cost of Rs.200, 000. Selling an extra ticket has zero marginal cost. Demand schedule for the workshop is as follows.
+
+| Price | Adults | Children | TR (Adults) | TR (Children) | FC      | Profit   |
+| ----- | ------ | -------- | ----------- | ------------- | ------- | -------- |
+| 1000  | 0      | 0        | 0           | 0             | 200,000 | -200,000 |
+| 900   | 200    | 0        | 180,000     | 0             | 200,000 | -20,000  |
+| 800   | 400    | 0        | 320,000     | 0             | 200,000 | 120,000  |
+| 700   | 600    | 0        | 420,000     | 0             | 200,000 | 220,000  |
+| 600   | 600    | 0        | 360,000     | 0             | 200,000 | 160,000  |
+| 500   | 600    | 200      | 300,000     | 100,000       | 200,000 | 200,000  |
+| 400   | 600    | 400      | 240,000     | 160,000       | 200,000 | 200,000  |
+| 300   | 600    | 400      | 180,000     | 120,000       | 200,000 | 100,000  |
+| 200   | 600    | 400      | 120,000     | 80,000        | 200,000 | 0        |
+| 100   | 600    | 400      | 60,000      | 40,000        | 200,000 | -100,000 |
+| 0     | 600    | 400      | 0           | 0             | 200,000 | -200,000 | 
+
+> [!question]
+> What is the price you charge for adults and children in maximising the profit?
+
+
+| Price | Adults | Children | TR (Adults) | TR (Children) | FC      | Profit   |
+| ----- | ------ | -------- | ----------- | ------------- | ------- | -------- |
+| 1000  | 0      | 0        | 0           | 0             | 200,000 | -200,000 |
+| 900   | 200    | 0        | 180,000     | 0             | 200,000 | -20,000  |
+| 800   | 400    | 0        | 320,000     | 0             | 200,000 | 120,000  |
+| 700   | 600    | 0        | 420,000     | 0             | 200,000 | 220,000  |
+| 600   | 600    | 0        | 360,000     | 0             | 200,000 | 160,000  |
+| 500   | 600    | 200      | 300,000     | 100,000       | <mark style="background: #FF5582A6;">200,000</mark> | <mark style="background: #FF5582A6;">200,000</mark>  |
+| 400   | 600    | 400      | 240,000     | 160,000       | <mark style="background: #FF5582A6;">200,000</mark> | <mark style="background: #FF5582A6;">200,000</mark>  |
+| 300   | 600    | 400      | 180,000     | 120,000       | 200,000 | 100,000  |
+| 200   | 600    | 400      | 120,000     | 80,000        | 200,000 | 0        |
+| 100   | 600    | 400      | 60,000      | 40,000        | 200,000 | -100,000 |
+| 0     | 600    | 400      | 0           | 0             | 200,000 | -200,000 | 
+
+
+> [!question]
+> If price discrimination is not allowed and you need to charge one rate, what will be the new rate and new profit?
+
+| Price | Persons | FC      | TR        | Profit  |
+| ----- | ------- | ------- | --------- | ------- |
+| 1000  | 1000    | 200,000 | 1,000,000 | 800,000 | 
+| 900   | 1000    | 200,000 | 900,000   | 700,000        |
+| 800   | 1000    | 200,000 | 800,000   | 600,000        |
+| 700   | 1000    | 200,000 | 700,000   | 500,000        |
+| 600   | 1000    | 200,000 | 600,000   | 400,000        |
+| 500   | 1000    | 200,000 | 500,000   | 300,000        |
+| 400   | 1000    | 200,000 | 400,000   | 200,000        |
+| 300   | 1000    | 200,000 | 300,000   | 100,000        |
+| 200   | 1000    | 200,000 | 200,000   | 0        |
+| 100   | 1000    | 200,000 | 100,000   | -100,000        |
+| 0     | 1000    | 200,000 | 0         | -200,000        |
+
+> [!question]
+> Who do you think would better off from the new law and who would be worse off?
+

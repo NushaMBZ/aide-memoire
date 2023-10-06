@@ -3,34 +3,34 @@
 
 Oligopoly Market Characteristics:
 
-1. Few Dominant Firms: In an oligopoly market, there are only a small number of large firms that dominate the industry. These firms have a significant market share and can influence market conditions.
+1. Few Dominant Firms: In an oligopoly market, <mark style="background: #FF5582A6;">there are only a small number of large firms</mark> that dominate the industry. These firms have a significant market share and can influence market conditions.
     
-2. Interdependence: Oligopolistic firms are highly interdependent. The actions or decisions of one firm can directly affect the others. This leads to strategic behavior as firms must consider how their competitors will react to their actions.
+2. Interdependence: Oligopolistic firms are highly interdependent. The actions or decisions of one firm can directly affect the others. 
     
-3. Barriers to Entry: Oligopolies often have high barriers to entry, making it difficult for new firms to enter the market. These barriers can include economies of scale, high startup costs, or established brand loyalty.
+3. Barriers to Entry: Oligopolies often have high barriers to entry, making it difficult for new firms to enter the market. 
     
-4. Product Differentiation: While some oligopolistic markets feature homogeneous products (perfect competition), many involve product differentiation. Firms may produce similar but slightly differentiated products, leading to competition based on branding, quality, or other attributes.
+4. Product Differentiation: While some oligopolistic markets feature <mark style="background: #FF5582A6;">homogeneous products</mark> (perfect competition), many involve product differentiation. Firms may produce similar but slightly differentiated products, leading to competition based on branding, quality, or other attributes.
     
-5. Price Rigidity: Oligopolistic firms are often hesitant to change prices frequently. Price wars can be detrimental to all firms involved, so they tend to maintain relatively stable prices over time.
+5. Price Rigidity: Oligopolistic firms are often hesitant to change prices frequently.
     
-6. Non-Price Competition: In addition to price, firms in oligopolies engage in non-price competition. This includes advertising, marketing, product innovation, and customer service to gain a competitive edge.
+6. Non-Price Competition: In addition to price, firms in oligopolies engage in non-price competition. 
     
 
 Monopolistically Competitive Market Characteristics:
 
-1. Many Small Firms: Monopolistically competitive markets feature a large number of relatively small firms, none of which have a dominant market share. Entry and exit are typically easy.
+1. Many Small Firms: Monopolistically competitive markets feature a <mark style="background: #FF5582A6;">large number of relatively small firms</mark>, none of which have a dominant market share. Entry and exit are typically easy.
     
-2. Product Differentiation: Firms in monopolistic competition produce differentiated products that are not perfect substitutes for each other. This differentiation can be based on branding, design, quality, or other factors.
+2. Product Differentiation: Firms in monopolistic competition produce <mark style="background: #FF5582A6;">differentiated products that are not perfect substitute</mark>s for each other. This differentiation can be based on branding, design, quality, or other factors.
     
-3. Limited Price Control: Unlike monopolies or oligopolies, firms in monopolistic competition have limited control over prices. They can set their own prices to some extent but must consider consumer preferences and competitor pricing.
+3. Limited Price Control: Unlike monopolies or oligopolies, firms in monopolistic competition have limited control over prices.
     
-4. Freedom of Entry and Exit: Firms can enter or exit the market relatively easily, as there are typically no significant barriers to entry. This promotes competition and innovation.
+4. Freedom of Entry and Exit: Firms can enter or exit the market relatively easily, as there are typically no significant barriers to entry.
     
-5. Non-Price Competition: Much like in oligopolistic markets, non-price competition is prevalent in monopolistically competitive markets. Firms focus on advertising, marketing, and product differentiation to attract customers.
+5. Non-Price Competition: Much like in oligopolistic markets, non-price competition is prevalent in monopolistically competitive markets. 
     
 6. Short-Run and Long-Run Profits: In the short run, firms in monopolistic competition can experience either economic profits or losses. In the long run, however, competition tends to erode these profits, bringing firms to a situation where they earn only normal profits.
     
-7. Consumer Choice: Monopolistic competition provides consumers with a variety of choices, as each firm offers a slightly different product. This diversity can lead to a wide range of consumer preferences being satisfied.
+7. Consumer Choice: Monopolistic competition provides consumers with a variety of choices, as each firm offers a slightly different product. 
 
 > [!question]
 > Explain profit maximisation of an oligopoly firm and a monopolistically competitive firm
@@ -46,11 +46,6 @@ Oligopolistic firms are aware that their decisions can directly impact their com
 3. Non-Price Competition: Oligopolistic firms often focus on non-price competition to differentiate their products and attract customers. 
     
 4. Collusion: In some instances, oligopoly firms may collude to maximize profits jointly. This can involve formal agreements like cartels or informal understandings.
-    
-5. Game Theory: Game theory is a common tool used by oligopolistic firms to model and predict the behavior of competitors.
-    
-6. Strategic Entry and Exit: Oligopoly firms may strategically enter or exit markets based on their assessment of potential profits.
-    
 
 Profit Maximization in a Monopolistically Competitive Firm:
 
@@ -58,7 +53,7 @@ Profit maximization in a monopolistically competitive firm is driven by market c
 
 1. Product Differentiation: Monopolistically competitive firms often focus on product differentiation to create a unique brand or product identity.
     
-2. Pricing Decisions: Unlike oligopolistic firms, monopolistically competitive firms have more control over their pricing decisions. They set prices based on their perception of consumer demand and their cost structures. However, they need to consider the level of differentiation and competition in their market.
+2. Pricing Decisions: Unlike oligopolistic firms, monopolistically competitive firms have more control over their pricing decisions.
     
 3. Short-Run and Long-Run Profit Considerations: In the short run, monopolistically competitive firms can earn either economic profits or losses, depending on factors like demand and costs. In the long run, competition tends to erode these profits, bringing them to a situation where they earn only normal profits (zero economic profit).
     
@@ -77,11 +72,7 @@ This a situation where competing firms in an oligopolistic market choose to work
     
 2. Cartels: Cartels are a specific form of collusion where firms formally agree to coordinate their pricing and production decisions. 
     
-3. Output Restrictions: In some cases, cooperating oligopoly firms may agree to limit their production or output.
-    
-4. Price Leadership: Instead of explicit collusion or cartels, some oligopoly firms engage in implicit cooperation through price leadership.
-    
-5. Mutual Interdependence: Oligopoly firms are inherently interdependent, meaning their actions affect each other's profits. Cooperation can involve recognizing this interdependence and making strategic decisions that consider the likely responses of competitors.
+3. Mutual Interdependence: Oligopoly firms are inherently interdependent, meaning their actions affect each other's profits. 
 
 > [!question]
 > Explain possible government policies towards oligopolies and monopolistically competitive markets
@@ -109,10 +100,7 @@ Government policies toward oligopolies and monopolistically competitive markets 
 3. **Competition Policy:** Governments can establish and enforce competition policies that prevent anticompetitive behavior, such as false advertising, collusion, or unfair business practices, in monopolistically competitive markets.
     
 4. **Consumer Education:** Governments can invest in consumer education and information campaigns to help consumers make informed choices among the diverse products available in monopolistically competitive markets. 
-    
-5. **Support for Small Businesses:** Policies that support small businesses, including access to financing, training, and market access, can encourage entrepreneurship and foster competition in monopolistically competitive markets.
-    
-6. **Environmental and Safety Regulations:** Governments may establish environmental and safety regulations that apply to all firms, ensuring that products meet certain standards and do not pose risks to public health and safety.
+
 
 > [!question]
 > Explain product differentiation, advertising and branding in a monopolistic market
@@ -149,7 +137,7 @@ Duopoly is a market structure in which there are only two dominant firms or supp
 
 **Oligopoly:**
 
-Oligopoly is a market structure characterized by a small number of large firms that dominate the industry. 
+Oligopoly is a market structure characterized by a <mark style="background: #FF5582A6;">small number of large firms</mark> that dominate the industry. 
 
 **Examples of Oligopolies:**
 
@@ -160,3 +148,79 @@ Oligopoly is a market structure characterized by a small number of large firms t
 3. **Airline Industry:** The airline industry is characterized by a limited number of major carriers, often referred to as legacy airlines, that control a significant portion of the market. Examples include Delta Air Lines, American Airlines, and United Airlines. These firms engage in price competition, route expansion, and service quality improvements.
     
 4. **Soft Drink Bottling:** While Coca-Cola and PepsiCo dominate the soft drink industry, the bottling and distribution of their products are often controlled by a few large bottling companies, creating an oligopolistic structure at this stage of the supply chain.
+
+> [!note]
+> Assume there are two companies supplying the fuel demand of a village. Table below shows the demand schedule for fuel and there is no cost of pumping. Marginal cost is zero
+
+| Quantity | Price | Total Revenue (and total profit) | MR   |
+| -------- | ----- | -------------------------------- | ---- |
+| 0        | 600   | 600                              | -    |
+| 10       | 550   | 5500                             | 490  |
+| 20       | 500   | 10000                            | 450  |
+| 30       | 450   | 13500                            | 350  |
+| 40       | 400   | 16000                            | 250  |
+| 50       | 350   | 17500                            | 150  |
+| 60       | 300   | 18000                            | 50   |
+| 70       | 250   | 17500                            | -50  |
+| 80       | 200   | 16000                            | -150 |
+| 90       | 150   | 13500                            | -250 |
+| 100      | 100   | 10000                            | -350 |
+| 110      | 50    | 5500                             | -450 | 
+| 120      | 0     | 0                                |  -550    |
+
+> [!question]
+> What is the level of profit maximising output for a competitive market?
+
+
+| Quantity | Price | Total Revenue (and total profit) | MR   |
+| -------- | ----- | -------------------------------- | ---- |
+| 0        | 600   | 600                              | -    |
+| 10       | 550   | 5500                             | 490  |
+| 20       | 500   | 10000                            | 450  |
+| 30       | 450   | 13500                            | 350  |
+| 40       | 400   | 16000                            | 250  |
+| 50       | 350   | 17500                            | 150  |
+| <mark style="background: #FF5582A6;">60 </mark>      | 300   | 18000                            | <mark style="background: #FF5582A6;">50</mark>   |
+| <mark style="background: #FF5582A6;">70</mark>       | 250   | 17500                            | <mark style="background: #FF5582A6;">-50</mark>  |
+| 80       | 200   | 16000                            | -150 |
+| 90       | 150   | 13500                            | -250 |
+| 100      | 100   | 10000                            | -350 |
+| 110      | 50    | 5500                             | -450 | 
+| 120      | 0     | 0                                |  -550    |
+
+
+
+> [!question]
+> What is the level of profit maximising output for a monopoly firm?
+
+
+| Quantity | Price | Total Revenue (and total profit) | MR   |
+| -------- | ----- | -------------------------------- | ---- |
+| 0        | 600   | 600                              | -    |
+| 10       | 550   | 5500                             | 490  |
+| 20       | 500   | 10000                            | 450  |
+| 30       | 450   | 13500                            | 350  |
+| 40       | 400   | 16000                            | 250  |
+| 50       | 350   | 17500                            | 150  |
+| <mark style="background: #FF5582A6;">60 </mark>      | 300   | 18000                            | <mark style="background: #FF5582A6;">50</mark>   |
+| <mark style="background: #FF5582A6;">70</mark>       | 250   | 17500                            | <mark style="background: #FF5582A6;">-50</mark>  |
+| 80       | 200   | 16000                            | -150 |
+| 90       | 150   | 13500                            | -250 |
+| 100      | 100   | 10000                            | -350 |
+| 110      | 50    | 5500                             | -450 | 
+| 120      | 0     | 0                                |  -550    |
+
+
+> [!question]
+> Assume that the two suppliers formed a cartel. What will be the profit maximising output level?
+
+
+
+> [!question]
+> If the two firms agreed to split the market equally, what will be the output of each firm and profit of each firm?
+
+
+
+> [!question]
+> If the firms do not cooperate, what can you say about each firm’s production level? Will it be greater than the previous answer?
+
