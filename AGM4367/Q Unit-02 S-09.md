@@ -285,6 +285,6 @@ Yes, it's because the market price of this product is equal to marginal revenue 
 > [!question]
 > If the market price is Rs.100, do you think that the firm should shut down? Explain.
 
-No, Because for a firm to shutdown the market price of a particular product should be lower.
+No, Because for a firm to shutdown the market price of a particular product should be lower than average variable cost.
 
 

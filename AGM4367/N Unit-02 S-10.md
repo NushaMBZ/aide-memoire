@@ -2,22 +2,21 @@
 dg-publish: true
 ---
 
-# Monopoly, Monopoly Power and Patents
-## Monopoly
-A monopoly is a market structure in which there is only one seller of a good or service. This seller has a lot of market power, which means that they can control the price of the good or service.
+# Monopoly
+A monopoly is a market structure in which there is <mark style="background: #D2B3FFA6;">only one seller of a good or service.</mark> 
 
 There are several characteristics of a monopoly:
 
-- There is only one seller of the good or service.
-- The seller has a lot of market power.
-- The seller can control the price of the good or service.
-- There are no close substitutes for the good or service.
-- Entry into the market is difficult or impossible.
+- There is <mark style="background: #FF5582A6;">only one seller</mark> of the good or service.
+- The seller has a <mark style="background: #FF5582A6;">lot of market power.</mark>
+- The seller can <mark style="background: #FF5582A6;">control the price</mark> of the good or service.
+- There are <mark style="background: #FF5582A6;">no close substitutes</mark> for the good or service.
+- Entry into the <mark style="background: #FF5582A6;">market is difficult</mark> or impossible.
 
 Monopolies can arise in a number of ways, including:
 
 - Government granted monopoly: The government gives one company the exclusive right to produce a good or service.
-- Natural monopoly: A single company can produce the good or service at a lower cost than multiple companies.
+- Natural monopoly: A single company <mark style="background: #FF5582A6;">can produce the good or service at a lower cost than multiple companies.</mark>
 - Technological monopoly: A company has a patent on a new technology that gives it a monopoly in the production of a good or service.
 
 Monopolies can have a number of negative effects on the economy, including:
@@ -33,6 +32,8 @@ There are a number of ways to regulate monopolies, including:
 - Antitrust laws: The government can use antitrust laws to break up monopolies or prevent them from forming.
 - Public ownership: The government can nationalize a monopoly and operate it as a public utility.
 
+![[Pasted image 20231006101815.png]]
+z
 ## How monopolies make production and pricing decisions?  
 
 Monopolies are<mark style="background: #FFF3A3A6;"> price makers</mark>, They can control the price of their product. As a result, monopolies can choose to produce any quantity of output that they want. However, they will always choose to produce the quantity of output where <mark style="background: #FF5582A6;">marginal revenue equals marginal cost.
@@ -95,6 +96,8 @@ In a monopoly, the monopoly will produce the quantity of output where marginal r
 ## Price discrimination
 Price discrimination is a <mark style="background: #FF5582A6;">strategy that a monopolist can use to increase its profits. </mark>Price discrimination involves <mark style="background: #FF5582A6;">charging different prices to different consumers, even though the cost of producing the good or service is the same.</mark> This can be done by grouping consumers based on their willingness to pay, their location, or other factors.
 
+![[Pasted image 20231006100011.png]]
+
 In the context of a monopoly, price discrimination can be used to increase the monopolist's profits by charging a higher price to consumers who are willing to pay more and a lower price to consumers who are willing to pay less. This can be done by charging different prices for different products, different prices for different quantities of the same product, or different prices for different groups of consumers.
 
 ## Public policy toward monopolies  
@@ -103,3 +106,5 @@ Public policy toward monopolies is a complex issue that varies from country to c
 - **Promoting competition:** Governments often try to promote competition by preventing monopolies from forming or by breaking up existing monopolies. This can be done through antitrust laws or other regulations.
 - **Protecting consumers:** Governments also try to protect consumers from the negative effects of monopolies, such as higher prices and lower quality products. This can be done by regulating prices, enforcing antitrust laws, or providing subsidies to consumers.
 - **Ensuring economic efficiency:** Governments also try to ensure that monopolies operate in an economically efficient way. This means that monopolies should not produce too much or too little output, and they should not charge prices that are too high or too low. This can be done through regulation or by public ownership.
+
+
