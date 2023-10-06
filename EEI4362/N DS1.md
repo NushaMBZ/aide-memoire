@@ -3,7 +3,7 @@
 • Object Orientation is based on real world. 
 • Programming model which is based upon the concept of objects, 
 • It is an important approach in programming and program design.
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
 
 # Fundamentals of OOP
 
