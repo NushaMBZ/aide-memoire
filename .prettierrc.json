@@ -1,0 +1,14 @@
+{
+	"printWidth": 80,
+	"semi": true,
+	"singleQuote": false,
+	"bracketSpacing": true,
+	"useTabs": true,
+	"plugins": ["prettier-plugin-svelte"],
+	"overrides": [
+		{
+			"files": [".prettierrc", ".eslintrc"],
+			"options": { "parser": "json" }
+		}
+	]
+}
