@@ -36,8 +36,8 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[LLJ3265/N Session-07|N Session-07]]
 	- [[LLJ3265/N Session-08|N Session-08]]
 - EEI4366 | Data Modelling and Database Systems
-	- [[EEI4366/N DS S-04 P-1|N DS S-04 P-1]]
-	- [[EEI4366/N DS S-03|N DS S-03]]
+	- [[N DS-04 P-1|N DS-04 P-1]]
+	- [[N DS-03|N DS-03]]
 ### Quizzes
 - EEX4373 | **Data Science**
 	- [[EEX4373/QA Session-01|QA Session-01]]
