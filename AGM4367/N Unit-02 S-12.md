@@ -69,7 +69,7 @@ Sometimes consumption activities of individuals create externalities on bystande
 
 ## Social marginal cost and private marginal cost in production  
 
-The social marginal cost (SMC) of production is the total cost of producing a good or service, including both <mark style="background: #ABF7F7A6;">the private marginal cost (PMC) and the external marginal cost (EMC)</mark>. The PMC is the cost that is borne by the producer, while the EMC is the cost that is <mark style="background: #ABF7F7A6;">borne by third parties</mark>, such as the environment or other people.
+The social marginal cost (SMC) of production is the total cost of producing a good or service, including both <mark style="background: #ABF7F7A6;">the marginal private  cost (PMC) and the external marginal cost (EMC)</mark>. The PMC is the cost that is borne by the producer, while the EMC is the cost that is <mark style="background: #ABF7F7A6;">borne by third parties</mark>, such as the environment or other people.
 
 The <mark style="background: #ABF7F7A6;">SMC is higher than the PMC when there are negative externalities</mark> associated with production. For example, when a factory pollutes the air, the EMC is the cost of the pollution, such as the health problems that it causes. The SMC includes the PMC and the EMC, so it is higher than the PMC.
 
@@ -116,34 +116,21 @@ Pollution is a focal negative externality which is controlled under different po
 
 - **Tradable pollution permits:** Tradable pollution permits are a market-based approach to pollution control. The government sets a cap on the total amount of pollution that can be emitted, and then issues permits to polluters. 
 
-- **Command-and-control regulations:** Command-and-control regulations are government rules that set limits on the amount of pollution that can be emitted.
-
 Here are some of the advantages and disadvantages of each policy:
 
 - **Pigouvian tax:**
     - Advantages:
-        - Efficient
-        - Flexible
-        - Can be used to address a variety of externalities
+		- Helps internalize negative externalities.
+		- Can be used to address a variety of externalities.
     - Disadvantages:
         - Can be difficult to measure the external cost of pollution
-        - Can be unpopular with polluters
 - **Tradable pollution permits:**
     - Advantages:
-        - Efficient
-        - Flexible
-        - Can be used to address a variety of externalities
+		- Helps internalize negative externalities.
+		- Can be used to address a variety of externalities
     - Disadvantages:
         - Can be difficult to design the system
         - Can be difficult to monitor and enforce
-- **Command-and-control regulations:**
-    - Advantages:
-        - Can be effective in reducing pollution
-        - Simple to understand and implement
-    - Disadvantages:
-        - Can be inefficient
-        - Can be inflexible
-        - Can be unpopular with polluters
 
 ### Emission standards 
 These are <mark style="background: #FF5582A6;">limits on the amount of pollution that can be emitted from a source</mark>, such as a factory or a car. <mark style="background: #FFF3A3A6;">They are a type of command-and-control regulation</mark> that is used to control pollution.

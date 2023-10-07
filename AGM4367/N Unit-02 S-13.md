@@ -21,6 +21,10 @@ International trade is the exchange of goods and services between two or more co
 ## Theory of Absolute Advantage
 The theory of absolute advantage is an economic theory that states that a country should <mark style="background: #ABF7F7A6;">specialize in the production of goods and services in which it has an absolute advantage and trade those goods and services with other countries for goods and services in which those countries have an absolute advantage.</mark>
 
+$$
+OPC=\frac{\text{Sacrificing Units}}{\text{Increasing Units}}
+$$
+
 ## Production Possibilities Frontier
 This (PPF) is a curve that shows all the possible combinations of two goods that can be produced by an economy with a given amount of resources. 
 
