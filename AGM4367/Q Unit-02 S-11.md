@@ -20,7 +20,7 @@ Monopolistically Competitive Market Characteristics:
 
 1. Many Small Firms: Monopolistically competitive markets feature a <mark style="background: #FF5582A6;">large number of relatively small firms</mark>, none of which have a dominant market share. Entry and exit are typically easy.
     
-2. Product Differentiation: Firms in monopolistic competition produce <mark style="background: #FF5582A6;">differentiated products that are not perfect substitute</mark>s for each other. This differentiation can be based on branding, design, quality, or other factors.
+2. Product Differentiation (`heterogeneous`): Firms in monopolistic competition produce <mark style="background: #FF5582A6;">differentiated products that are not perfect substitute</mark>s for each other. This differentiation can be based on branding, design, quality, or other factors.
     
 3. Limited Price Control: Unlike monopolies or oligopolies, firms in monopolistic competition have limited control over prices.
     
@@ -109,7 +109,7 @@ In a monopolistic market, product differentiation, advertising, and branding pla
 
 1. **Product Differentiation:**
     
-    Product differentiation refers to the process by which firms make their products distinct from those of their competitors in the eyes of consumers.
+    Product differentiation refers to the process by which <mark style="background: #FF5582A6;">firms make their products distinct from those of their competitors</mark> in the eyes of consumers.
         
 2. **Advertising:**
     
@@ -124,7 +124,7 @@ In a monopolistic market, product differentiation, advertising, and branding pla
 
 **Duopoly:**
 
-Duopoly is a market structure in which there are only two dominant firms or suppliers that dominate the entire industry. 
+Duopoly is a market structure in which there are only <mark style="background: #FF5582A6;">two dominant firms or suppliers</mark> that dominate the entire industry. 
 
 **Examples of Duopolies:**
 

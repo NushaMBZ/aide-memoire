@@ -20,8 +20,6 @@ Here are some of the key benefits.
 6. **Testability:** Code structured using design patterns often leads to more testable software. 
     
 7. **Performance Optimization:** Some design patterns, such as the Singleton pattern, can help optimize performance by ensuring that specific objects are instantiated only once. 
-
-
 ## Elements of Design Patterns
 1. **Pattern Name**: A descriptive name that represents the <mark style="background: #FFF3A3A6;">essence of the pattern.</mark> 
     
@@ -83,28 +81,33 @@ Discuss any relationships between the current design pattern and other design pa
 List any sources, books, articles, or online resources where readers can find more information about the design pattern.
 ## Classification of Design Patterns
 - **Creational Patterns**: Creational patterns deal with the process of <mark style="background: #FF5582A6;">object creation.</mark> They provide ways to instantiate objects while hiding the exact logic of how objects are created and initialized.
-- **Structural Patterns**: Structural patterns focus on the <mark style="background: #FF5582A6;">composition of classes and objects, helping to form larger structures</mark> while keeping the system flexible and efficient.
+- **Structural Patterns**: Structural patterns is **a blueprint of how different objects and classes are combined together to form a bigger structure for achieving multiple goals altogether**.
 - **Behavioral Patterns**: Behavioral patterns are concerned with the <mark style="background: #FF5582A6;">interactions between objects and the distribution of responsibilities.</mark>
 
 ### Creational Design Patterns
 #### Singleton Pattern
 Ensures that a class has <mark style="background: #FF5582A6;">only one instance and provides a global point of access to that instance.</mark>
-
+![[Pasted image 20231008194706.png]]
 #### Factory Method Pattern
 Defines <mark style="background: #FF5582A6;">an interface for creating objects but allows subclasses to decide which class to instantiate.</mark>
+
+![[Pasted image 20231008202627.png]]
 
 #### Abstract Factory Pattern
 Provides <mark style="background: #FF5582A6;">an interface for creating families of related or dependent objects without specifying their concrete classes.</mark>
 
+![[Pasted image 20231008203620.png]]
 #### Builder Pattern
 <mark style="background: #FF5582A6;">Separates the construction of a complex object from its representation</mark>, allowing the same construction process to create different representations.
-
+![[Pasted image 20231008204258.png]]
 ### Structural Design Patterns
 #### Composite Pattern 
 The Composite Pattern is used to <mark style="background: #FF5582A6;">compose objects into tree structures to represent part-whole hierarchies.
 </mark>
+![[Pasted image 20231008205230.png]]
 #### Adapter Pattern
 The Adapter Pattern, also known as the Wrapper pattern, <mark style="background: #FF5582A6;">allows objects with incompatible interfaces to work together.</mark>
+
 
 #### Proxy Pattern
 The Proxy Pattern provides a <mark style="background: #FF5582A6;">surrogate or placeholder for another object to control access, add security, or provide additional functionality.</mark>
