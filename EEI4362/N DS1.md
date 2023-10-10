@@ -78,4 +78,5 @@ Abstraction in Java refers to<mark style="background: #FFB8EBA6;"> hiding the i
 
 There are two ways to achieve abstraction 
 1. Abstract classes 
-2. Interfaces 
+	•An abstract class cannot be instantiated. That is no objects could be created for abstract classes.
+1. Interfaces 
