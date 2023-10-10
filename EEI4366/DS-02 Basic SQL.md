@@ -5,17 +5,17 @@ SQL, which stands for Structured Query Language, is a specialized programming la
     
     - DDL commands are used to define and manage the structure or schema of a database.
     - These commands include operations such as creating, altering, and dropping database objects like tables, indexes, and views.
-    - Common DDL commands include <mark style="background: #ABF7F7A6;">`CREATE`, `ALTER`, `DROP`, `TRUNCATE`,`UPDATE`,`DELETE` and `RENAME`.</mark>
+    - Common DDL commands include `CREATE`, `ALTER`, `DROP`, `TRUNCATE`,`UPDATE`,`DELETE` and `RENAME`.
 2. **DML (Data Manipulation Language)**:
     
     - DML commands are used to manipulate the data stored within a database.
     - These commands include operations such as querying data, inserting new records, updating existing records, and deleting records.
-    - Common DML commands include <mark style="background: #BBFABBA6;">`SELECT`, `INSERT`, `UPDATE`, and `DELETE`.</mark>
+    - Common DML commands include `SELECT`, `INSERT`, `UPDATE`, and `DELETE`.
 3. **DCL (Data Control Language)**:
     
     - DCL commands are used to control access and permissions within a database. They manage the security and access rights of users and roles.
     - These commands include operations such as granting or revoking privileges on database objects.
-    - Common DCL commands include <mark style="background: #ADCCFFA6;">`GRANT` and `REVOKE`.</mark>
+    - Common DCL commands include `GRANT` and `REVOKE`.
 
 ## Integrity
 
@@ -26,6 +26,7 @@ SQL, which stands for Structured Query Language, is a specialized programming la
 **Entity Integrity**:
 
 Entity integrity is one of the fundamental principles of database design and is typically enforced using primary keys in SQL databases.
+
 It ensures that each row in a table is uniquely identifiable, and no two rows have the same primary key value.
 
 ```sql
@@ -145,7 +146,7 @@ Referential integrity <mark style="background: #FF5582A6;">ensures the consisten
 ## Join
 
 JOIN operation is used to combine rows from two or more tables based on a related column between them. This operation allows you to retrieve data from multiple tables simultaneously, creating a virtual table or result set that combines information from the joined tables. 
-
+![[Pasted image 20231009110451.png]]
 There are several types of JOINs in SQL, including:
 
 1. **INNER JOIN**: This is the most common type of JOIN. It returns only the rows <mark style="background: #FF5582A6;">where there is a match in both tables based on the specified join condition.</mark> Rows from one table that do not have a matching row in the other table are excluded from the result.
@@ -195,3 +196,5 @@ There are several types of JOINs in SQL, including:
    FROM Employees e1
    LEFT JOIN Employees e2 ON e1.ManagerID = e2.EmployeeID;
    ```
+
+![[Pasted image 20231009213307.png]]
