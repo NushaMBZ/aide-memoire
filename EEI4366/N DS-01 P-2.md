@@ -1,6 +1,6 @@
 # DATABASE NORMALIZATION
 
-Database normalization is a process in database design that aims to minimize data redundancy and improve data integrity by organizing data into separate related tables.
+Database normalization is a process in database design that aims to <mark style="background: #FFB86CA6;">minimize data redundancy and improve data integrity</mark> by organizing data into separate related tables.
 
 characteristics of properly normalized database
 - Scalar values in each fields.
