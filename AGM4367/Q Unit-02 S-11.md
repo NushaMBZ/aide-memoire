@@ -37,7 +37,7 @@ Monopolistically Competitive Market Characteristics:
 
 Profit Maximization in an Oligopoly Firm:
 
-Oligopolistic firms are aware that their decisions can directly impact their competitors' actions and profits. As a result, they often employ various strategies to pursue profit maximization:
+Oligopolistic firms are aware that <mark style="background: #FF5582A6;">their decisions can directly impact their competitors' actions and profits.</mark> As a result, they often employ various strategies to pursue profit maximization:
 
 1. Price Leadership: Some oligopoly firms adopt a price leadership strategy where one dominant firm sets the price, and others follow suit.
     
