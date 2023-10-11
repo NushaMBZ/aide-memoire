@@ -7,7 +7,6 @@ characteristics of properly normalized database
 - Absence of redundancy. 
 - Minimal use of null values. 
 - Minimal loss of information.
-
 ## Levels of Normalization
 
 - First Normal Form (1NF) 

@@ -5,17 +5,17 @@ SQL, which stands for Structured Query Language, is a specialized programming la
     
     - DDL commands are used to define and manage the structure or schema of a database.
     - These commands include operations such as creating, altering, and dropping database objects like tables, indexes, and views.
-    - Common DDL commands include `CREATE`, `ALTER`, `DROP`, `TRUNCATE`,`UPDATE`,`DELETE` and `RENAME`.
+    - Common DDL commands include<mark style="background: #FFF3A3A6;"> `CREATE`, `ALTER`, `DROP`, `TRUNCATE`,`UPDATE`,`DELETE` and `RENAME`.</mark>
 2. **DML (Data Manipulation Language)**:
     
     - DML commands are used to manipulate the data stored within a database.
     - These commands include operations such as querying data, inserting new records, updating existing records, and deleting records.
-    - Common DML commands include `SELECT`, `INSERT`, `UPDATE`, and `DELETE`.
+    - Common DML commands include <mark style="background: #FFF3A3A6;">`SELECT`, `INSERT`, `UPDATE`, and `DELETE`.</mark>
 3. **DCL (Data Control Language)**:
     
     - DCL commands are used to control access and permissions within a database. They manage the security and access rights of users and roles.
     - These commands include operations such as granting or revoking privileges on database objects.
-    - Common DCL commands include `GRANT` and `REVOKE`.
+    - Common DCL commands include <mark style="background: #FFF3A3A6;">`GRANT` and `REVOKE`.</mark>
 
 ## Integrity
 
