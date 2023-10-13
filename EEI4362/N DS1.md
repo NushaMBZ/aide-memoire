@@ -78,5 +78,33 @@ Abstraction in Java refers to<mark style="background: #FFB8EBA6;"> hiding the i
 
 There are two ways to achieve abstraction 
 1. Abstract classes 
-	•An abstract class cannot be instantiated. That is no objects could be created for abstract classes.
-1. Interfaces 
+	• An abstract class cannot be instantiated. That is no objects could be created for abstract classes.
+	• Syntax for defining abstract class. 
+	```
+
+	abstract class identifier { 
+	
+	}
+	```
+	
+  •Abstract classes can be used as the super classes of inheritance. • They may OR may not contain abstract methods
+  
+**Abstract method** 
+
+• Abstract method is declared without a method body. 
+• Syntax for defining abstract class. 
+
+```
+Abstract <return_type><method_name> (<parameter list);
+```
+•The subclasses (Which are not abstract) of the abstract class should implement all the abstract methods defined in the parent class.
+
+• If a class is defined as ‘abstract’, it may or may not contain any abstract methods. 
+
+• If a class does not contain any abstract method, then it can be defined as abstract only if the programmer needs to restrict the creation of objects of that class. 
+
+• If a class is not abstract, then it cannot hold any abstract method.
+![[Pasted image 20231013215101.png]]
+2. Interfaces 
+	• An interface is a named collection of methoddefinitions (without implementations). 
+	• There are no attributes defined in the interfaces. If the attributes are defined, they are implicitly ‘static’ and ‘final’.
