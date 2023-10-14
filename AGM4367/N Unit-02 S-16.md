@@ -83,4 +83,3 @@ Macroeconomic agents are the different groups of participants in the economy.
 - **Central bank:** The central bank is the institution that controls the money supply and interest rates. It is responsible for maintaining price stability and promoting economic growth.
 
 ![[Pasted image 20230921124202.png]]
-

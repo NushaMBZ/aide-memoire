@@ -17,4 +17,3 @@ Economists have arguments on causes of recessions and expansions. Those come und
 It explains how the total demand for goods and services in an economy determines the level of output and employment.
 
 The AD curve is downward sloping, which means that as the price level rises, people are willing and able to buy fewer goods and services. This is because higher prices reduce people's real incomes, which makes them less able to afford to buy things. Additionally, higher prices can discourage businesses from investing, which can lead to lower output and employment.
-
