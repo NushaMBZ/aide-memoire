@@ -2,6 +2,9 @@
 dg-publish: true
 ---
 # Design Patterns
+
+Design patterns are <mark style="background: #ABF7F7A6;">typical solutions to common problems</mark> in software design.
+
 Design patterns are <mark style="background: #ABF7F7A6;">reusable  to commonly occurring design problems</mark> in software development.
 
 ## Advantages
@@ -19,7 +22,8 @@ Here are some of the key benefits.
     
 6. **Testability:** Code structured using design patterns often leads to more testable software. 
     
-7. **Performance Optimization:** Some design patterns, such as the Singleton pattern, can help optimize performance by ensuring that specific objects are instantiated only once. 
+7. **Performance Optimization:** Some design patterns, such as the Singleton pattern, can help optimize performance by ensuring that specific objects are instantiated only once.
+
 ## Elements of Design Patterns
 1. **Pattern Name**: A descriptive name that represents the <mark style="background: #FFF3A3A6;">essence of the pattern.</mark> 
     
@@ -30,15 +34,22 @@ Here are some of the key benefits.
 4. **Consequences and trade-offs of application**: Consequences are the outcomes or effects that result from applying a design pattern to your software design. Trade-offs are the compromises you make when choosing a particular design pattern.
 
 
-
 ## Design Patterns Templates
+
+### Name
+
+Describe the essence of the pattern in short
 ### Intent
 
 A brief statement describing <mark style="background: #FFF3A3A6;">the purpose and goal of the design pattern.</mark>
 
+### Also Known As
+
+other names that people have for the pattern
+
 ### Motivation
 
-Explain the problem or scenario the design pattern aims to address. Discuss the context and conditions under which the pattern becomes relevant.
+Explain the <mark style="background: #BBFABBA6;">problem or scenario the design pattern aims to address.</mark> Discuss the context and conditions under which the pattern becomes relevant.
 
 ### Applicability
 
@@ -46,7 +57,7 @@ Describe the situations where the design pattern is most appropriate. This inclu
 
 ### Structure
 
-Provide an overview of the components and relationships involved in the design pattern. You can use diagrams or textual descriptions to illustrate the structure.
+Provide an <mark style="background: #FFF3A3A6;">overview of the components and relationships</mark> involved in the design pattern. You can use diagrams or textual descriptions to illustrate the structure.
 
 ### Participants
 
@@ -73,6 +84,7 @@ If appropriate, provide a complete or partial code example to showcase how the p
 Highlight any well-known software systems or projects that utilize this design pattern.
 
 ### Related Patterns
+
 
 Discuss any relationships between the current design pattern and other design patterns. This could include variations, alternatives, or complementary patterns.
 
