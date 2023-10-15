@@ -26,15 +26,15 @@ The major elements are listed below.
 
 #### Abstraction
 
-An abstraction denotes the essential characteristics of an object that distinguish it from all other kinds of objects. Thus it provides crisply defined conceptual boundaries, relative to the perspective of the viewer.
+An abstraction denotes the <mark style="background: #FFB8EBA6;">essential characteristics of an object that distinguish it from all other kinds of objects. </mark>Thus it provides crisply defined conceptual boundaries, relative to the perspective of the viewer.
 
 #### Encapsulation
 
-Encapsulation is the process of compartmentalizing the elements of an abstraction that constitutes its structure and behavior.
+Encapsulation is the process of <mark style="background: #FFB8EBA6;">compartmentalizing the elements of an abstraction that constitutes its structure and behavior.</mark>
 
 #### Modularity
 
-Modularity is the property of a system that has been decomposed into a set of cohesive and loosely coupled modules.
+Modularity is the<mark style="background: #FFB8EBA6;"> property of a system that has been decomposed into a set of cohesive and loosely coupled modules.</mark>
 
 #### Hierarchy
 
