@@ -125,7 +125,10 @@ greet();
 ***PHP GET METHOD***
 
 - The GET method is restricted to sending up to 1024 characters only
-- 
+- Never use the GET method if you have a password or other sensitive information to be sent to the server
+- GET can't be used to send binary data 
+- The data sent by GET method can be accessed using the QUERY_STRING environment variable 
+- The GET provides a $_ GET associative array to access all the sent information using the GET method 
 
 
 ***PHP POST METHOD***
@@ -134,6 +137,58 @@ greet();
 - The POST method can be used to send ASCII as well as binary data
 - The data sent by POST method goes through the HTTP header so security depends on HTTP protocol. 
 - By using secure HTTP you can make that your information is secure
-- The POST provides a $_POST associative array to access all the sent information using the POST method
+- The POST provides a  $ POST associative array to access all the sent information using the POST method
 
+
+***Using GET Method***
+
+```HTML
+
+<form action="get_example.php" method="get">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name">
+    <input type="submit" value="Submit">
+</form>
+
+```
+
+```PHP
+
+<?php
+if (isset($_GET['name'])) {
+    $name = $_GET['name'];
+    echo "Hello, " . $name . "! You submitted your name using GET method.";
+} else {
+    echo "Please enter your name.";
+}
+?>
+
+```
+
+
+***Using POST Method***
+
+```HTML
+
+
+<form action="post_example.php" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name">
+    <input type="submit" value="Submit">
+</form>
+
+```
+
+```PHP
+
+<?php
+if (isset($_POST['name'])) {
+    $name = $_POST['name'];
+    echo "Hello, " . $name . "! You submitted your name using POST method.";
+} else {
+    echo "Please enter your name.";
+}
+?>
+
+```
 
