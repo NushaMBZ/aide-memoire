@@ -1,26 +1,30 @@
 ---
 tags:
-  - eei4362
+  - eei4362-n
 ---
 # Object Model
-
+#Q #AOSR/16bg1
 > [!definition]
-> An object model is _a logical interface, software or system that is modeled through the use of_ object-oriented techniques.
+> An object model :: is _a logical interface, software or system that is modeled through the use of_ object-oriented techniques. #AOSR/16bg1/s/6m2l
 
+#/Q
 ## **Elements of the Object Model**
 
+#Q #AOSR/4g6l4
 The four major elements of the object model (the conceptual framework of an object-oriented thing) are —
-
+? #AOSR/4g6l4/m/492q
 1. Abstraction
 2. Encapsulation
 3. Modularity
 4. Hierarchy
+#/Q
 
+#Q
 and the three minor elements are —
-
 1. Typing
 2. Concurrency
 3. Persistence.
+#/Q
 
 The major elements are essential whereas the minor ones are useful but not essential. Now we try to elaborately define major elements and minor elements.
 
