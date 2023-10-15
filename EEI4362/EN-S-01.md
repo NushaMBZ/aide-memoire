@@ -1,3 +1,7 @@
+---
+tags:
+  - eei4362
+---
 # Object Model
 
 > [!definition]
