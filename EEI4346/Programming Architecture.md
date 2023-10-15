@@ -1,4 +1,3 @@
-# Programing Architecture
 
 
 - Web Application architecture defines the interactions between applications, middleware systems and database to ensure multiple application work together
