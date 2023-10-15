@@ -75,4 +75,7 @@ POST
 - HTTPS uses an encryption protocol to encrypt communications
 - The protocol is called Transport Layer Security (TLS)
 - This protocol secures communications by using known as an asymmetric public key infrastructure
-- 
+- This type of security system uses two different keys to encrypt communications between two parties
+	-The private Key
+	-The public Key
+
