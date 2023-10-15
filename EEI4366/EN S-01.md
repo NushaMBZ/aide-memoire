@@ -7,7 +7,7 @@ tags:
 
 #Q #AOSR/4hgb6
 Logical data independence :: is the ability to change the <mark style="background: #FF5582A6;">logical schema of a database without affecting the external schema or the application programs that use the database.</mark> #AOSR/4hgb6/s/69fd
-
+#/Q
 **Example:**
 
 Suppose we have a database of customer information. The logical schema might include the following entities:
