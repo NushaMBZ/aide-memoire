@@ -59,12 +59,12 @@ Here, we record topics related to the courses we follow, these discussions are m
 	- [[EEX4373/P Session-02|P Session-02]]
 
 ## Features
-- **Collaborative note-taking**
-- **Version history**
-- **Rich formatting**
-- **Search and filter**
-- **LaTex support**
+- [x] Collaborative note-taking
+- [x] Version history
+- [x] Rich formatting
+- [x] Search and filter
+- [x] LaTex support
+- [x] Spaced repetition with flashcards
 
 ## Upcoming Features
- - [ ] **Spaced repetition with flashcards**
  - [ ] **Advanced collaboration tools**
