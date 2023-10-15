@@ -38,7 +38,7 @@ Modularity is the<mark style="background: #FFB8EBA6;"> property of a system that
 
 #### Hierarchy
 
-Hierarchy is a ranking of ordering of abstractions. The two most important hierarchies in a complex system are its class structure (‘is a’ or Generalization/specialization) and object structure (‘part of’ or whole part). 
+Hierarchy <mark style="background: #FFB8EBA6;">is a ranking of ordering of abstractions.</mark> The two most important hierarchies in a complex system are its <mark style="background: #BBFABBA6;">class structure</mark> (‘is a’ or Generalization/specialization) and <mark style="background: #BBFABBA6;">object structure</mark> (‘part of’ or whole part). 
 
 ### Minor Elements
 
