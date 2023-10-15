@@ -1,6 +1,6 @@
 ## **Logical data independence**
-
-Logical data independence is the ability to change the <mark style="background: #FF5582A6;">logical schema of a database without affecting the external schema or the application programs that use the database.</mark>
+#Q #AOSR/4hgb6
+Logical data independence :: is the ability to change the <mark style="background: #FF5582A6;">logical schema of a database without affecting the external schema or the application programs that use the database.</mark> #AOSR/4hgb6/s/69fd
 
 **Example:**
 
@@ -22,8 +22,8 @@ We could also have relationships between entities, such as:
 - An order can have many products.
 
 ## **Physical data independence**
-
-Physical data independence is the <mark style="background: #FF5582A6;">ability to change the physical schema of a database without affecting the logical schema or the application programs that use the database.</mark> 
+#Q #AOSR/5saq4
+Physical data independence :: is the <mark style="background: #FF5582A6;">ability to change the physical schema of a database without affecting the logical schema or the application programs that use the database.</mark>  #AOSR/5saq4/s/7d7d
 
 **Example:**
 
@@ -41,20 +41,21 @@ Logical and physical data independence offer a number of benefits, including:
 
 
 # Three-tier architecture
-
-Three-tier architecture is a <mark style="background: #FF5582A6;">client-server architecture that separates the user interface, application processing, and data management</mark> into three distinct tiers or layers:
-
-- **Presentation tier:** The presentation tier is the user interface or client layer of the application. It is responsible for <mark style="background: #FF5582A6;">presenting data to the user and receiving input from the user.</mark>
-  
-- **Application tier:** The application tier is the business logic layer. It is responsible for <mark style="background: #FF5582A6;">processing user requests and generating responses. </mark>The application tier also interacts with the database tier to retrieve and store data.
-  
-- **Database tier:** The database tier is the data storage layer. It is responsible for <mark style="background: #FF5582A6;">storing and managing the data that the application uses.</mark>
+#Q #AOSR/5evq0
+Three-tier architecture :: is a <mark style="background: #FF5582A6;">client-server architecture that separates the user interface, application processing, and data management</mark> into three distinct tiers or layers: #AOSR/5evq0/s/5hua
+ #Q
+- Presentation tier:: The presentation tier is the user interface or client layer of the application. It is responsible for <mark style="background: #FF5582A6;">presenting data to the user and receiving input from the user.</mark> #AOSR/5evq0/s/28eu
+ #Q
+- Application tier:: The application tier is the business logic layer. It is responsible for <mark style="background: #FF5582A6;">processing user requests and generating responses. </mark>The application tier also interacts with the database tier to retrieve and store data. #AOSR/5evq0/s/7rji
+  #Q
+- Database tier:: The database tier is the data storage layer. It is responsible for <mark style="background: #FF5582A6;">storing and managing the data that the application uses.</mark> #AOSR/5evq0/s/190o
 
 
 ## Direct File Organization
-**Direct file organization** is a file organization method in which each <mark style="background: #FF5582A6;">record in a file is directly mapped to a specific storage location</mark> on the disk.
-
-**Advantages of direct file organization:**
+#Q #AOSR/6knhc
+Direct file organization :: is a file organization method in which each <mark style="background: #FF5582A6;">record in a file is directly mapped to a specific storage location</mark> on the disk. #AOSR/6knhc/s/370f
+#Q
+Advantages of direct file organization
 
 - **Fast access:** Direct file organization allows for very fast access to individual records, since the storage location of each record is known in advance.
 - **Simple implementation:** Direct file organization is relatively simple to implement and use.
