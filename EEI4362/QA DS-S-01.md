@@ -8,7 +8,7 @@ Discuss the _fundamental principles of object-oriented programming_ and how they
 
 #Q #AOSR/58jen
 How does object-oriented programming promote code reusability and modularity?
-* With certain characteristics such as inheritence and abstraction a developer will have the benefit of ==writing less code and making it less complicated.== #AOSR/58jen/c/6c0p 
+* With certain characteristics such as inheritence and abstraction a developer will have the benefit of ==writing less code and making it less complicated.== #AOSR/58jen/c/6c0p #AOSR/36pp6/c/7cu4  
 
 #Q #AOSR/3q1na
 Explain the concept of encapsulation in object-oriented programming. How does encapsulation contribute to the organization and security of code?
@@ -28,12 +28,12 @@ In what ways does inheritance facilitate code reuse and promote the concept of "
 
 #Q #AOSR/1ir98
 Describe the role of polymorphism in object-oriented programming and provide examples of how it can enhance code flexibility and extensibility.
-* Polymorphism allows an ==individual object to exhibit different behaviors or be used interchangeably== #AOSR/1ir98/c/fn7b  so that it can take on different forms or behave in different ways.
+* Polymorphism allows an ==individual object to exhibit different behaviors or be used interchangeably== #AOSR/1ir98/c/fn7b #AOSR/36pp6/c/3msg   so that it can take on different forms or behave in different ways.
 * This could be viewed in two different aspects :
     * Compile-time Polymorphism (Static Polymorphism):
-        * Method Overloading: In OOP, ==multiple methods with the same name but different parameter types or number of parameters== #AOSR/1ir98/c/2tpj  can be defined within a class. This is known as method overloading.
+        * Method Overloading: In OOP, ==multiple methods with the same name but different parameter types or number of parameters== #AOSR/1ir98/c/2tpj #AOSR/36pp6/c/4ad9   can be defined within a class. This is known as method overloading.
     * Runtime Polymorphism (Dynamic Polymorphism):
-        * Method Overriding:<mark style="background: #FFF3A3A6;"> Inheritance and polymorphism work together to enable method overriding</mark>. In ==a subclass, methods with the same signature as those in the superclass== #AOSR/1ir98/c/1bsk  can be redefined to provide a specific implementation.
+        * Method Overriding:<mark style="background: #FFF3A3A6;"> Inheritance and polymorphism work together to enable method overriding</mark>. In ==a subclass, methods with the same signature as those in the superclass== #AOSR/1ir98/c/1bsk #AOSR/36pp6/c/5nbv   can be redefined to provide a specific implementation.
 * Polymorphism enhances code flexibility and extensibility in several ways:
     * Allows the creation of generic code that can work with objects of different types, increasing code reuse.
     * New classes can be easily added without modifying existing code, as long as they adhere to the common interface or superclass contract.
