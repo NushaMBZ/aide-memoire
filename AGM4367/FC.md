@@ -8,7 +8,7 @@
 				"fact": "file",
 				"path": "$.tags",
 				"operator": "regexMatch",
-				"value": "eei4362-n"
+				"value": "agm4367"
 			}]
 		},
 		"event": {
@@ -27,7 +27,7 @@
 				"fact": "file",
 				"path": "$.tags",
 				"operator": "regexMatch",
-				"value": "eei4362"
+				"value": "agm4367"
 			}]
 		},
 		"event": {
