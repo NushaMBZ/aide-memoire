@@ -4,17 +4,17 @@ tags:
   - agm4367
 ---
 # Economics
-#Q
-Economics :: This is a <mark style="background: #FF5582A6;">social science</mark> that studies phenomena related to humans' behavior in relation to how they <mark style="background: #FFF3A3A6;">make decisions in meeting thier needs and wants when limited resource is available.</mark>
+#Q #AOSR/2t3dq
+Economics :: This is a <mark style="background: #FF5582A6;">social science</mark> that studies phenomena related to humans' behavior in relation to how they <mark style="background: #FFF3A3A6;">make decisions in meeting thier needs and wants when limited resource is available.</mark> #AOSR/2t3dq/s/6gmh
 #/Q 
 ## Economics Agents
-#Q
-Economic agents :: These are <mark style="background: #FFF3A3A6;">individual units capable of utilizing the scarce resouces to get the best advantage</mark>, since the very nature of resources reminds us the fact that they are scare,economics agents should engage in the activity of properly utilizing the resource to get what they need.
+#Q #AOSR/cja0i
+Economic agents :: These are <mark style="background: #FFF3A3A6;">individual units capable of utilizing the scarce resouces to get the best advantage</mark>, since the very nature of resources reminds us the fact that they are scare,economics agents should engage in the activity of properly utilizing the resource to get what they need. #AOSR/cja0i/s/itol
 #/Q 
 
 ## Resources
-#Q
-Resources :: It refers to the <mark style="background: #FFF3A3A6;">various materials, assets, or factors that are available and utilized to meet human needs and wants.</mark> 
+#Q #AOSR/1g9rf
+Resources :: It refers to the <mark style="background: #FFF3A3A6;">various materials, assets, or factors that are available and utilized to meet human needs and wants.</mark>  #AOSR/1g9rf/s/5k9m
 The inherent nature of resources is that, they are <mark style="background: #FF5582A6;">scarce</mark> and have <mark style="background: #FF5582A6;">alternative uses</mark>.
 #/Q 
 
