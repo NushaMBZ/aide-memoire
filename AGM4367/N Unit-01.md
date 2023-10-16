@@ -19,8 +19,8 @@ The inherent nature of resources is that, they are <mark style="background: #FF5
 #/Q 
 
 ## Opportunity Cost
-#Q
-Opportunity cost :: This is <mark style="background: #FFF3A3A6;">the benefit of next best alternative that you need  to give-up when selecting a choice.</mark>
+#Q #AOSR/z3557
+Opportunity cost :: This is <mark style="background: #FFF3A3A6;">the benefit of next best alternative that you need  to give-up when selecting a choice.</mark> #AOSR/z3557/s/6ohp
 #/Q
 # Branch of Economics
 
@@ -298,8 +298,8 @@ Accounting profit is a straightforward measure that is commonly used in financia
 > Accounting Profit = Total Revenue - Total Explicit Costs
 
 ## Theory of the Firm  
-#Q
-Theory of the Firm :: This is an economic concept that seeks to <mark style="background: #FFF3A3A6;">understand the behavior and organization of firms</mark> within an economic system.
+#Q #AOSR/1cthv
+Theory of the Firm :: This is an economic concept that seeks to <mark style="background: #FFF3A3A6;">understand the behavior and organization of firms</mark> within an economic system. #AOSR/1cthv/s/3iib
 #/Q 
 
 It aims to explain how <mark style="background: #FF5582A6;">firms make decisions</mark> regarding <mark style="background: #FFF3A3A6;">production, pricing, investment, and other strategic choices</mark> to maximize their profits or achieve their objectives.
@@ -322,8 +322,8 @@ $X_3$ through $X_n$ are other  inputs used in production.
 The firm <mark style="background: #FFF3A3A6;">can change quantity of a variable input</mark> if  desired within a production period. However the amount of the input used <mark style="background: #FFF3A3A6;">cannot  be changed</mark> within the production period if the input is a fixed input.  
 
 #### Product Curves 
-#Q
-Total product (TP) :: This is the **total output that can be produced** with a given level of input.
+#Q #AOSR/3uqjq
+Total product (TP) :: This is the **total output that can be produced** with a given level of input. #AOSR/3uqjq/s/1d7a
 #/Q 
 
 #Q

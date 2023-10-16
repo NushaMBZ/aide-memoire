@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+tags:
+  - agm4367
 ---
 # Elasticity of Demand and Supply  
 
@@ -7,6 +9,7 @@ dg-publish: true
 >Tabular representation of quantity demanded at each price is called the ‘demand  schedule’ and its graphical representation which is usually a downward sloping line  relating price and quantity is called the ‘demand curve’. 
 
 ## Market Equilibrium
+
 Market equilibrium refers to the <mark style="background: #FF5582A6;">state in which the quantity of a particular good or service demanded by buyers is equal to the quantity supplied by producers or sellers</mark> in a given market. 
 
 ## Market Forces of Demand  
@@ -16,7 +19,9 @@ Change in the quantity of a good or service that consumers are willing and able 
 ![[Pasted image 20230816123427.png]]
 
 ### Demand Shifters
-Demand determinants or factors affecting demand, are <mark style="background: #FFF3A3A6;">variables that influence the quantity of a good or service demanded  at different price levels. </mark>
+#Q #AOSR/4eo7s
+Demand determinants :: or factors affecting demand, are <mark style="background: #FFF3A3A6;">variables that influence the quantity of a good or service demanded  at different price levels. </mark> #AOSR/4eo7s/s/38fc
+#/Q
 
 #### Types of Demand Shifters
 - Income: <mark style="background: #FFF3A3A6;">Changes in consumers' income levels</mark> can affect their purchasing power.
@@ -36,9 +41,9 @@ Demand determinants or factors affecting demand, are <mark style="background: #F
 A change in the quantity of a good or service that producers are willing and able to offer for sale at every possible price level.
 ![[Pasted image 20230816123401.png]]
 ### Supply Shifters
-
-Supply determinants or <mark style="background: #FFF3A3A6;">factors affecting supply, are variables that influence the quantity of a good or service that producers</mark> are willing and able to supply at different price levels.
-
+#Q
+Supply determinants :: or <mark style="background: #FFF3A3A6;">factors affecting supply, are variables that influence the quantity of a good or service that producers</mark> are willing and able to supply at different price levels.
+#/Q
 - Input prices: The <mark style="background: #FFF3A3A6;">cost of production inputs</mark>, such as labor, raw materials, and energy, can significantly impact the supply of goods.
 - Technological advancements: <mark style="background: #FFF3A3A6;">Improvements in technology can lead to more efficient production methods, reducing the cost of production</mark> and increasing supply. 
 - Number of suppliers: An <mark style="background: #FFF3A3A6;">increase in the number of producers or suppliers</mark> in a market can lead to an increase in supply.
@@ -46,6 +51,7 @@ Supply determinants or <mark style="background: #FFF3A3A6;">factors affecting su
 - Natural factors: Natural factors such as weather conditions and natural disasters can impact the supply of goods, particularly in industries like agriculture.
 
 ### Shift in both Demand and Supply
+
 When both the demand and supply curves shift simultaneously, the equilibrium price and quantity in a market can change in complex ways.
 
 ![[Pasted image 20230816123657.png]]

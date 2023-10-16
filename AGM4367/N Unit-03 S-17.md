@@ -4,18 +4,22 @@ dg-publish: true
 # National Income
 
 > [!definition]
-> National income is the total value of all the final goods and services produced in a country during a specific period of time. 
+> #Q
+> National income :: is the total value of all the final goods and services produced in a country during a specific period of time. 
+> #/Q
 
 ## Gross Domestic Product
 
 > [!Definition]
-> It is the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period.
+> #Q
+> Gross Domestic Product :: It is the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period.
+> #/Q
 
 GDP can be calculated in three ways:
 
-1. **Expenditure approach:** This method sums up the value of all goods and services consumed by households, businesses, and the government, as well as net exports.
-2. **Production approach:** This method sums up the value of all goods and services produced by all industries in the economy.
-3. **Income approach:** This method sums up all wages, salaries, profits, and other forms of income earned by individuals and businesses in the economy.
+1. **Expenditure approach:** This method <mark style="background: #FFF3A3A6;">sums up the value of all goods and services consumed by households, businesses, and the government, as well as net exports.</mark>
+2. **Production approach:** This method <mark style="background: #FFB8EBA6;">sums up the value of all goods and services produced by all industries in the economy.</mark>
+3. **Income approach:** This method <mark style="background: #FFB8EBA6;">sums up all wages, salaries, profits, and other forms of income earned by individuals and businesses in the economy.</mark>
 
 > [!tip]
 > Real GDP takes into account the effects of inflation while nominal GDP does not.
@@ -23,23 +27,29 @@ GDP can be calculated in three ways:
 ### **Real GDP**
 
 > [!definition]
-> It is the total market value of all final goods and services produced within a country's borders during a specific period of time, adjusted for inflation.
+> It is the <mark style="background: #FFF3A3A6;">total market value of all final goods and services produced within a country</mark>'s borders during a specific period of time, adjusted for inflation.
 
 ```
 Real GDP = Nominal GDP / Price Index
 ```
 
+> [!definition]
+> Market prices <mark style="background: #FF5582A6;">measures the total value of goods and services</mark> produced in a country during a specific time period while adjusting for changes in price levels.
+
 > [!example]
-> Suppose a country has a nominal GDP of $1 trillion and a price index of 1.10. This means that the country's real GDP is $909 billion.
+> Suppose a country has a nominal GDP of $1 billion and a price index of 1.10. This means that the country's real GDP is $909 million.
 
 ### Nominal GDP
 
 > [!definition]
-> The total market value of all final goods and services produced within a country's borders during a specific period of time, at current prices.
+> The total market value of all final goods and services produced within a country's borders during a specific period of time,<mark style="background: #FFB8EBA6;"> at current prices.</mark>
 
 ```
 Nominal GDP = Quantity of goods and services produced * Price of goods and services
 ```
+
+> [!definition]
+> Current prices represents the total value of goods and services produced in a country during a specific time period, typically a year or a quarter, <mark style="background: #FF5582A6;">without adjusting for changes in price levels.</mark> In other words, it reflects the economic output using the prices that are prevailing in the year of measurement.
 
 > [!example]
 > Suppose a country produces 100 widgets in a year and each widget sells for $10. The country's nominal GDP would be $1,000.
