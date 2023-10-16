@@ -41,8 +41,8 @@ Demand determinants :: or factors affecting demand, are <mark style="background:
 A change in the quantity of a good or service that producers are willing and able to offer for sale at every possible price level.
 ![[Pasted image 20230816123401.png]]
 ### Supply Shifters
-#Q
-Supply determinants :: or <mark style="background: #FFF3A3A6;">factors affecting supply, are variables that influence the quantity of a good or service that producers</mark> are willing and able to supply at different price levels.
+#Q #AOSR/5ejv4
+Supply determinants :: or <mark style="background: #FFF3A3A6;">factors affecting supply, are variables that influence the quantity of a good or service that producers</mark> are willing and able to supply at different price levels. #AOSR/5ejv4/s/1sru
 #/Q
 - Input prices: The <mark style="background: #FFF3A3A6;">cost of production inputs</mark>, such as labor, raw materials, and energy, can significantly impact the supply of goods.
 - Technological advancements: <mark style="background: #FFF3A3A6;">Improvements in technology can lead to more efficient production methods, reducing the cost of production</mark> and increasing supply. 

@@ -5,22 +5,25 @@ tags:
 ---
 # Economics
 #Q
-Economics :: This is a <mark style="background: #FF5582A6;">social science</mark> that studies phenomena related to humans' behavior in relation to how they <mark style="background: #FFF3A3A6;">make decisions in meeting thier needs and wants when limited resource is available.</mark>
+ #AOSR/2t3dq
+Economics :: This is a <mark style="background: #FF5582A6;">social science</mark> that studies phenomena related to humans' behavior in relation to how they <mark style="background: #FFF3A3A6;">make decisions in meeting thier needs and wants when limited resource is available.</mark> #AOSR/2t3dq/s/6gmh
 #/Q 
 ## Economics Agents
 #Q
-Economic agents :: These are <mark style="background: #FFF3A3A6;">individual units capable of utilizing the scarce resouces to get the best advantage</mark>, since the very nature of resources reminds us the fact that they are scare,economics agents should engage in the activity of properly utilizing the resource to get what they need.
+ #AOSR/cja0i
+Economic agents :: These are <mark style="background: #FFF3A3A6;">individual units capable of utilizing the scarce resouces to get the best advantage</mark>, since the very nature of resources reminds us the fact that they are scare,economics agents should engage in the activity of properly utilizing the resource to get what they need. #AOSR/cja0i/s/itol
 #/Q 
 
 ## Resources
 #Q
-Resources :: It refers to the <mark style="background: #FFF3A3A6;">various materials, assets, or factors that are available and utilized to meet human needs and wants.</mark> 
+ #AOSR/1g9rf
+Resources :: It refers to the <mark style="background: #FFF3A3A6;">various materials, assets, or factors that are available and utilized to meet human needs and wants.</mark>  #AOSR/1g9rf/s/5k9m
 The inherent nature of resources is that, they are <mark style="background: #FF5582A6;">scarce</mark> and have <mark style="background: #FF5582A6;">alternative uses</mark>.
 #/Q 
 
 ## Opportunity Cost
-#Q #AOSR/z3557
-Opportunity cost :: This is <mark style="background: #FFF3A3A6;">the benefit of next best alternative that you need  to give-up when selecting a choice.</mark> #AOSR/z3557/s/6ohp
+#Q
+Opportunity cost :: This is <mark style="background: #FFF3A3A6;">the benefit of next best alternative that you need  to give-up when selecting a choice.</mark>
 #/Q
 # Branch of Economics
 
@@ -298,8 +301,8 @@ Accounting profit is a straightforward measure that is commonly used in financia
 > Accounting Profit = Total Revenue - Total Explicit Costs
 
 ## Theory of the Firm  
-#Q #AOSR/1cthv
-Theory of the Firm :: This is an economic concept that seeks to <mark style="background: #FFF3A3A6;">understand the behavior and organization of firms</mark> within an economic system. #AOSR/1cthv/s/3iib
+#Q
+Theory of the Firm :: This is an economic concept that seeks to <mark style="background: #FFF3A3A6;">understand the behavior and organization of firms</mark> within an economic system.
 #/Q 
 
 It aims to explain how <mark style="background: #FF5582A6;">firms make decisions</mark> regarding <mark style="background: #FFF3A3A6;">production, pricing, investment, and other strategic choices</mark> to maximize their profits or achieve their objectives.
@@ -322,8 +325,8 @@ $X_3$ through $X_n$ are other  inputs used in production.
 The firm <mark style="background: #FFF3A3A6;">can change quantity of a variable input</mark> if  desired within a production period. However the amount of the input used <mark style="background: #FFF3A3A6;">cannot  be changed</mark> within the production period if the input is a fixed input.  
 
 #### Product Curves 
-#Q #AOSR/3uqjq
-Total product (TP) :: This is the **total output that can be produced** with a given level of input. #AOSR/3uqjq/s/1d7a
+#Q
+Total product (TP) :: This is the **total output that can be produced** with a given level of input.
 #/Q 
 
 #Q
@@ -362,5 +365,4 @@ TC curve lies on a parallel  position above the TVC curve as TFC is fixed and TC
 - Average Fixed Cost=FC/Y
 - Average Variable Cost=VC/Y
 - Average Total Cost=AFC+AVC
-- Marginal Cost (at a given level of Y)=$(\Delta TC)/(\Delta Y)$ 
-
+- Marginal Cost (at a given level of Y)=$(\Delta TC)/(\Delta Y)$
