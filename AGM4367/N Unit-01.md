@@ -232,8 +232,8 @@ A <mark style="background: #FF5582A6;">shift in the entire demand curve</mark>, 
 Quantity supply :: is the amount of the good or services that the sellers are <mark style="background: #FF5582A6;">willing to sell and able to sell</mark> at a  <mark style="background: #FFF3A3A6;">given price level and at a given period of time.</mark>
 #/Q 
 ### Law of Supply
-#Q
-Law of Supply :: Assuming that all the other factors are not changing, <mark style="background: #FF5582A6;">quantity of a good supply by sellers increases  with the increase in price of that goods and vice versa</mark>.
+#Q #AOSR/7d2a2
+Law of Supply :: Assuming that all the other factors are not changing, <mark style="background: #FF5582A6;">quantity of a good supply by sellers increases  with the increase in price of that goods and vice versa</mark>. #AOSR/7d2a2/s/5mge
 #/Q 
 
 > Q = c + dP
@@ -281,8 +281,8 @@ Explicit costs :: are those costs that involve a <mark style="background: #FFF3A
 #/Q 
 
 ## Implicit Costs
-#Q 
-Implicit costs :: the potential benefits or profits the company could have earned <mark style="background: #FF5582A6;">if it had chosen a different use for its resources.</mark>
+#Q  #AOSR/7qmcu
+Implicit costs :: the potential benefits or profits the company could have earned <mark style="background: #FF5582A6;">if it had chosen a different use for its resources.</mark> #AOSR/7qmcu/s/3qk7
 #/Q 
 
 ### Economic Profit
