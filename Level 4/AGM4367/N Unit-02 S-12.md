@@ -3,23 +3,31 @@ dg-publish: true
 ---
 
 # Externalities
-An externality is the <mark style="background: #FF5582A6;">impact of one party's economic activities on another party's well-being that is not considered in the market price.</mark> 
+#Q
+An externality :: is the <mark style="background: #FF5582A6;">impact of one party's economic activities on another party's well-being that is not considered in the market price.</mark> 
+#/Q 
 
 > [!tip]
 > It is the cost or benefit that arises from an economic activity that falls on a third party.
 
-**Positive externalities** occur when the <mark style="background: #FFF3A3A6;">production or consumption of a good or service benefits a third party. </mark> This means that the benefits of the good or service extend beyond the person who produces or consumes it.
+#Q
+**Positive externalities** :: occur when the <mark style="background: #FFF3A3A6;">production or consumption of a good or service benefits a third party. </mark> This means that the benefits of the good or service extend beyond the person who produces or consumes it.
+#/Q 
 
-**Negative externalities** occur when <mark style="background: #FFF3A3A6;">the production or consumption of a good or service harms a third party.</mark> This means that the costs of the good or service extend beyond the person who produces or consumes it.
+#Q
+**Negative externalities** :: occur when <mark style="background: #FFF3A3A6;">the production or consumption of a good or service harms a third party.</mark> This means that the costs of the good or service extend beyond the person who produces or consumes it.
+#/Q 
 
-> Internalizing an externality is <mark style="background: #FF5582A6;">the process of making the producer or consumer of a good or service bear the full costs of that good or service, including both the private costs and the external costs.</mark>
-
+#Q
+> Internalizing an externality :: is <mark style="background: #FF5582A6;">the process of making the producer or consumer of a good or service bear the full costs of that good or service, including both the private costs and the external costs.</mark>
+#/Q 
 
 ## Externalities in Production
+
 A <mark style="background: #FF5582A6;">production process involves activities that influence the wellbeing of bystanders.</mark>
 
-**Positive externalities of production**
-
+#Q 
+**Positive externalities of production** ::
 - **Education:** When a person gets an education, they are not only benefiting themselves, but they are also benefiting society as a whole. 
 
 - **Vaccination:** When a person gets vaccinated against a disease, they are not only protecting themselves from the disease, but they are also helping to protect others who are not vaccinated. 
@@ -29,9 +37,10 @@ A <mark style="background: #FF5582A6;">production process involves activities th
 - **Farming:** When farmers use sustainable practices, they can help to improve the environment and reduce pollution.
 
 - **Reforestation:** When trees are planted, they can help to improve air quality and reduce flooding.
+#/Q 
 
-**Negative externalities of production**
-
+#Q 
+**Negative externalities of production** ::
 - **Pollution:** When a factory pollutes the air or water, it harms the health of people who live nearby.
   
 - **Noise pollution:** When a noisy factory or airport is located near homes or businesses, it can make it difficult for people to sleep, concentrate, and enjoy their lives.
@@ -39,12 +48,14 @@ A <mark style="background: #FF5582A6;">production process involves activities th
 - **Land use:** When a factory or other development takes up land, it can prevent others from using that land for other purposes, such as agriculture or recreation.
   
 - **Resource depletion:** When a company depletes a natural resource, such as oil or water, it can harm future generations who will need to rely on that resource.
+#/Q 
 
 ## Externalities in Consumption
+
 Sometimes consumption activities of individuals create externalities on bystanders. 
 
-- **Negative externalities:**
-    
+#Q
+- **Negative externalities**::
     - **Congestion:** When people drive cars, they contribute to traffic congestion.
       
     - **Noise pollution:** When people play loud music or use noisy machinery, they can disturb their neighbors.
@@ -54,9 +65,10 @@ Sometimes consumption activities of individuals create externalities on bystande
     - **Social ills:** When people consume drugs or alcohol, they can harm themselves and others.
       
     - **Obesity:** When people eat unhealthy foods, they can increase their risk of developing health problems, such as heart disease and diabetes.
+#/Q 
 
-- **Positive externalities:**
-    
+#Q 
+- Positive externalities::
     - **Education:** When people get an education, they are not only benefiting themselves, but they are also benefiting society as a whole. 
       
     - **Vaccination:** When people get vaccinated against a disease, they are not only protecting themselves from the disease, but they are also helping to protect others who are not vaccinated. 
@@ -66,34 +78,53 @@ Sometimes consumption activities of individuals create externalities on bystande
     - **Volunteering:** When people volunteer, they are helping others and making a difference in their community.
       
     - **Organ donation:** When people donate organs, they are saving lives. 
+#/Q 
 
 ## Social marginal cost and private marginal cost in production  
 
-The social marginal cost (SMC) of production is the total cost of producing a good or service, including both <mark style="background: #ABF7F7A6;">the marginal private  cost (PMC) and the external marginal cost (EMC)</mark>. The PMC is the cost that is borne by the producer, while the EMC is the cost that is <mark style="background: #ABF7F7A6;">borne by third parties</mark>, such as the environment or other people.
+#Q
+The social marginal cost (SMC) :: of production is the total cost of producing a good or service, including both <mark style="background: #ABF7F7A6;">the marginal private  cost (PMC) and the external marginal cost (EMC)</mark>. 
+#/Q 
 
-The <mark style="background: #ABF7F7A6;">SMC is higher than the PMC when there are negative externalities</mark> associated with production. For example, when a factory pollutes the air, the EMC is the cost of the pollution, such as the health problems that it causes. The SMC includes the PMC and the EMC, so it is higher than the PMC.
+The PMC is the cost that is borne by the producer, while the EMC is the cost that is <mark style="background: #ABF7F7A6;">borne by third parties</mark>, such as the environment or other people.
+
+The <mark style="background: #ABF7F7A6;">SMC is higher than the PMC when there are negative externalities</mark> associated with production. 
+
+> [!example] 
+> when a factory pollutes the air, the EMC is the cost of the pollution, such as the health problems that it causes. The SMC includes the PMC and the EMC, so it is higher than the PMC.
 
 In the absence of government intervention, the market equilibrium is reached where the PMC is equal to the market price. 
 
 ![[Pasted image 20230822154415.png]]
 
 ## Social marginal cost and private marginal cost in consumption
-TThe SMC is the <mark style="background: #FF5582A6;">total cost of consuming the good or service</mark>, including both the private cost and the external cost. The PMC is the cost that is borne by the consumer.
 
-The private marginal cost is the <mark style="background: #FF5582A6;">additional cost that is incurred by the consumer when one more unit of the good or service is consumed.</mark> For example, the private marginal cost of consuming a pizza is the price that the consumer pays for the pizza.
+The SMC is the <mark style="background: #FF5582A6;">total cost of consuming the good or service</mark>, including both the private cost and the external cost. The PMC is the cost that is borne by the consumer.
+
+The private marginal cost is the <mark style="background: #FF5582A6;">additional cost that is incurred by the consumer when one more unit of the good or service is consumed.</mark> 
+
+> [!example] 
+> The private marginal cost of consuming a pizza is the price that the consumer pays for the pizza.
 
 The social marginal cost is <mark style="background: #FFF3A3A6;">the additional cost that is incurred by society when one more unit of the good or service is consumed. </mark>
 
 # Government Policies
-Government policy refers to the <mark style="background: #FF5582A6;">actions that a government takes to address the negative or positive externalities</mark> that are created by market activities.
 
+#Q 
+Government policy :: refers to the <mark style="background: #FF5582A6;">actions that a government takes to address the negative or positive externalities</mark> that are created by market activities.
+#/Q 
 ### Economic Instruments
-Economic instruments are <mark style="background: #FF5582A6;">policy tools that use market forces to achieve a desired outcome.</mark> 
+#Q 
+Economic instruments :: are <mark style="background: #FF5582A6;">policy tools that use market forces to achieve a desired outcome.</mark> 
+#/Q 
 
 > [!example]
 > A tax on gasoline is an economic instrument that can be used to reduce air pollution. The tax makes gasoline more expensive, which discourages people from driving and reduces the amount of pollution that is created.
 
-Subsidies are another type of economic instrument. They are payments that the government makes to producers or consumers to encourage them to produce or consume a good or service.
+
+#Q
+Subsidies :: are another type of economic instrument. They are payments that the government makes to producers or consumers to encourage them to produce or consume a good or service.
+#/Q 
 
 > [!example]
 > A subsidy for solar panels can make them more affordable for consumers, which encourages them to buy solar panels and reduce their reliance on fossil fuels.
