@@ -10,6 +10,7 @@ The **Product Life Cycle (PLC)** model :: provides a <mark style="background: #F
 #/Q 
 ## Stages in the Product Life Cycle:
 
+![[MicrosoftTeams-image (17).png]]
 ### Introduction
 #Q
 The **Introduction Stage** :: is the initial phase in the product life cycle and is characterized by the following key features:
