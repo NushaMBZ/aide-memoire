@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+tags:
+  - agm4367
 ---
 
 # Externalities
@@ -123,7 +125,7 @@ Economic instruments :: are <mark style="background: #FF5582A6;">policy tools th
 
 
 #Q
-Subsidies :: are another type of economic instrument. They are payments that the government makes to producers or consumers to encourage them to produce or consume a good or service.
+Subsidies :: are another type of economic instrument. They are <mark style="background: #FF5582A6;">payments that the government makes to producers or consumers to encourage them to produce or consume a good or service.</mark>
 #/Q 
 
 > [!example]
@@ -131,8 +133,12 @@ Subsidies :: are another type of economic instrument. They are payments that the
 
 Economic instruments can be effective in addressing externalities because they work with the market rather than against it. They can also be more efficient than other policy tools, such as regulations, because they allow the market to find the most cost-effective way to achieve the desired outcome.
 
-### Command-and-control (CAC) 
-These are a type of government policy that is used to <mark style="background: #FF5582A6;">regulate the behavior of businesses and individuals.</mark> CAC measures are typically used to address negative externalities, which are costs or benefits that are not reflected in the price of a good or service.
+### Command-and-control (CAC)
+#Q
+Command and control :: is a type of government policy that is used to <mark style="background: #FF5582A6;">regulate the behavior of businesses and individuals.</mark> 
+#/Q 
+
+CAC measures are typically used to <mark style="background: #FF5582A6;">address negative externalities, which are costs or benefits that are not reflected in the price of a good or service.</mark>
 
 > [!example]
 A CAC measure could be a regulation that limits the amount of pollution that a factory can emit. This regulation would force the factory to reduce its pollution, even if it would be more profitable for the factory to pollute.
@@ -140,15 +146,19 @@ A CAC measure could be a regulation that limits the amount of pollution that a f
 CAC measures are often seen as being less efficient than economic instruments, such as taxes and subsidies. This is because CAC measures do not allow the market to find the most cost-effective way to achieve the desired outcome. However, CAC measures can be more effective in addressing negative externalities that are difficult to measure, such as environmental damage.
 
 ### Pollution control policy  
+#Q
+Pollution  :: is a focal negative externality which is controlled under different policy  instruments.
+#/Q 
 
-Pollution is a focal negative externality which is controlled under different policy  instruments. There are three measures to control pollution. 
-
+#Q 
+Two measures to control pollution ::
 - **Pigouvian tax:** A Pigouvian tax is a tax that is imposed on a <mark style="background: #FF5582A6;">polluter to internalize the external cost of pollution.</mark> The tax is set equal to the marginal social cost of pollution, which is the cost of pollution to society as a whole.
 
 - **Tradable pollution permits:** Tradable pollution permits are a market-based approach to pollution control. The government sets a cap on the total amount of pollution that can be emitted, and then issues permits to polluters. 
+#/Q 
 
-Here are some of the advantages and disadvantages of each policy:
-
+#Q 
+Advantages and disadvantages of each policy:: 
 - **Pigouvian tax:**
     - Advantages:
 		- Helps internalize negative externalities.
@@ -162,8 +172,10 @@ Here are some of the advantages and disadvantages of each policy:
     - Disadvantages:
         - Can be difficult to design the system
         - Can be difficult to monitor and enforce
-
+#/Q 
 ### Emission standards 
-These are <mark style="background: #FF5582A6;">limits on the amount of pollution that can be emitted from a source</mark>, such as a factory or a car. <mark style="background: #FFF3A3A6;">They are a type of command-and-control regulation</mark> that is used to control pollution.
+#Q 
+Emission Standards :: are <mark style="background: #FF5582A6;">limits on the amount of pollution that can be emitted from a source</mark>, such as a factory or a car. <mark style="background: #FFF3A3A6;">They are a type of command-and-control regulation</mark> that is used to control pollution.
+#/Q 
 
 Emission standards can be set for a variety of pollutants, including air pollutants, water pollutants, and noise pollutants. They can be set for specific pollutants, such as sulfur dioxide or nitrogen oxides, or they can be set for general categories of pollutants, such as particulate matter or volatile organic compounds.

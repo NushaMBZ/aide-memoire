@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+tags:
+  - agm4367
 ---
 
 # Macroeconomics
@@ -11,34 +13,42 @@ dg-publish: true
 
 #Q
 - National Income and Output :: It studies <mark style="background: #FFF3A3A6;">the measurement and analysis of national income and output</mark>, including Gross Domestic Product (GDP), Gross National Product (GNP), and other aggregate measures of economic activity.
+
 #/Q
 
 #Q
 - Unemployment :: It examines <mark style="background: #FFF3A3A6;">the causes and consequences of unemployment</mark>, as well as the policies that can be used to reduce unemployment rates.
+
 #/Q 
 
 #Q
 - Inflation :: It studies the <mark style="background: #FFF3A3A6;">causes and effects of inflation</mark>, as well as the policies that can be used to control inflation rates.
+
 #/Q
 
 #Q
 - Economic Growth :: It examines the <mark style="background: #FFF3A3A6;">factors that contribute to long-term economic growth</mark>, including technological progress, investment, and human capital development.
+
 #/Q
 
 #Q
 - Monetary Policy :: It analyzes the <mark style="background: #FF5582A6;">role of central banks in controlling the money supply and managing interest rates</mark> to achieve macroeconomic goals such as price stability and full employment.
+
 #/Q 
 
 #Q
 - Fiscal Policy :: It studies the <mark style="background: #FFF3A3A6;">use of government spending and taxation policies</mark> to influence economic activity and achieve macroeconomic objectives.
+
 #/Q 
 
 #Q 
 - International Trade and Finance :: It examines the <mark style="background: #FFF3A3A6;">interaction of national economies</mark> in international trade and finance, including exchange rates, the balance of payments, and international capital flows.
+
 #/Q
 
 #Q 
 - Economic Development :: Macroeconomics studies the <mark style="background: #FF5582A6;">economic development of countries</mark>, particularly those that are less developed, and the policies that can be used to promote growth and development.
+
 #/Q
 
 ##  Macroeconomic Concepts 
@@ -81,18 +91,22 @@ Business cycle :: The <mark style="background: #FF5582A6;">recurring pattern of 
 ## Goals
 #Q
 - Economic growth :: Economic growth is the increase in the total output of goods and services in an economy over time.
+
 #/Q 
 
 #Q 
 - Price stability :: Price stability refers to a low and stable rate of inflation.
+
 #/Q 
 
 #Q 
 - Full employment :: Full employment is a situation in which everyone who is able and willing to work can find a job.
+
 #/Q 
 
 #Q 
 - External balance :: External balance refers to a sustainable balance of payments.
+
 #/Q 
 ## Policy Instruments
 
@@ -109,8 +123,8 @@ These are tools that policymakers use to achieve macroeconomic goals.
 > If the central bank wants to stimulate economic activity, it can <mark style="background: #FFF3A3A6;">lower interest rates</mark>, which will make it cheaper for businesses to borrow money and invest. Conversely, if the central bank wants to slow down economic growth, it can raise interest rates, which will make it more expensive for businesses to borrow money and invest.
 ## Agents
 
-Macroeconomic agents are the different groups of participants in the economy.
-
+#Q
+Macroeconomic agents are the different groups of participants in the economy. ::
 - **Households:** Households are the <mark style="background: #FFF3A3A6;">consumers of goods and services</mark> in the economy. They also provide labor to businesses.
   
 - **Firms:** Firms are the <mark style="background: #FF5582A6;">producers of goods and service</mark>s in the economy. They hire labor and purchase capital goods from other businesses.
@@ -119,3 +133,4 @@ Macroeconomic agents are the different groups of participants in the economy.
   
 - Rest of the world : Other countries <mark style="background: #FFF3A3A6;">engaged in trade</mark> with the particular country.
 ![[Pasted image 20230921124202.png]]
+#/Q 

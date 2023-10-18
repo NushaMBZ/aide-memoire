@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+tags:
+  - agm4367
 ---
 # Oligopoly and Monopolistic Competition
 ![[Pasted image 20230822111322.png]]

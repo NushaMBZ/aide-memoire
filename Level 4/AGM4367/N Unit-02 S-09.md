@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+tags:
+  - agm4367
 ---
 
 # Perfect Competition

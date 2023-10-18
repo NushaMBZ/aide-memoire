@@ -1,18 +1,23 @@
 ---
 dg-publish: true
+tags:
+  - agm4367
 ---
 
 # Marketing   
 
-Marketing:
-Marketing is a comprehensive process that involves everything from <mark style="background: #FF5582A6;">understanding customer needs and preferences to creating products or services that satisfy those needs. </mark> It encompasses various stages, including market research, product development, pricing, promotion, and distribution. 
+#Q
+Marketing :: is a comprehensive process that involves everything from <mark style="background: #FF5582A6;">understanding customer needs and preferences to creating products or services that satisfy those needs. </mark> It encompasses various stages, including market research, product development, pricing, promotion, and distribution. 
+#/Q 
 
 > [!Goal]
-> The primary goal of marketing is to create value for both customers and the business by effectively communicating the benefits of a product or service to the target audience. It's about building a strong brand, generating awareness, and fostering customer loyalty.
+> #Q
+> The primary goal of marketing :: is to create value for both customers and the business by effectively communicating the benefits of a product or service to the target audience. It's about building a strong brand, generating awareness, and fostering customer loyalty.
+> #/Q 
 
 ### Elements of Marketing
-The "4 Ps" is a classic marketing framework that represents the four key elements of a marketing mix.
-
+#Q
+The "4 Ps" :: is a classic marketing framework that represents the four key elements of a marketing mix.
 - Product: The "Product" refers to <mark style="background: #ABF7F7A6;">what you're offering to your target market. </mark>
 
 - Price: The amount of money customers are <mark style="background: #FF5582A6;">willing to pay </mark>for your product or service. 
@@ -21,7 +26,11 @@ The "4 Ps" is a classic marketing framework that represents the four key element
   
 - Promotion: All the activities you undertake to make your target audience aware of your product or service.
 
-Selling: This is a subset of marketing. It focuses specifically on the process of <mark style="background: #FF5582A6;">persuading customers to make a purchase.</mark> This involves activities such as personal interactions, presentations, negotiations, and closing deals. 
+#/Q 
+
+#Q
+Selling :: This is a subset of marketing. It focuses specifically on the process of <mark style="background: #FF5582A6;">persuading customers to make a purchase.</mark> This involves activities such as personal interactions, presentations, negotiations, and closing deals. 
+#/Q 
 
 |**Marketing**|**Sales**|
 |---|---|
@@ -33,12 +42,13 @@ Selling: This is a subset of marketing. It focuses specifically on the process o
 
 ## Marketing Mix: Components and Importance
 
-The marketing mix is a strategic tool used by businesses to <mark style="background: #FF5582A6;">position their products or services effectively in the market</mark> and achieve their marketing objectives.
+#Q 
+The marketing mix :: is a strategic tool used by businesses to <mark style="background: #FF5582A6;">position their products or services effectively in the market</mark> and achieve their marketing objectives.
 
+#/Q 
 ### Components
-
-### 1. Product
-
+#Q 
+Product ::
 - **Functionality:** The purpose a product serves in addressing consumer needs.
 - **Appearance:** How consumers perceive the product visually.
 - **Quality:** The product's ability to fulfill consumer requirements.
@@ -46,50 +56,61 @@ The marketing mix is a strategic tool used by businesses to <mark style="backgro
 - **Brand:** A distinct name, symbol, or design that differentiates a product.
 - **Warranty:** A promise to stand behind the product's quality.
 - **Service/Support:** Delivery of the product and post-sale services.
+#/Q 
 
-### 2. Price
-
+#Q 
+Price ::
 - **List Price:** The manufacturer's recommended retail selling price.
 - **Discounts:** Reduction from the original price for various reasons.
 - **Allowances:** Price reduction due to issues with the product or service.
 - **Financing/Leasing:** Granting the right to use a product for a specified period under conditions.
+#/Q 
 
-### 3. Place
 
+#Q 
+Place ::
 - **Channel Members:** Individuals involved in getting products or services to end-users.
 - **Channel Motivation:** Incentivizing channel members to stock and market products.
 - **Market Coverage:** Determining the breadth and variety of product distribution.
 - **Logistics:** Planning, delivering, and controlling the flow of goods and services.
+#/Q
 
-### 4. Promotion
-
+#Q 
+Promotion ::
 - **Advertising:** Bringing products or services to the attention of current and potential customers.
 - **Personal Selling:** Using personal interactions to sell products directly to customers.
 - **Public Relations:** Promoting a firm's products through third-party publicity.
 - **Message:** Delivering a clear, targeted message through appropriate channels.
 - **Media:** Utilizing various media for promotional efforts.
 - **Budget:** Allocating a specific amount of money for promotional activities.
-
+#/Q 
 ### Product: Types, Components, and Levels
-
-**Product Definition and Components:** A "product" encompasses both tangible physical items and intangible services that are offered to customers.
+#Q
+Product Definition and Components :: A "product" encompasses both tangible physical items and intangible services that are offered to customers.
+#/Q 
 
 **Product as a Problem Solver:** A product serves as a solution to customer problems and simultaneously serves as a means for a company to achieve its goals.
 
 #### Levels of a Product:
+#Q
+1. Core Product :: The core product represents the fundamental benefit that customers seek. It includes intangible aspects like emotional satisfaction, status, or convenience.
+#/Q 
 
-**1. Core Product:** The core product represents the fundamental benefit that customers seek. It includes intangible aspects like emotional satisfaction, status, or convenience.
+#Q 
+2. Actual Product :: The actual product is the tangible entity that customers purchase and use. Using the car example, it refers to the physical car you buy and drive. 
+#/Q 
 
-**2. Actual Product:** The actual product is the tangible entity that customers purchase and use. Using the car example, it refers to the physical car you buy and drive. 
-
-**3. Augmented Product:** The inclusion of additional features, benefits, attributes or related services that serve to differentiate the product from its competitors.
-
+#Q
+3. Augmented Product :: The inclusion of additional features, benefits, attributes or related services that serve to differentiate the product from its competitors.
+#/Q 
 ### Price: Factors, Decisions, and Pricing Strategies
-
-**Price Considerations:** Price decisions in business should take into account factors such as profit margins and the expected response of competitors to pricing changes. Several key aspects of price decisions include the listed price, discounts offered, financing options, and leasing possibilities. 
+#Q
+Price Considerations :: Price decisions in business should take into account factors such as profit margins and the expected response of competitors to pricing changes. Several key aspects of price decisions include the listed price, discounts offered, financing options, and leasing possibilities. 
+#/Q 
 
 #### Factors Influencing Price Decisions:
-
+#Q
+Factors ::
 1. **Pricing Strategy:** The overarching approach to pricing, which can vary from premium pricing to penetration pricing, economy pricing, or price skimming.
     
 2. **Suggested Retail Price:** The recommended price at which a product should be sold to consumers.
@@ -103,48 +124,48 @@ The marketing mix is a strategic tool used by businesses to <mark style="backgro
 6. **Price Flexibility:** The ability to adjust prices based on market conditions, competition, or customer segments.
     
 7. **Price Discrimination:** Tailoring prices for different customer groups or demographics.
-    
+#/Q    
 
 #### Pricing Strategies Matrix:
 
 ![[Pasted image 20230822171733.png]]
 
 There are four primary pricing strategies, each serving different business objectives and market conditions. These strategies are represented in the pricing strategies matrix:
-
-**1. Premium Pricing:**
-
+#Q
+1. Premium Pricing::
 - Utilized when a significant competitive advantage exists.
 - Typically applied to luxury or unique products or services.
 - Commands higher prices due to perceived value.
+#/Q
 
-**2. Penetration Pricing:**
-
+#Q
+2. Penetration Pricing::
 - Adopted to gain market share for a new product or service.
 - Involves setting artificially low prices initially.
 - Aims to attract a large customer base and establish a foothold in the market.
+#/Q 
 
-**3. Economy Pricing:**
-
+#Q 
+3. Economy Pricing::
 - Focuses on minimizing marketing and manufacturing costs.
 - Often seen in economy or generic product lines.
 - Appeals to cost-conscious consumers.
+#/Q 
 
+#Q 
 **4. Price Skimming:**
-
 - Involves setting high initial prices for a unique or innovative product.
 - Attracts early adopters and those willing to pay a premium.
 - Typically, prices decrease over time due to increased competition.
-
-### Significance of Pricing Strategy:
-
-Even the decision not to charge for a service constitutes a pricing strategy, as it involves considering the total cost to the user. 
+#/Q 
 
 ### Promotion: Strategies and Elements
-
-**Promotion Decisions:** Promotion encompasses a range of tools for marketing communication aimed at generating a positive customer response. 
-
+#Q
+Promotion Decisions :: Promotion encompasses a range of tools for marketing communication aimed at generating a positive customer response. 
+#/Q 
 #### Promotion Mix Elements:
-
+#Q 
+Elements ::
 **1. Personal Selling:** Effective for building personal customer relationships, sales representatives act on behalf of the organization. 
 
 **2. Sales Promotion:** Used alongside advertising and personal selling, sales promotions aim to boost sales. 
@@ -158,60 +179,69 @@ Even the decision not to charge for a service constitutes a pricing strategy, as
 **6. Advertising:** Paid communication that shapes attitudes, raises awareness, and transmits information to elicit responses from the target audience.
 
 **7. Sponsorships:** Sponsorship involves paying to associate an organization with a particular event or cause. 
-
+#/Q 
 ### Place: Distribution and Channel Decisions
 
-Place, in the context of marketing, refers to the <mark style="background: #FF5582A6;">distribution and channels through which goods and services are delivered from manufacturers or service providers to consumers.</mark> 
-
+#Q
+Place, :: in the context of marketing, refers to the <mark style="background: #FF5582A6;">distribution and channels through which goods and services are delivered from manufacturers or service providers to consumers.</mark> 
+#/Q 
 ### Distribution Considerations:
 
-**1. Distribution *Channel Type*:**
-
+#Q
+1. Distribution *Channel Type*::
 - Deciding between direct (manufacturer to consumer) or indirect (using intermediaries) channels.
 - Choosing single or multiple channels, considering the cumulative length of multiple channels.
 - Determining the types and number of intermediaries to be involved.
+#/Q 
 
-**2. Role of *Channel Intermediaries*:**
-
+#Q
+2. Role of *Channel Intermediaries*::
 - Channel intermediaries enhance place utility by providing facilities like transport, storage, and display.
 - Wholesalers offer storage and packaging services, making products accessible to retailers.
 - Agents assist with international marketing by securing orders from producers.
 - Retailers maintain consumer relationships and offer a variety of brands and products for selection.
+#/Q 
 
-### Extended Marketing Mix: People, Physical Evidence, and Process
+### Extended Marketing Mix
 
 #### People:
-
-The people who are <mark style="background: #FF5582A6;">involved in the marketing and delivery of the product.</mark>
-
+#Q
+The people :: who are <mark style="background: #FF5582A6;">involved in the marketing and delivery of the product.</mark>
+#/Q 
 #### Physical Evidence:
-
-The tangible evidence that the <mark style="background: #FF5582A6;">product exists and that it is worth buying.</mark>
-
+#Q
+The tangible evidence :: that the <mark style="background: #FF5582A6;">product exists and that it is worth buying.</mark>
+#/Q 
 #### Process:
-
-The systems and procedures that a company uses to deliver the product to customers.
-
+#Q
+The systems and procedures :: that a company uses to deliver the product to customers.
+#/Q 
 
 ## The Four "C's"
 
 The Four "C's" offers a more <mark style="background: #FF5582A6;">customer-centric perspective</mark> on marketing. Proposed by Robert Lauterborn and endorsed by Philip Kotler, the Four "C's" provide a modern framework to approach marketing:
 
-### 1. Convenience (Formerly Place):
-
+#Q
+Convenience (Formerly Place)::
 In the Four "C's" framework, "Place" transforms into "Convenience." It is the level of convenience for a customer to buy and use particular product or service.
+#/Q 
 
-### 2. Cost to the User (Formerly Price):
 
+#Q 
+Cost to the User (Formerly Price)::
 "Price" is reimagined as "Cost to the user." The overall cost of acquiring a product or service, including the purchase price, shipping and handling, taxes, and any other associated costs.
+#/Q 
 
-### 3. Communication (Formerly Promotion):
-
+#Q 
+Communication (Formerly Promotion)::
 "Promotion" evolves into "Communication." It is a way to interact with the customers, including marketing messages, sales process, and customer support.
+#/Q 
 
-### 4. Customer Needs and Wants (Formerly Product):
 
+#Q 
+Customer Needs and Wants (Formerly Product)::
 "Product" is replaced by "Customer needs and wants." 
+#/Q 
 
 ## Evaluating the Four "C's"
 
