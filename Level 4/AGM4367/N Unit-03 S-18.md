@@ -7,7 +7,7 @@ dg-publish: true
 > [!definition]
 > It is the increase in the production of goods and services in an economy over time. 
 
-It is typically measured as the percentage change in the real gross domestic product (GDP) from one period to the next. Real GDP is the total value of all goods and services produced in an economy, adjusted for inflation.
+It is typically measured as the <mark style="background: #FFF3A3A6;">percentage change in the real gross domestic product (GDP) from one period to the next</mark>. Real GDP is the total value of all goods and services produced in an economy, adjusted for inflation.
 
 ## Determinants
 
@@ -24,11 +24,11 @@ It is typically measured as the percentage change in the real gross domestic pro
 
 ## Theories
 
-- **Classical growth theory:** This theory focuses on the role of capital accumulation and technological progress in driving economic growth.
+- **Classical growth theory:** This theory focuses on the role of <mark style="background: #FF5582A6;">capital accumulation and technological progress in driving economic growth.</mark>
   
-- **Neoclassical growth theory:** This theory builds on classical growth theory by incorporating the role of human capital in economic growth.
+- **Neoclassical growth theory:** This theory builds on classical growth theory by incorporating the role of <mark style="background: #FF5582A6;">human capital in economic growth.</mark>
   
-- **Endogenous growth theory:** In this context economic growth is driven by endogenous factors, such as technological innovation and human capital accumulation.
+- **<mark style="background: #FFF3A3A6;">Endogenous growth theory:</mark>** In this context economic growth is driven by <mark style="background: #FF5582A6;">endogenous factors, such as technological innovation and human capital accumulation.</mark>
 
 ## Technology
 
@@ -39,7 +39,7 @@ An economy stagnates when it attempts to achieve economic growth solely through 
 
 ### Growth Accounting
   
-Growth accounting is a quantitative method used to decompose economic growth into the contributions of different factors, such as labor, capital, and technology.
+Growth accounting is a q<mark style="background: #FF5582A6;">uantitative method used to decompose economic growth into the contributions of different factors</mark>, such as labor, capital, and technology.
 $$
 Q = AF (K, L, R) 
 $$

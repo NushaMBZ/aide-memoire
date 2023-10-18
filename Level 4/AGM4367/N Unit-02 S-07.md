@@ -1,26 +1,32 @@
 ---
 dg-publish: true
+tags:
+  - agm4367
 ---
-
 # Markets and Social Welfare  
 
 ## Welfare economics  
-This is the study of ‘<mark style="background: #CACFD9A6;">how the allocation of resources affects economic wellbeing</mark>’.
-
+#Q
+Welfare Economics :: This is the study of ‘<mark style="background: #CACFD9A6;">how the allocation of resources affects economic wellbeing</mark>’.
+#/Q 
 ## Consumer Surplus
-It is the *difference* between the  <mark style="background: #FFF3A3A6;">maximum amount a consumer is willing to pay for a good and the actual amount a  consumer has to pay for the good. </mark>
+#Q
+Consumer Surplus :: It is the *difference* between the  <mark style="background: #FFF3A3A6;">maximum amount a consumer is willing to pay for a good and the actual amount a  consumer has to pay for the good. </mark>
 
 ![[Pasted image 20230817175820.png]]
-
+#/Q 
 ## Producer Surplus
-The *difference* between the <mark style="background: #FFF3A3A6;">amount a seller is paid for his good or a service and the cost of production gives the ‘producer  surplus’.</mark>
+#Q 
+Producer Surplus :: It is the *difference* between the <mark style="background: #FFF3A3A6;">amount a seller is paid for his good or a service and the cost of production gives the ‘producer  surplus’.</mark>
 
 ![[Pasted image 20230817175800.png]]
-
+#/Q 
 ## Market Efficiency
-Market efficiency refers to the <mark style="background: #FFF3A3A6;">effectiveness with which resources are allocated in a market to maximize overall economic welfare.</mark>
+#Q 
+Market efficiency :: It refers to the <mark style="background: #FFF3A3A6;">effectiveness with which resources are allocated in a market to maximize overall economic welfare.</mark>
+#/Q 
 
-> [!note]
+> [!tip]
 > 𝐶𝑜𝑛𝑠𝑢𝑚𝑒𝑟 𝑠𝑢𝑟𝑝𝑙𝑢𝑠 = 𝑣𝑎𝑙𝑢𝑒 𝑡𝑜 𝑐𝑜𝑛𝑠𝑢𝑚𝑒𝑟𝑠 − 𝑣𝑎𝑙𝑢𝑒 𝑝𝑎𝑖𝑑 𝑏𝑦 𝑡ℎ𝑒 𝑐𝑜𝑛𝑠𝑢𝑚𝑒𝑟𝑠 
 > 𝑃𝑟𝑜𝑑𝑢𝑐𝑒𝑟 𝑠𝑢𝑟𝑝𝑙𝑢𝑠 = 𝑣𝑎𝑙𝑢𝑒 𝑟𝑒𝑐𝑒𝑖𝑣𝑒𝑑 𝑏𝑦 𝑝𝑟𝑜𝑑𝑢𝑐𝑒𝑟𝑠 − 𝑐𝑜𝑠𝑡 𝑡𝑜 𝑡ℎ𝑒 𝑝𝑟𝑜𝑑𝑢𝑐𝑒𝑟𝑠  
 > 𝑇𝑜𝑡𝑎𝑙 𝑠𝑢𝑟𝑝𝑙𝑢𝑠 = 𝑐𝑜𝑛𝑠𝑢𝑚𝑒𝑟 𝑠𝑢𝑟𝑝𝑙𝑢𝑠 + 𝑝𝑟𝑜𝑑𝑢𝑐𝑒𝑟 𝑠𝑢𝑟𝑝𝑙𝑢𝑠  
@@ -32,9 +38,9 @@ Market efficiency refers to the <mark style="background: #FFF3A3A6;">effectivene
 
 ## Cost of Taxation
 
-> Governments use tax, subsidies and  price controls as tools for correcting market failures.
+> Governments use <mark style="background: #FF5582A6;">tax, subsidies and  price controls</mark> as tools for correcting market failures.
 
-Negative economic effects and efficiency losses that taxes can impose on an economy. A tax can be charged on a seller or a consumer for producing or consuming a good. 
+A tax can be charged on a seller or a consumer for producing or consuming a good. 
 
 > [!note]
 > If the tax is on  consumers, the demand curve <mark style="background: #FF5582A6;">shifts left since it is a price increase for the consumers</mark>. If  the tax is on producers, the <mark style="background: #FFF3A3A6;">supply curve shifts left since it is an increase in cost of  production</mark> for them.
@@ -47,10 +53,11 @@ Negative economic effects and efficiency losses that taxes can impose on an econ
 
 
 # Market Failure
+#Q 
+Market Failure :: This is when the<mark style="background: #FFF3A3A6;"> allocation of goods and services by a free market is inefficient</mark> and <mark style="background: #FFF3A3A6;">results in outcomes that are not optimal for society.</mark>
+#/Q 
 
-This is when the<mark style="background: #FFF3A3A6;"> allocation of goods and services by a free market is inefficient</mark> and <mark style="background: #FFF3A3A6;">results in outcomes that are not optimal for society.</mark>
-
-Markets may require government involvement when they fail to efficiently allocate resources or when certain conditions arise that hinder the proper functioning of markets.
+Markets may <mark style="background: #FF5582A6;">require government involvement when they fail to efficiently allocate resources</mark> or when certain conditions arise that hinder the proper functioning of markets.
 
 1. **Market Failures:**
     
@@ -95,5 +102,6 @@ Markets may require government involvement when they fail to efficiently allocat
     - **Healthcare and Education:** In cases where markets may not ensure equitable access to essential services, governments might provide or regulate these services to ensure universal access.
 
 # Dead weight loss
-
-A deadweight loss is **a cost to society created by market inefficiency, which occurs when supply and demand are out of equilibrium**.
+#Q
+Deadweight :: It is **<mark style="background: #FFB8EBA6;">a cost to society created by market inefficiency</mark>, which occurs when supply and demand are out of equilibrium**.
+#/Q 

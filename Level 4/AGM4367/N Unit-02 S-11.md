@@ -4,57 +4,61 @@ dg-publish: true
 # Oligopoly and Monopolistic Competition
 ![[Pasted image 20230822111322.png]]
 ## Oligopoly
-Oligopoly is a market structure in which <mark style="background: #FF5582A6;">a few large firms control the market.</mark> Oligopolies are characterized by a high degree of market concentration, meaning that a small number of firms account for a large share of the market.
+#Q
+Oligopoly :: is a market structure in which <mark style="background: #FF5582A6;">a few large firms control the market.</mark> Oligopolies are characterized by a high degree of market concentration, meaning that a small number of firms account for a large share of the market.
+#/Q 
 
-Oligopolies can arise in a number of ways, including:
-
+#Q
+Oligopolies can arise in a number of ways ::
 - **Natural monopoly:** A natural monopoly occurs when the most efficient way to produce a good or service is for a single firm to produce it. 
-
-> [!example]
-> For example, the cost of laying down a new railway track is very high, so it is more efficient for a single firm to operate all of the railways in a country.
-
+  
 - **Economies of scale:** Economies of scale occur when the<mark style="background: #FF5582A6;"> cost of producing a good or service decreases as the quantity produced increases.</mark>
 
-- **Entry barriers:** Entry barriers are factors that make it <mark style="background: #FF5582A6;">difficult for new firms to enter a market.</mark> 
+- **Entry barriers & Exit barriers:** Entry barriers are factors that make it <mark style="background: #FF5582A6;">difficult for new firms to enter a market and exit.</mark> 
+#/Q 
 
 > [!tip]
-> A **duopoly** is a market structure in which there are only two independent firms that compete with each other.
+> #Q
+> A **duopoly** :: is a market structure in which there are only two independent firms that compete with each other.
+> #/Q 
 
 > [!definition]
-> **Collusion** is an agreement between two or more firms to act together in order to restrict competition. Collusion can take many forms, including price fixing, market sharing, and output restriction.
+> #Q
+> **Collusion** :: is an agreement between two or more firms to act together in order to restrict competition. Collusion can take many forms, including price fixing, market sharing, and output restriction.
+> #/Q 
 
 > [!definition]
-> **Cartels** are a type of collusion in which firms agree to fix prices and output. Cartels are illegal in most countries, but they can be difficult to detect and enforce.
+> #Q
+> **Cartels** :: are a type of collusion in which firms agree to fix prices and output. Cartels are illegal in most countries, but they can be difficult to detect and enforce.
+> #/Q 
 
 ## The Equilibrium for an Oligopoly
-The equilibrium for an oligopoly is a situation in which the firms in the <mark style="background: #FF5582A6;">market have no incentive to change their prices or output. </mark>This is because each firm is taking into account the reactions of the other firms in the market.
-
-The equilibrium for an oligopoly can also be found using the Nash equilibrium concept. The Nash equilibrium is a situation in which <mark style="background: #FF5582A6;">each firm is doing the best it can, given the actions of the other firms.</mark>
+#Q
+The equilibrium for an oligopoly :: is a situation in which the firms in the <mark style="background: #FF5582A6;">market have no incentive to change their prices or output. </mark>This is because each firm is taking into account the reactions of the other firms in the market.
+#/Q 
+The equilibrium for an oligopoly can also be found using the Nash equilibrium concept. The <mark style="background: #FFB8EBA6;">Nash equilibrium</mark> is a situation in which <mark style="background: #FF5582A6;">each firm is doing the best it can, given the actions of the other firms.</mark>
 
 The Nash equilibrium for an oligopoly may not be unique. This means that there may be more than one set of prices and outputs that are consistent with the Nash equilibrium.
+#Q
+The equilibrium for an oligopoly can be affected by a number of factors, including ::
+- <mark style="background: #FFB8EBA6;">The number of firms in the market</mark>: The more firms in the market, the more competitive the market will be.
+- <mark style="background: #FFB8EBA6;">The cost structure of the firms</mark>: The lower the cost structure of the firms, the more output they will produce and the lower the prices they will charge.
+- <mark style="background: #FFB8EBA6;">The demand for the product</mark>: The higher the demand for the product, the higher the prices that the firms can charge.
+- <mark style="background: #FFB8EBA6;">The government regulation</mark>: Government regulation can affect the equilibrium for an oligopoly by setting price controls or by restricting the number of firms that can enter the market.
+#/Q 
 
-The equilibrium for an oligopoly can be affected by a number of factors, including:
-
-- The number of firms in the market: The more firms in the market, the more competitive the market will be.
-- The cost structure of the firms: The lower the cost structure of the firms, the more output they will produce and the lower the prices they will charge.
-- The demand for the product: The higher the demand for the product, the higher the prices that the firms can charge.
-- The government regulation: Government regulation can affect the equilibrium for an oligopoly by setting price controls or by restricting the number of firms that can enter the market.
-
-## How the Size of an Oligopoly Affects the Market Outcome
-
-The size of an oligopoly affects the market outcome in a number of ways.
-
-- **Increased competition:** As the number of firms in an oligopoly increases, the competition between the firms also increases. This can lead to lower prices and more output.
+#Q
+The size of an oligopoly affects the market outcome in a number of following ways ::
+- <mark style="background: #FF5582A6;">Increased competition</mark>: As the number of firms in an oligopoly increases, the competition between the firms also increases.
   
-- **Difficult collusion:** It becomes more difficult for firms to collude as the number of firms in an oligopoly increases.
+- <mark style="background: #FF5582A6;">Difficult collusion</mark>: It becomes more difficult for firms to collude as the number of firms in an oligopoly increases.
   
-- **Price wars:** When the number of firms in an oligopoly is large, the firms may engage in price wars. 
+- <mark style="background: #FF5582A6;">Price wars</mark>: When the number of firms in an oligopoly is large, the firms may engage in price wars. 
   
-- **Market instability:** The market outcome in an oligopoly can be unstable, especially when the number of firms is large. This is because the firms are constantly trying to outmaneuver each other. 
-
-## Economics of Cooperation  
+- <mark style="background: #FF5582A6;">Market instability</mark>: The market outcome in an oligopoly can be unstable, especially when the number of firms is large.
+#/Q 
+## Economics of Cooperation
 In an oligopoly market, it is <mark style="background: #FF5582A6;">beneficial for the firms to cooperate in order to maximise the  profits.</mark> However, firms do not cooperate due to difficulties in establishing and  maintaining an agreement among them. Game theory explains the economics of  cooperation using the prisoners’ dilemma.
-
 ### The prisoner's dilemma
   
 The prisoner's dilemma is a game theory thought experiment that illustrates the difficulty of cooperation. 
@@ -66,7 +70,7 @@ The prisoner's dilemma is a game theory thought experiment that illustrates the 
 
 - **Cooperation <mark style="background: #FF5582A6;">can benefit firms </mark>by allowing them to earn monopoly profits.** When firms cooperate, they can reduce competition and charge higher prices. This can <mark style="background: #FFF3A3A6;">benefit the firms, but it can harm consumers.</mark>
 - **<mark style="background: #FF5582A6;">Lack of cooperation can benefit consumers</mark> by leading to low prices.** When firms do not cooperate, they are more likely to compete with each other. This can lead to lower prices for consumers.
-- **When common resources are utilized, the individual firms do not consider the efficient use of common resources and focus on individual profits.** This can lead to the depletion of common resources, such as fisheries or forests. This is an example of how <mark style="background: #FF5582A6;">lack of cooperation can lead to the tragedy of the commons.</mark>
+- When common resources are utilized, the individual firms do not consider the efficient use of common resources and focus on individual profits. This can lead to the depletion of common resources, such as fisheries or forests. This is an example of how <mark style="background: #FF5582A6;">lack of cooperation can lead to the tragedy of the commons.</mark>
 
 ## Public Policy towards Oligopolies  
 
@@ -85,9 +89,9 @@ In addition to competition law and antitrust law, governments may also use other
 
 Monopolistic competition is a market structure that <mark style="background: #FF5582A6;">has some of the features of both perfect competition and monopoly</mark>. In a monopolistically competitive market, <mark style="background: #FFF3A3A6;">there are many firms, but each firm produces a differentiated product.</mark> 
 
-As a result of product differentiation, each firm has some market power. This means that the firm <mark style="background: #FFF3A3A6;">can charge a price above marginal cost without losing all of its customers.</mark> However, the market power of each firm is limited by the availability of substitutes.
+As a result of product differentiation, <mark style="background: #FFB8EBA6;">each firm has some market power.</mark> This means that the firm <mark style="background: #FFF3A3A6;">can charge a price above marginal cost without losing all of its customers.</mark> However, the market power of each firm is limited by the availability of substitutes.
 
-In a monopolistically competitive market, firms compete on price, product quality, and advertising. .
+In a monopolistically competitive market, firms compete on price, product quality, and advertising.
 
 The outcome of a monopolistically competitive market is typically inefficient. Firms produce <mark style="background: #FF5582A6;">less output and charge higher prices than they would in a perfectly competitive market.</mark> 
 
@@ -129,7 +133,7 @@ Monopolistically competitive markets differ from perfectly competitive markets i
 - **Excess capacity:** Monopolistically competitive firms produce less output than perfectly competitive firms, even in the long run. 
 - **Mark-up over marginal cost:** Monopolistically competitive firms charge a mark-up over marginal cost. The mark-up is the difference between price and marginal cost.
 - **Product differentiation:** Monopolistically competitive firms offer differentiated products, meaning that each firm's product is slightly different from the products of other firms in the market. 
-- **Free entry and exit:** New firms are free to enter and exit monopolistically competitive markets. This is because there are no barriers to entry, such as patents or licenses. The free entry and exit of firms ensures that monopolistically competitive firms earn zero economic profits in the long run.
+- **Free entry and exit:** New firms are free to enter and exit monopolistically competitive markets. The free entry and exit of firms ensures that monopolistically competitive firms earn zero economic profits in the long run.
 
 ## Monopolistic Competition and the Welfare of Society  
 
