@@ -18,9 +18,9 @@ A **price ceiling** :: It is a <mark style="background: #ABF7F7A6;">legal maximu
 #Q
 The effects of a price ceiling can be summarized as follows ::
 - <mark style="background: #FF5582A6;">Shortages</mark>: A <mark style="background: #ABF7F7A6;">price ceiling below the equilibrium price will create a shortage</mark> of the good or service. 
-- **<mark style="background: #FF5582A6;">Black markets</mark>: A price ceiling can create a black market, where goods are sold <mark style="background: #ABF7F7A6;">illegally at a higher price than the ceiling.</mark> 
+- <mark style="background: #FF5582A6;">Black markets</mark>: A price ceiling can create a black market, where goods are sold <mark style="background: #ABF7F7A6;">illegally at a higher price than the ceiling.</mark> 
 - <mark style="background: #FF5582A6;">Reduced quality</mark>: Suppliers may <mark style="background: #ABF7F7A6;">reduce the quality of the goods or services they sell in order to maintain profits.</mark> 
-- **<mark style="background: #FF5582A6;">Inefficiency</mark>: A price ceiling can lead to inefficiency in the market. 
+- <mark style="background: #FF5582A6;">Inefficiency</mark>: A price ceiling can lead to inefficiency in the market. 
 #/Q 
 
 #Q 
@@ -30,7 +30,7 @@ The effects of a price ceiling can be summarized as follows ::
 
 #Q 
 
-> A <mark style="background: #FF5582A6;">non-binding price ceiling</mark> :: It is a price ceiling that is s<mark style="background: #ADCCFFA6;">et above the equilibrium price.</mark> 
+> A <mark style="background: #FF5582A6;">non-binding price ceiling</mark> :: It is a price ceiling that is <mark style="background: #ADCCFFA6;">set above the equilibrium price.</mark> 
 
 #/Q 
 ![[Pasted image 20230821214653.png]]
@@ -54,10 +54,10 @@ A **price floor** :: It is a <mark style="background: #ABF7F7A6;">legal minimum 
 
 #Q 
 Welfare effects of price floor :: 
-- **Surplus of Supply:** One of the most common effects of a price floor is the creation of a surplus of supply.
-- **Reduced Efficiency:** Price floors can lead to a reduction in economic efficiency. Resources might be misallocated, as some producers who are willing to sell at the equilibrium price might not be able to sell their products due to the higher price floor.
-- **Consumer Impact:** While price floors are often implemented to protect consumers from extremely low prices, they can have unintended consequences.
-- **Producer Impact:** Price floors can benefit producers by guaranteeing them a higher price for their goods or services.
+- <mark style="background: #FF5582A6;">**Surplus of Supply:**</mark> One of the most common effects of a price floor is the creation of a surplus of supply.
+- <mark style="background: #FF5582A6;">**Reduced Efficiency:**</mark> Price floors can lead to a reduction in economic efficiency. Resources might be misallocated, as some producers who are willing to sell at the equilibrium price might not be able to sell their products due to the higher price floor.
+- <mark style="background: #FF5582A6;">**Consumer Impact:**</mark> While price floors are often implemented to protect consumers from extremely low prices, they can have unintended consequences.
+- <mark style="background: #FF5582A6;">**Producer Impact:** </mark>Price floors can benefit producers by guaranteeing them a higher price for their goods or services.
 
 ![[Pasted image 20230821221657.png]]
 #/Q 
