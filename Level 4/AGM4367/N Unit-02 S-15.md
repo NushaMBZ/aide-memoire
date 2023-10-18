@@ -183,11 +183,11 @@ The Ansoff Matrix consists of four growth strategies ::
 ![[Pasted image 20230822175755.png]]
 1. **Market Penetration (Existing markets, Existing products):** Market penetration focuses on<mark style="background: #FF5582A6;"> increasing market share by selling more of the same products to the same market.</mark> 
    
-2. **Market Development (New markets, Existing products):** Market development involves <mark style="background: #FF5582A6;">introducing existing products to new markets.</mark> This strategy seeks to <mark style="background: #FFF3A3A6;">expand the customer base by targeting new geographical areas or customer segments.</mark> It may involve modifying distribution channels, altering pricing policies, or entering new demographic markets. 
+2. **Market Development (New markets, Existing products):** Market development involves <mark style="background: #FF5582A6;">introducing existing products to new markets.</mark>
     
-3. **Product Development (Existing markets, New products):** Product development focuses on <mark style="background: #FF5582A6;">creating new products for existing markets.</mark> This strategy involves introducing new variants, features, or packaging of existing products to meet evolving customer needs and preferences.
+3. **Product Development (Existing markets, New products):** Product development focuses on <mark style="background: #FF5582A6;">creating new products for existing markets.</mark> 
     
-4. **Diversification (New markets, New products):** Diversification is the riskiest strategy, involving the <mark style="background: #FF5582A6;">introduction of new products to new markets.</mark> The goal is to create new revenue streams and reduce reliance on a single market or product.
+4. **Diversification (New markets, New products):** Diversification is the riskiest strategy, involving the <mark style="background: #FF5582A6;">introduction of new products to new markets.</mark> 
 #/Q 
 ### Application of Ansoff Matrix   
 
