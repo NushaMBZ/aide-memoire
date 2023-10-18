@@ -16,8 +16,8 @@ Consumer Surplus :: It is the *difference* between the  <mark style="background:
 ![[Pasted image 20230817175820.png]]
 #/Q 
 ## Producer Surplus
-#Q 
-Producer Surplus :: It is the *difference* between the <mark style="background: #FFF3A3A6;">amount a seller is paid for his good or a service and the cost of production gives the ‘producer  surplus’.</mark>
+#Q  #AOSR/3033o
+Producer Surplus :: It is the *difference* between the <mark style="background: #FFF3A3A6;">amount a seller is paid for his good or a service and the cost of production gives the ‘producer  surplus’.</mark> #AOSR/3033o/s/6cgl
 
 ![[Pasted image 20230817175800.png]]
 #/Q 
@@ -53,8 +53,8 @@ A tax can be charged on a seller or a consumer for producing or consuming a good
 
 
 # Market Failure
-#Q 
-Market Failure :: This is when the<mark style="background: #FFF3A3A6;"> allocation of goods and services by a free market is inefficient</mark> and <mark style="background: #FFF3A3A6;">results in outcomes that are not optimal for society.</mark>
+#Q  #AOSR/3c03i
+Market Failure :: This is when the<mark style="background: #FFF3A3A6;"> allocation of goods and services by a free market is inefficient</mark> and <mark style="background: #FFF3A3A6;">results in outcomes that are not optimal for society.</mark> #AOSR/3c03i/s/31e9
 #/Q 
 
 Markets may <mark style="background: #FF5582A6;">require government involvement when they fail to efficiently allocate resources</mark> or when certain conditions arise that hinder the proper functioning of markets.
@@ -102,6 +102,6 @@ Markets may <mark style="background: #FF5582A6;">require government involvement 
     - **Healthcare and Education:** In cases where markets may not ensure equitable access to essential services, governments might provide or regulate these services to ensure universal access.
 
 # Dead weight loss
-#Q
-Deadweight :: It is **<mark style="background: #FFB8EBA6;">a cost to society created by market inefficiency</mark>, which occurs when supply and demand are out of equilibrium**.
+#Q #AOSR/318sf
+Deadweight :: It is **<mark style="background: #FFB8EBA6;">a cost to society created by market inefficiency</mark>, which occurs when supply and demand are out of equilibrium**. #AOSR/318sf/s/662i
 #/Q 

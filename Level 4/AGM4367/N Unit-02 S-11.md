@@ -6,8 +6,8 @@ tags:
 # Oligopoly and Monopolistic Competition
 ![[Pasted image 20230822111322.png]]
 ## Oligopoly
-#Q
-Oligopoly :: is a market structure in which <mark style="background: #FF5582A6;">a few large firms control the market.</mark> Oligopolies are characterized by a high degree of market concentration, meaning that a small number of firms account for a large share of the market.
+#Q #AOSR/2ap9h
+Oligopoly :: is a market structure in which <mark style="background: #FF5582A6;">a few large firms control the market.</mark> Oligopolies are characterized by a high degree of market concentration, meaning that a small number of firms account for a large share of the market. #AOSR/2ap9h/s/2sp7
 #/Q 
 
 #Q
@@ -35,8 +35,8 @@ Oligopolies can arise in a number of ways ::
 > #/Q 
 
 ## The Equilibrium for an Oligopoly
-#Q
-The equilibrium for an oligopoly :: is a situation in which the firms in the <mark style="background: #FF5582A6;">market have no incentive to change their prices or output. </mark>This is because each firm is taking into account the reactions of the other firms in the market.
+#Q #AOSR/26hhq
+The equilibrium for an oligopoly :: is a situation in which the firms in the <mark style="background: #FF5582A6;">market have no incentive to change their prices or output. </mark>This is because each firm is taking into account the reactions of the other firms in the market. #AOSR/26hhq/s/5nli
 #/Q 
 The equilibrium for an oligopoly can also be found using the Nash equilibrium concept. The <mark style="background: #FFB8EBA6;">Nash equilibrium</mark> is a situation in which <mark style="background: #FF5582A6;">each firm is doing the best it can, given the actions of the other firms.</mark>
 

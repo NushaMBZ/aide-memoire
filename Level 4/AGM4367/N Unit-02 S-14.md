@@ -6,8 +6,8 @@ tags:
 
 # Marketing   
 
-#Q
-Marketing :: is a comprehensive process that involves everything from <mark style="background: #FF5582A6;">understanding customer needs and preferences to creating products or services that satisfy those needs. </mark> It encompasses various stages, including market research, product development, pricing, promotion, and distribution. 
+#Q #AOSR/hc392
+Marketing :: is a comprehensive process that involves everything from <mark style="background: #FF5582A6;">understanding customer needs and preferences to creating products or services that satisfy those needs. </mark> It encompasses various stages, including market research, product development, pricing, promotion, and distribution.  #AOSR/hc392/s/5fa1
 #/Q 
 
 > [!Goal]
@@ -16,8 +16,8 @@ Marketing :: is a comprehensive process that involves everything from <mark styl
 > #/Q 
 
 ### Elements of Marketing
-#Q
-The "4 Ps" :: is a classic marketing framework that represents the four key elements of a marketing mix.
+#Q #AOSR/7ah61
+The "4 Ps" :: is a classic marketing framework that represents the four key elements of a marketing mix. #AOSR/7ah61/s/6aht
 - Product: The "Product" refers to <mark style="background: #ABF7F7A6;">what you're offering to your target market. </mark>
 
 - Price: The amount of money customers are <mark style="background: #FF5582A6;">willing to pay </mark>for your product or service. 
@@ -28,8 +28,8 @@ The "4 Ps" :: is a classic marketing framework that represents the four key elem
 
 #/Q 
 
-#Q
-Selling :: This is a subset of marketing. It focuses specifically on the process of <mark style="background: #FF5582A6;">persuading customers to make a purchase.</mark> This involves activities such as personal interactions, presentations, negotiations, and closing deals. 
+#Q #AOSR/160ka
+Selling :: This is a subset of marketing. It focuses specifically on the process of <mark style="background: #FF5582A6;">persuading customers to make a purchase.</mark> This involves activities such as personal interactions, presentations, negotiations, and closing deals.  #AOSR/160ka/s/kh4b
 #/Q 
 
 |**Marketing**|**Sales**|
@@ -42,8 +42,8 @@ Selling :: This is a subset of marketing. It focuses specifically on the process
 
 ## Marketing Mix: Components and Importance
 
-#Q 
-The marketing mix :: is a strategic tool used by businesses to <mark style="background: #FF5582A6;">position their products or services effectively in the market</mark> and achieve their marketing objectives.
+#Q  #AOSR/2shmt
+The marketing mix :: is a strategic tool used by businesses to <mark style="background: #FF5582A6;">position their products or services effectively in the market</mark> and achieve their marketing objectives. #AOSR/2shmt/s/423n
 
 #/Q 
 ### Components
@@ -85,44 +85,38 @@ Promotion ::
 - **Budget:** Allocating a specific amount of money for promotional activities.
 #/Q 
 ### Product: Types, Components, and Levels
-#Q
-Product Definition and Components :: A "product" encompasses both tangible physical items and intangible services that are offered to customers.
+#Q #AOSR/3khh9
+Product Definition and Components :: A "product" encompasses both tangible physical items and intangible services that are offered to customers. #AOSR/3khh9/s/1l7k
 #/Q 
 
 **Product as a Problem Solver:** A product serves as a solution to customer problems and simultaneously serves as a means for a company to achieve its goals.
 
 #### Levels of a Product:
-#Q
-1. <mark style="background: #FF5582A6;">Core Product</mark> :: The core product represents the fundamental benefit that customers seek. It includes intangible aspects like emotional satisfaction, status, or convenience.
+#Q #AOSR/7dulu
+1. <mark style="background: #FF5582A6;">Core Product</mark> :: The core product represents the fundamental benefit that customers seek. It includes intangible aspects like emotional satisfaction, status, or convenience. #AOSR/7dulu/s/45db
 #/Q 
 
-#Q 
-2. <mark style="background: #FF5582A6;">Actual Product</mark> :: The actual product is the tangible entity that customers purchase and use. Using the car example, it refers to the physical car you buy and drive. 
+#Q  #AOSR/1ibpc
+2. <mark style="background: #FF5582A6;">Actual Product</mark> :: The actual product is the tangible entity that customers purchase and use. Using the car example, it refers to the physical car you buy and drive.  #AOSR/1ibpc/s/6bgb
 #/Q 
 
-#Q
-3. <mark style="background: #FF5582A6;">Augmented Product</mark> :: The inclusion of additional features, benefits, attributes or related services that serve to differentiate the product from its competitors.
+#Q #AOSR/3g949
+3. <mark style="background: #FF5582A6;">Augmented Product</mark> :: The inclusion of additional features, benefits, attributes or related services that serve to differentiate the product from its competitors. #AOSR/3g949/s/j39m
 #/Q 
 ### Price: Factors, Decisions, and Pricing Strategies
-#Q
-Price Considerations :: Price decisions in business should take into account factors such as profit margins and the expected response of competitors to pricing changes. Several key aspects of price decisions include the listed price, discounts offered, financing options, and leasing possibilities. 
+#Q #AOSR/1miga
+Price Considerations :: Price decisions in business should take into account factors such as profit margins and the expected response of competitors to pricing changes. Several key aspects of price decisions include the listed price, discounts offered, financing options, and leasing possibilities.  #AOSR/1miga/s/7af7
 #/Q 
 
 #### Factors Influencing Price Decisions:
 #Q
 Factors ::
 1. **Pricing Strategy:** The overarching approach to pricing, which can vary from premium pricing to penetration pricing, economy pricing, or price skimming.
-    
 2. **Suggested Retail Price:** The recommended price at which a product should be sold to consumers.
-    
 3. **Volume, Discounts, and Wholesale Pricing:** Determining pricing structures for different quantities or distribution channels, including bulk discounts for wholesalers.
-    
 4. **Cash and Early Payment Discounts:** Offering incentives for prompt payment or cash transactions.
-    
 5. **Seasonal Pricing:** Adjusting prices based on seasonal demand fluctuations.
-    
 6. **Price Flexibility:** The ability to adjust prices based on market conditions, competition, or customer segments.
-    
 7. **Price Discrimination:** Tailoring prices for different customer groups or demographics.
 #/Q    
 
@@ -160,30 +154,24 @@ There are four primary pricing strategies, each serving different business objec
 #/Q 
 
 ### Promotion: Strategies and Elements
-#Q
-Promotion Decisions :: Promotion encompasses a range of tools for marketing communication aimed at generating a positive customer response. 
+#Q #AOSR/2cbem
+Promotion Decisions :: Promotion encompasses a range of tools for marketing communication aimed at generating a positive customer response.  #AOSR/2cbem/s/48f8
 #/Q 
 #### Promotion Mix Elements:
 #Q 
 Elements ::
 **1. Personal Selling:** Effective for building personal customer relationships, sales representatives act on behalf of the organization. 
-
 **2. Sales Promotion:** Used alongside advertising and personal selling, sales promotions aim to boost sales. 
-
 **3. Public Relations (PR):** PR is a planned effort to establish mutual understanding between an organization and its publics. 
-
 **4. Direct Mail:** Direct mail targets potential customers based on specific attributes using a focused database. 
-
 **5. Trade Fairs and Exhibitions:** Trade fairs and exhibitions facilitate networking and renewing connections. 
-
 **6. Advertising:** Paid communication that shapes attitudes, raises awareness, and transmits information to elicit responses from the target audience.
-
 **7. Sponsorships:** Sponsorship involves paying to associate an organization with a particular event or cause. 
 #/Q 
 ### Place: Distribution and Channel Decisions
 
-#Q
-Place, :: in the context of marketing, refers to the <mark style="background: #FF5582A6;">distribution and channels through which goods and services are delivered from manufacturers or service providers to consumers.</mark> 
+#Q #AOSR/6eo22
+Place, :: in the context of marketing, refers to the <mark style="background: #FF5582A6;">distribution and channels through which goods and services are delivered from manufacturers or service providers to consumers.</mark>  #AOSR/6eo22/s/3ier
 #/Q 
 ### Distribution Considerations:
 
@@ -205,12 +193,12 @@ Place, :: in the context of marketing, refers to the <mark style="background: #F
 ### Extended Marketing Mix
 
 #### People:
-#Q
-People :: The people who are <mark style="background: #FF5582A6;">involved in the marketing and delivery of the product.</mark>
+#Q #AOSR/4im4m
+People :: The people who are <mark style="background: #FF5582A6;">involved in the marketing and delivery of the product.</mark> #AOSR/4im4m/s/5igp
 #/Q 
 #### Physical Evidence:
-#Q
-Physical Evidence :: The tangible evidence that the <mark style="background: #FF5582A6;">product exists and that it is worth buying.</mark>
+#Q #AOSR/5ecnr
+Physical Evidence :: The tangible evidence that the <mark style="background: #FF5582A6;">product exists and that it is worth buying.</mark> #AOSR/5ecnr/s/788h
 #/Q 
 #### Process:
 #Q #AOSR/15jd6

@@ -9,16 +9,10 @@ tags:
 >Tabular representation of quantity demanded at each price is called the ‘demand  schedule’ and its graphical representation which is usually a downward sloping line  relating price and quantity is called the ‘demand curve’. 
 
 ## Market Equilibrium
-#Q
-Market equilibrium :: refers to the <mark style="background: #FF5582A6;">state in which the quantity of a particular good or service demanded by buyers is equal to the quantity supplied by producers or sellers</mark> in a given market. 
+#Q #AOSR/5u4ob
+Market equilibrium :: refers to the <mark style="background: #FF5582A6;">state in which the quantity of a particular good or service demanded by buyers is equal to the quantity supplied by producers or sellers</mark> in a given market.  #AOSR/5u4ob/s/1j43
 #/Q 
 ## Market Forces of Demand  
-
-### Shift/Change in Demand
-#Q
-Change in demand :: It is the Change in the quantity of a good or service that consumers are willing and able to buy at every possible price level.
-![[Pasted image 20230816123427.png]]
-#/Q 
 
 ### Demand Shifters
 #Q #AOSR/4eo7s
@@ -40,8 +34,8 @@ Demand determinants :: or factors affecting demand, are <mark style="background:
 >The tabular representation of price and quantity supplied is called the supply schedule.  Graphical representation of the relationship between price and the quantity supplied  while other influencing factors are kept constant is called the supply curve. 
 
 ### Shift in Supply
-#Q
-Shift in Supply :: A change in the quantity of a good or service that producers are willing and able to offer for sale at every possible price level.
+#Q #AOSR/7arhl
+Shift in Supply :: A change in the quantity of a good or service that producers are willing and able to offer for sale at every possible price level. #AOSR/7arhl/s/62le
 ![[Pasted image 20230816123401.png]]
 #/Q 
 
@@ -79,12 +73,12 @@ When both the demand and supply curves shift simultaneously, the equilibrium pri
 ![[Pasted image 20230816124131.png]]
 
 ### Elasticity of Demand
-#Q
-EoD :: is the <mark style="background: #FF5582A6;">responsiveness of quantity demanded for a change in its determinants</mark> can be defined as the elasticity of demand when measured in percentage terms.
+#Q #AOSR/82o45
+EoD :: is the <mark style="background: #FF5582A6;">responsiveness of quantity demanded for a change in its determinants</mark> can be defined as the elasticity of demand when measured in percentage terms. #AOSR/82o45/s/55uv
 #/Q 
 #### Price elasticity of demand
-#Q
-PoD :: is the <mark style="background: #FF5582A6;">response of quantity demanded for a change in price</mark> of the good is measured by the price elasticity of demand.
+#Q #AOSR/4sh8t
+PoD :: is the <mark style="background: #FF5582A6;">response of quantity demanded for a change in price</mark> of the good is measured by the price elasticity of demand. #AOSR/4sh8t/s/2i53
 
 $$
 \text{Price elasticity of demand}=\frac{\% \Delta QD}{\%\Delta P}

@@ -7,8 +7,8 @@ tags:
 # Trade and Comparative Advantage  
 ## International Trade
 
-#Q 
-International trade :: is the exchange of goods and services between two or more countries. 
+#Q  #AOSR/42rj6
+International trade :: is the exchange of goods and services between two or more countries.  #AOSR/42rj6/s/krqf
 #/Q 
 
 > [!definition]
@@ -18,18 +18,13 @@ International trade :: is the exchange of goods and services between two or more
 
 > [!definition]
 > #Q 
-> Comparative advantage :: refers to the ability of a country or region to produce a good or service at a lower opportunity cost than another country or region.
-> #/Q 
-
-> [!definition]
-> #Q 
 > Exchange :: is the voluntary trading of goods and services between two or more parties. International trade is a type of exchange that occurs between countries.
 > #/Q 
 
 
 ## Theory of Absolute Advantage
-#Q
-The theory of absolute advantage :: is an economic theory that states that a country should <mark style="background: #ABF7F7A6;">specialize in the production of goods and services in which it has an absolute advantage and trade those goods and services with other countries for goods and services in which those countries have an absolute advantage.</mark>
+#Q #AOSR/7epib
+The theory of absolute advantage :: is an economic theory that states that a country should <mark style="background: #ABF7F7A6;">specialize in the production of goods and services in which it has an absolute advantage and trade those goods and services with other countries for goods and services in which those countries have an absolute advantage.</mark> #AOSR/7epib/s/5ern
 
 $$
 OPC=\frac{\text{Sacrificing Units}}{\text{Increasing Units}}
@@ -38,8 +33,8 @@ $$
 #/Q 
 
 ## Production Possibilities Frontier
-#Q
-(PPF) :: is a curve that shows all the possible combinations of two goods that can be produced by an economy with a given amount of resources. 
+#Q #AOSR/50prm
+(PPF) :: is a curve that shows all the possible combinations of two goods that can be produced by an economy with a given amount of resources.  #AOSR/50prm/s/47al
 #/Q 
 
 The PPF is typically drawn <mark style="background: #FFF3A3A6;">with two goods on the axes</mark>, such as cars and computers. The points on the PPF represent efficient production levels, meaning that the economy is using all of its resources and producing the maximum output possible.
@@ -50,8 +45,8 @@ The PPF is typically drawn <mark style="background: #FFF3A3A6;">with two goods o
 > Trade-offs :: The curve demonstrates the concept of opportunity cost, as increasing the production of one good or service usually requires reducing the production of another. 
 > #/Q 
 ## The theory of comparative advantage  
-#Q
-The theory of comparative advantage :: is an economic theory that states that a country should specialize in the production of goods and services <mark style="background: #ABF7F7A6;">in which it has a comparative advantage and trade those goods and services with other countrie</mark>s for goods and services in which those countries have a comparative advantage.
+#Q #AOSR/9t7ok
+Comparative advantage :: is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners. #AOSR/9t7ok/s/1kl1
 #/Q 
 
 The theory of comparative advantage assumes that countries have different opportunity costs in the production of different goods and services. 

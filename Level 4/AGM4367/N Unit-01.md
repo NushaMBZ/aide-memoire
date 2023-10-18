@@ -15,15 +15,15 @@ Economic agents :: These are <mark style="background: #FFF3A3A6;">individual uni
 #/Q 
 
 ## Resources
-#Q
+#Q #AOSR/1sm4t
  #AOSR/1g9rf
-Resources :: It refers to the <mark style="background: #FFF3A3A6;">various materials, assets, or factors that are available and utilized to meet human needs and wants.</mark>  #AOSR/1g9rf/s/5k9m
+Resources :: It refers to the <mark style="background: #FFF3A3A6;">various materials, assets, or factors that are available and utilized to meet human needs and wants.</mark>  #AOSR/1g9rf/s/5k9m #AOSR/1sm4t/s/2eni
 The inherent nature of resources is that, they are <mark style="background: #FF5582A6;">scarce</mark> and have <mark style="background: #FF5582A6;">alternative uses</mark>.
 #/Q 
 
 ## Opportunity Cost
-#Q
-Opportunity cost :: This is <mark style="background: #FFF3A3A6;">the benefit of next best alternative that you need  to give-up when selecting a choice.</mark>
+#Q #AOSR/z3557
+Opportunity cost :: This is <mark style="background: #FFF3A3A6;">the benefit of next best alternative that you need  to give-up when selecting a choice.</mark> #AOSR/z3557/s/6ohp
 #/Q
 # Branch of Economics
 
@@ -235,9 +235,9 @@ A <mark style="background: #FF5582A6;">shift in the entire demand curve</mark>, 
 Quantity supply :: is the amount of the good or services that the sellers are <mark style="background: #FF5582A6;">willing to sell and able to sell</mark> at a  <mark style="background: #FFF3A3A6;">given price level and at a given period of time.</mark>
 #/Q 
 ### Law of Supply
-#Q
+#Q #AOSR/1l0e0
  #AOSR/7d2a2
-Law of Supply :: Assuming that all the other factors are not changing, <mark style="background: #FF5582A6;">quantity of a good supply by sellers increases  with the increase in price of that goods and vice versa</mark>. #AOSR/7d2a2/s/5mge
+Law of Supply :: Assuming that all the other factors are not changing, <mark style="background: #FF5582A6;">quantity of a good supply by sellers increases  with the increase in price of that goods and vice versa</mark>. #AOSR/7d2a2/s/5mge #AOSR/1l0e0/s/4pgf
 #/Q 
 
 > Q = c + dP
@@ -303,16 +303,16 @@ Accounting profit is a straightforward measure that is commonly used in financia
 > Accounting Profit = Total Revenue - Total Explicit Costs
 
 ## Theory of the Firm  
-#Q
-Theory of the Firm :: This is an economic concept that seeks to <mark style="background: #FFF3A3A6;">understand the behavior and organization of firms</mark> within an economic system.
+#Q #AOSR/1cthv
+Theory of the Firm :: This is an economic concept that seeks to <mark style="background: #FFF3A3A6;">understand the behavior and organization of firms</mark> within an economic system. #AOSR/1cthv/s/3iib
 #/Q 
 
 It aims to explain how <mark style="background: #FF5582A6;">firms make decisions</mark> regarding <mark style="background: #FFF3A3A6;">production, pricing, investment, and other strategic choices</mark> to maximize their profits or achieve their objectives.
 
 
 ### Production Function
-#Q 
-Production Function :: The relationship between <mark style="background: #FF5582A6;">inputs (such as labor and capital) and output.</mark>
+#Q  #AOSR/1r8mt
+Production Function :: The relationship between <mark style="background: #FF5582A6;">inputs (such as labor and capital) and output.</mark> #AOSR/1r8mt/s/7ji9
 #/Q 
 $$
 Y=X_1,X_2,X_3
@@ -335,8 +335,8 @@ Total product (TP) :: This is the **total output that can be produced** with a g
 Average Product (AP) :: AP is equal to the **TP divided by the level of inputs** used in production.
 #/Q 
 
-#Q
-Marginal  product (MP) :: The <mark style="background: #FFF3A3A6;">change in TP per unit change in input.</mark>
+#Q #AOSR/i4m7d
+Marginal  product (MP) :: The <mark style="background: #FFF3A3A6;">change in TP per unit change in input.</mark> #AOSR/i4m7d/s/hepf
 #/Q 
 ### Stages of Production
 ![[Pasted image 20230720123401.png]]

@@ -61,32 +61,32 @@ The revenue of a monopoly :: is the <mark style="background: #FF5582A6;">total a
 The quantity of output that a monopoly produces is determined by the marginal revenue of the product. The marginal revenue of a product is the additional revenue that the monopoly earns by selling one more unit of output. <mark style="background: #FF5582A6;">The monopoly will produce the quantity of output where marginal revenue equals marginal cost.</mark>
 
 ### Profit Maximization
-#Q
-The profits of a monopoly :: are calculated by subtracting the total costs from the total revenue. The total costs of a monopoly are the total amount of money that the monopoly spends to produce its product.
+#Q #AOSR/25cbg
+The profits of a monopoly :: are calculated by subtracting the total costs from the total revenue. The total costs of a monopoly are the total amount of money that the monopoly spends to produce its product. #AOSR/25cbg/s/1v4t
 #/Q 
-#Q
-The monopoly will maximize its profits :: by producing the quantity of output where <mark style="background: #FF5582A6;">marginal revenue equals marginal cost.</mark> This is the quantity of output that will generate the highest level of profits for the monopoly.
+#Q #AOSR/3jnhu
+The monopoly will maximize its profits :: by producing the quantity of output where <mark style="background: #FF5582A6;">marginal revenue equals marginal cost.</mark> This is the quantity of output that will generate the highest level of profits for the monopoly. #AOSR/3jnhu/s/1mhq
 #/Q 
 
 ![[Pasted image 20230822094343.png]]
 
 
 ## The welfare cost of monopolies
-#Q
-The welfare cost of monopolies is :: <mark style="background: #FF5582A6;">the loss of economic efficiency that results from a monopoly.</mark> Monopolies can lead to a deadweight loss.
+#Q #AOSR/5fecj
+The welfare cost of monopolies is :: <mark style="background: #FF5582A6;">the loss of economic efficiency that results from a monopoly.</mark> Monopolies can lead to a deadweight loss. #AOSR/5fecj/s/3nel
 #/Q 
 
 In a monopoly, the <mark style="background: #FFF3A3A6;">price of a good is higher than the marginal cost of production.</mark> This is because the monopoly can charge a <mark style="background: #FF5582A6;">higher price because it has no competition.</mark> 
 
 ### The Dead-weight Loss
 
-#Q
-The deadweight loss ::  is <mark style="background: #FF5582A6;">the loss of economic efficiency that results from the monopoly charging a higher price and producing less output than would be produced in a competitive market.</mark>
+#Q #AOSR/7eu9i
+The deadweight loss ::  is <mark style="background: #FF5582A6;">the loss of economic efficiency that results from the monopoly charging a higher price and producing less output than would be produced in a competitive market.</mark> #AOSR/7eu9i/s/2f0v
 #/Q 
 ## Price discrimination
 
-#Q
-Price discrimination :: is a <mark style="background: #FF5582A6;">strategy that a monopolist can use to increase its profits. </mark> Price discrimination involves <mark style="background: #FF5582A6;">charging different prices to different consumers, even though the cost of producing the good or service is the same.</mark> This can be done by grouping consumers based on their willingness to pay, their location, or other factors.
+#Q #AOSR/5pi5i
+Price discrimination :: is a <mark style="background: #FF5582A6;">strategy that a monopolist can use to increase its profits. </mark> Price discrimination involves <mark style="background: #FF5582A6;">charging different prices to different consumers, even though the cost of producing the good or service is the same.</mark> This can be done by grouping consumers based on their willingness to pay, their location, or other factors. #AOSR/5pi5i/s/2qsr
 #/Q 
 ![[Pasted image 20231006100011.png]]
 

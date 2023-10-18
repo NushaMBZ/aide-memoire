@@ -6,8 +6,8 @@ tags:
 
 # Perfect Competition
 ## Competitive Market
-#Q
-A competitive market :: is a market structure where <mark style="background: #ABF7F7A6;">there are many buyers and sellers of a homogeneous product.</mark> This means that the products sold by different firms are identical, and buyers have perfect information about the prices offered by all firms.
+#Q #AOSR/5ok74
+A competitive market :: is a market structure where <mark style="background: #ABF7F7A6;">there are many buyers and sellers of a homogeneous product.</mark> This means that the products sold by different firms are identical, and buyers have perfect information about the prices offered by all firms. #AOSR/5ok74/s/37of
 #/Q 
 
 In a competitive market, <mark style="background: #FFF3A3A6;">no individual buyer or seller has any control over the market price.</mark> The price is determined by the interaction of supply and demand in the market as a whole.
@@ -26,8 +26,8 @@ This is the total amount of money the firm earns by selling its output. In a *pe
 $$
 TR = P \cdot Q
 $$
-#Q
-In a perfectly competitive market, ==the average revenue and marginal revenue of the firm are Here are the equal to the market price. ==
+#Q #AOSR/79vr2
+In a perfectly competitive market, ==the average revenue and marginal revenue of the firm are Here are the equal to the market price. == #AOSR/79vr2/c/picn 
 #/Q 
 
 To show this, we can substitute the expression for total revenue into the expression for average revenue:
@@ -57,7 +57,7 @@ $$
 \text{Profit} = TR - TC
 $$
 #Q #AOSR/57aj3
-The firm can maximize its profit by ==setting MR = MC.== This is because when ==MR = MC== #AOSR/57aj3/c/uqm5  the firm is making the most money possible from each additional unit of output produced. If $MR > MC$, the firm can make more money by producing more output. If $MR < MC$, the firm can make more money by producing less output.
+The firm can maximize its profit by ==setting MR = MC.== #AOSR/57aj3/c/3l33  This is because when ==MR = MC== #AOSR/57aj3/c/uqm5  the firm is making the most money possible from each additional unit of output produced. If $MR > MC$, the firm can make more money by producing more output. If $MR < MC$, the firm can make more money by producing less output.
 #/Q 
 $$
 \begin{align*}
@@ -109,8 +109,8 @@ When a firm shuts down, it still has to pay its fixed costs, which are the costs
 The decision to shut down is a short-run decision. In the long run, the firm can choose to exit the market altogether if it is not profitable to operate.
 
 ## Measuring Profits of a Competitive Firm
-#Q
-Profit is :: the <mark style="background: #FF5582A6;">total revenue a firm earns minus its total costs.</mark> In a perfectly competitive market, a firm is a price taker, meaning that it cannot control the market price. As a result, the firm's profit is determined by the difference between the market price and its average total cost.
+#Q #AOSR/2jgk5
+Profit is :: the <mark style="background: #FF5582A6;">total revenue a firm earns minus its total costs.</mark> In a perfectly competitive market, a firm is a price taker, meaning that it cannot control the market price. As a result, the firm's profit is determined by the difference between the market price and its average total cost. #AOSR/2jgk5/s/7ue7
 
 ```
 Profit = (Price - ATC) * Q
@@ -154,8 +154,8 @@ Long Run Market Supply Curve ::
 - If the price is below the average total cost of the marginal firm, then firms will exit the market, which will decrease the supply and raise the price.
 
 #/Q 
-#Q
-Why the Firms Stay in Business with Zero Profits? :: 
+#Q #AOSR/7gqcf
+Why the Firms Stay in Business with Zero Profits? ::  #AOSR/7gqcf/s/9i1b
 - Profit is considered as the total revenue less total cost.
 - In computing total cost; the opportunity cost of the business owner has taken into account.
 - Therefore, his inputs as labour, entrepreneurship, money and land are adequately compensated in the zero economic profit equilibrium.

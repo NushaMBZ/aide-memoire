@@ -18,8 +18,8 @@ Recessions and expansions come under two categories namely; exogenous factors an
 #/Q 
 
 ## Aggregate Demand
-#Q
-Aggregate demand :: explains how the total demand for goods and services in an economy determines the level of output and employment.
+#Q #AOSR/6od7c
+Aggregate demand :: explains how the total demand for goods and services in an economy determines the level of output and employment. #AOSR/6od7c/s/68qh
 #/Q 
 
 The AD curve is downward sloping, which means that as the price level rises, people are willing and able to buy fewer goods and services. 

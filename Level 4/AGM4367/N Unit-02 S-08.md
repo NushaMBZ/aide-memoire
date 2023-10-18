@@ -6,38 +6,38 @@ tags:
 # Market and Government Policies
 
 ## Controls on Prices
-#Q 
-Control on prices :: It is a <mark style="background: #ABF7F7A6;">government intervention in the market to regulate the price of goods and services.</mark> This can be done by setting a maximum price (price ceiling) or a minimum price (price floor).
+#Q  #AOSR/6l7js
+Control on prices :: It is a <mark style="background: #ABF7F7A6;">government intervention in the market to regulate the price of goods and services.</mark> This can be done by setting a maximum price (price ceiling) or a minimum price (price floor). #AOSR/6l7js/s/6va2
 #/Q 
 
 ### Price Ceiling
-#Q 
-A **price ceiling** :: It is a <mark style="background: #ABF7F7A6;">legal maximum price that can be charged for a good or service.</mark> 
+#Q  #AOSR/2qme9
+A **price ceiling** :: It is a <mark style="background: #ABF7F7A6;">legal maximum price that can be charged for a good or service.</mark>  #AOSR/2qme9/s/7lks
 #/Q 
 ![[Pasted image 20231017113856.png]]
 #Q
-The effects of a price ceiling can be summarized as follows ::
+The effects of a price ceiling can be summarized as follows::
 - <mark style="background: #FF5582A6;">Shortages</mark>: A <mark style="background: #ABF7F7A6;">price ceiling below the equilibrium price will create a shortage</mark> of the good or service. 
 - **<mark style="background: #FF5582A6;">Black markets</mark>: A price ceiling can create a black market, where goods are sold <mark style="background: #ABF7F7A6;">illegally at a higher price than the ceiling.</mark> 
 - <mark style="background: #FF5582A6;">Reduced quality</mark>: Suppliers may <mark style="background: #ABF7F7A6;">reduce the quality of the goods or services they sell in order to maintain profits.</mark> 
 - **<mark style="background: #FF5582A6;">Inefficiency</mark>: A price ceiling can lead to inefficiency in the market. 
 #/Q 
 
-#Q 
->A <mark style="background: #FF5582A6;">binding price ceiling</mark> :: It is a price ceiling that is <mark style="background: #ADCCFFA6;">set below the equilibrium price.</mark> 
+#Q  #AOSR/41hkj
+>A <mark style="background: #FF5582A6;">binding price ceiling</mark> :: It is a price ceiling that is <mark style="background: #ADCCFFA6;">set below the equilibrium price.</mark>  #AOSR/41hkj/s/6ran
 
 #/Q 
 
-#Q 
+#Q  #AOSR/3mim4
 
-> A <mark style="background: #FF5582A6;">non-binding price ceiling</mark> :: It is a price ceiling that is s<mark style="background: #ADCCFFA6;">et above the equilibrium price.</mark> 
+> A <mark style="background: #FF5582A6;">non-binding price ceiling</mark> :: It is a price ceiling that is s<mark style="background: #ADCCFFA6;">et above the equilibrium price.</mark>  #AOSR/3mim4/s/1krv
 
 #/Q 
 ![[Pasted image 20230821214653.png]]
 
 **Welfare effect of a price ceiling**: 
-#Q
-The welfare effect of a price ceiling :: It is a measure of the economic efficiency of a price ceiling. It is calculated by <mark style="background: #ABF7F7A6;">comparing the total surplus in the market with and without the price ceiling.</mark>
+#Q #AOSR/21df1
+The welfare effect of a price ceiling :: It is a measure of the economic efficiency of a price ceiling. It is calculated by <mark style="background: #ABF7F7A6;">comparing the total surplus in the market with and without the price ceiling.</mark> #AOSR/21df1/s/5bnc
 
 
 The <mark style="background: #FF5582A6;">welfare effect of a price ceiling is negative</mark>, as it leads to a decrease in total surplus. The decrease in total surplus is the result of the decrease in consumer surplus, which is larger than the decrease in producer surplus.
@@ -46,20 +46,20 @@ The <mark style="background: #FF5582A6;">welfare effect of a price ceiling is ne
 
 ### Price Floor
 ![[Pasted image 20231017120549.png]]
-#Q
-A **price floor** :: It is a <mark style="background: #ABF7F7A6;">legal minimum price that can be paid for a good or service.</mark> It is imposed by the government to protect producers from receiving too low a price.
+#Q #AOSR/5fm5e
+A **price floor** :: It is a <mark style="background: #ABF7F7A6;">legal minimum price that can be paid for a good or service.</mark> It is imposed by the government to protect producers from receiving too low a price. #AOSR/5fm5e/s/4js3
 #/Q 
 
  However, it can also lead to surpluses, as suppliers are not able to sell all of their goods or services at the artificially high price.
 
-#Q 
+#Q  #AOSR/4ssag
 Welfare effects of price floor :: 
 - **Surplus of Supply:** One of the most common effects of a price floor is the creation of a surplus of supply.
 - **Reduced Efficiency:** Price floors can lead to a reduction in economic efficiency. Resources might be misallocated, as some producers who are willing to sell at the equilibrium price might not be able to sell their products due to the higher price floor.
 - **Consumer Impact:** While price floors are often implemented to protect consumers from extremely low prices, they can have unintended consequences.
 - **Producer Impact:** Price floors can benefit producers by guaranteeing them a higher price for their goods or services.
 
-![[Pasted image 20230821221657.png]]
+![[Pasted image 20230821221657.png]] #AOSR/4ssag/s/482j
 #/Q 
 
 #Q #AOSR/3kcan
@@ -68,8 +68,8 @@ Welfare effects of price floor ::
 
 #/Q 
 
-#Q
-> A **non-binding price** floor :: It is a price floor that is <mark style="background: #ABF7F7A6;">set below the equilibrium price.</mark> 
+#Q #AOSR/7nvjo
+> A **non-binding price** floor :: It is a price floor that is <mark style="background: #ABF7F7A6;">set below the equilibrium price.</mark>  #AOSR/7nvjo/s/hkio
 
 #/Q 
 
@@ -89,8 +89,8 @@ Cons of price controls::
 #/Q 
 ![[Pasted image 20231017115729.png]]
 ## Taxes
-#Q
-Taxes :: These are <mark style="background: #ABF7F7A6;">compulsory levies on consumers or producers by a governmental organization in order to fund government spending and various public services.</mark> 
+#Q #AOSR/nr7vc
+Taxes :: These are <mark style="background: #ABF7F7A6;">compulsory levies on consumers or producers by a governmental organization in order to fund government spending and various public services.</mark>  #AOSR/nr7vc/s/4nhl
 #/Q 
 
 #Q
@@ -125,8 +125,8 @@ The following are the effects of a tax on buyers ::
 #/Q 
 
 ## Tax Incidence
-#Q
-Tax incidence :: refers to <mark style="background: #ABF7F7A6;">who ultimately bears the burden of a tax.</mark> The tax incidence may not be the same as the person who is legally liable to pay the tax.
+#Q #AOSR/7bkaf
+Tax incidence :: refers to <mark style="background: #ABF7F7A6;">who ultimately bears the burden of a tax.</mark> The tax incidence may not be the same as the person who is legally liable to pay the tax. #AOSR/7bkaf/s/38qs
 #/Q 
 
 The tax incidence will <mark style="background: #FF5582A6;">depend on the elasticity of demand and supply.</mark>  If demand is inelastic, consumers are less likely to change their consumption in response to a price change. This means that the burden of the tax will fall more heavily on consumers. If supply is elastic, producers are more likely to change their production in response to a price change. This means that the burden of the tax will fall more heavily on producers.
@@ -139,8 +139,8 @@ The tax incidence will <mark style="background: #FF5582A6;">depend on the elasti
 
 ![[a.svg]]
 ![[b.svg]]
-#Q
-Welfare effect of a tax :: 
+#Q #AOSR/1r8q4
+Welfare effect of a tax ::  #AOSR/1r8q4/s/6jn6
 The welfare effect of a tax is the <mark style="background: #ABF7F7A6;">change in economic well-being that results from the imposition of the tax.</mark> The welfare effect of tax can be measured by <mark style="background: #ABF7F7A6;">the loss of consumer surplus and producer surplus.</mark>
 #/Q 
 The total welfare loss from the tax is the sum of the decrease in consumer surplus and the decrease in producer surplus. This loss is called the deadweight loss. The deadweight loss is a measure of the inefficiency that results from the tax.
@@ -157,14 +157,14 @@ The deadweight loss from a tax is larger when the elasticity of demand and suppl
 
 ## Subsidies
 
-#Q
-Subsidies :: This is a <mark style="background: #ABF7F7A6;">financial assistance that is given by the government to producers or consumers of a good or service.</mark> Subsidies can be used to achieve a variety of goals, such as increasing production, reducing prices, or promoting certain types of economic activity.
+#Q #AOSR/7j6en
+Subsidies :: This is a <mark style="background: #ABF7F7A6;">financial assistance that is given by the government to producers or consumers of a good or service.</mark> Subsidies can be used to achieve a variety of goals, such as increasing production, reducing prices, or promoting certain types of economic activity. #AOSR/7j6en/s/skr4
 #/Q 
 The term "subsidy" is often used interchangeably with the term "grant," but there is a subtle difference between the two. A grant is a payment that is made without any expectation of repayment, while a subsidy is a payment that is made with the expectation that the recipient will use the funds to produce or consume a good or service.
 
 Two main types of subsidies:
-#Q
-- Production subsidies :: are <mark style="background: #ABF7F7A6;">payments that are made to producers of a good or service.</mark> These subsidies can be used to reduce the cost of production, which can lead to lower prices for consumers.
+#Q #AOSR/4ps78
+- Production subsidies :: are <mark style="background: #ABF7F7A6;">payments that are made to producers of a good or service.</mark> These subsidies can be used to reduce the cost of production, which can lead to lower prices for consumers. #AOSR/4ps78/s/fvbp
 #/Q 
 ![[Pasted image 20230821230613.png]]
 #Q #AOSR/5bo3h
