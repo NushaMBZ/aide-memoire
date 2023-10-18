@@ -122,8 +122,8 @@ A change in price and quantity or the displacement of the initial equilibrium br
 ![[Pasted image 20230816134336.png]]
 
 #### Income Elasticity of Demand
-#Q
-The income elasticity of demand :: measures the responsiveness of demand for a change in consumers’ income.
+#Q #AOSR/2j6ah
+The income elasticity of demand :: measures the responsiveness of demand for a change in consumers’ income. #AOSR/2j6ah/s/641g
 
 $$
 IED=\frac{\Delta QD\%}{\Delta I\%}
@@ -139,8 +139,8 @@ $$
 The responsiveness of the quantity supplied by the sellers is measured by the elasticity of supply.
 
 #### Price Elasticity of Supply
-#Q
-Price elasticity of supply :: measures how much the quantity of supply responds to a change in the price of that good.
+#Q #AOSR/78npp
+Price elasticity of supply :: measures how much the quantity of supply responds to a change in the price of that good. #AOSR/78npp/s/2nb3
 
 $$
 \text{PES} = \frac{\Delta QS \%}{\Delta P %}

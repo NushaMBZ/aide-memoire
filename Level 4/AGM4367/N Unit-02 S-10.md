@@ -5,8 +5,8 @@ tags:
 ---
 
 # Monopoly
-#Q
-A monopoly :: is a market structure in which there is <mark style="background: #D2B3FFA6;">only one seller of a good or service.</mark> 
+#Q #AOSR/1klva
+A monopoly :: is a market structure in which there is <mark style="background: #D2B3FFA6;">only one seller of a good or service.</mark>  #AOSR/1klva/s/3jhm
 #/Q 
 
 #Q
@@ -54,8 +54,8 @@ Another difference between a monopoly and competition is the price of the good o
 
 ![[Pasted image 20230822094016.png]]
 ### Monopoly's Revenue
-#Q
-The revenue of a monopoly :: is the <mark style="background: #FF5582A6;">total amount of money that the monopoly earns from selling its product.</mark> The revenue of a monopoly can be calculated by multiplying the price of the product by the quantity of output sold.
+#Q #AOSR/4rb67
+The revenue of a monopoly :: is the <mark style="background: #FF5582A6;">total amount of money that the monopoly earns from selling its product.</mark> The revenue of a monopoly can be calculated by multiplying the price of the product by the quantity of output sold. #AOSR/4rb67/s/5ovm
 #/Q 
 
 The quantity of output that a monopoly produces is determined by the marginal revenue of the product. The marginal revenue of a product is the additional revenue that the monopoly earns by selling one more unit of output. <mark style="background: #FF5582A6;">The monopoly will produce the quantity of output where marginal revenue equals marginal cost.</mark>

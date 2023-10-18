@@ -4,14 +4,14 @@ tags:
   - agm4367
 ---
 # Economics
-#Q
+#Q #AOSR/g6il6
  #AOSR/2t3dq
-Economics :: This is a <mark style="background: #FF5582A6;">social science</mark> that studies phenomena related to humans' behavior in relation to how they <mark style="background: #FFF3A3A6;">make decisions in meeting thier needs and wants when limited resource is available.</mark> #AOSR/2t3dq/s/6gmh
+Economics :: This is a <mark style="background: #FF5582A6;">social science</mark> that studies phenomena related to humans' behavior in relation to how they <mark style="background: #FFF3A3A6;">make decisions in meeting thier needs and wants when limited resource is available.</mark> #AOSR/2t3dq/s/6gmh #AOSR/g6il6/s/352r
 #/Q 
 ## Economics Agents
-#Q
+#Q #AOSR/5pq52
  #AOSR/cja0i
-Economic agents :: These are <mark style="background: #FFF3A3A6;">individual units capable of utilizing the scarce resouces to get the best advantage</mark>, since the very nature of resources reminds us the fact that they are scare,economics agents should engage in the activity of properly utilizing the resource to get what they need. #AOSR/cja0i/s/itol
+Economic agents :: These are <mark style="background: #FFF3A3A6;">individual units capable of utilizing the scarce resouces to get the best advantage</mark>, since the very nature of resources reminds us the fact that they are scare,economics agents should engage in the activity of properly utilizing the resource to get what they need. #AOSR/cja0i/s/itol #AOSR/5pq52/s/6k4g
 #/Q 
 
 ## Resources
@@ -285,9 +285,9 @@ Explicit costs :: are those costs that involve a <mark style="background: #FFF3A
 #/Q 
 
 ## Implicit Costs
-#Q 
+#Q  #AOSR/1kkvq
  #AOSR/7qmcu
-Implicit costs :: the potential benefits or profits the company could have earned <mark style="background: #FF5582A6;">if it had chosen a different use for its resources.</mark> #AOSR/7qmcu/s/3qk7
+Implicit costs :: the potential benefits or profits the company could have earned <mark style="background: #FF5582A6;">if it had chosen a different use for its resources.</mark> #AOSR/7qmcu/s/3qk7 #AOSR/1kkvq/s/5j46
 #/Q 
 
 ### Economic Profit

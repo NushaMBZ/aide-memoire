@@ -16,8 +16,8 @@ tags:
 
 #/Q
 
-#Q
-- Unemployment :: It examines <mark style="background: #FFF3A3A6;">the causes and consequences of unemployment</mark>, as well as the policies that can be used to reduce unemployment rates.
+#Q #AOSR/5rkqj
+- Unemployment :: It examines <mark style="background: #FFF3A3A6;">the causes and consequences of unemployment</mark>, as well as the policies that can be used to reduce unemployment rates. #AOSR/5rkqj/s/58lv
 
 #/Q 
 
@@ -61,8 +61,8 @@ Gross Domestic Product (GDP) :: Typically calculated over a year, the <mark styl
 Gross National Product (GNP) ::	A measure of the <mark style="background: #FF5582A6;">total value of goods and services produced by a country’s citizens,</mark> regardless of their location, over a specified period, typically a year.
 #/Q 
 
-#Q
-Interest Rate :: The <mark style="background: #FF5582A6;">cost of borrowing money</mark>, typically expressed as a percentage of the amount borrowed, or the return earned on saving or investing money.
+#Q #AOSR/5vku0
+Interest Rate :: The <mark style="background: #FF5582A6;">cost of borrowing money</mark>, typically expressed as a percentage of the amount borrowed, or the return earned on saving or investing money. #AOSR/5vku0/s/4c2q
 #/Q 
 
 #Q
@@ -77,20 +77,20 @@ National Debt :: The <mark style="background: #FF5582A6;">outstanding sum of mon
 Balance of Payments (BoP) ::  A <mark style="background: #FFF3A3A6;">record of all economic transactions between a country and the rest of the world </mark>over a specified period, including trade in goods and services, income flows, and capital flows.
 #/Q 
 
-#Q
-Exchange Rate :: The <mark style="background: #FF5582A6;">value of one currency in terms of another currency</mark>, often expressed as the amount of one currency required to purchase one unit of the other currency.
+#Q #AOSR/5atei
+Exchange Rate :: The <mark style="background: #FF5582A6;">value of one currency in terms of another currency</mark>, often expressed as the amount of one currency required to purchase one unit of the other currency. #AOSR/5atei/s/527t
 #/Q 
 
-#Q 
-Aggregate Demand (AD) :: The <mark style="background: #FF5582A6;">total demand for goods and services </mark>in an economy at a given price level, including consumption, investment, government spending, and net exports.
+#Q  #AOSR/56ubt
+Aggregate Demand (AD) :: The <mark style="background: #FF5582A6;">total demand for goods and services </mark>in an economy at a given price level, including consumption, investment, government spending, and net exports. #AOSR/56ubt/s/6ju3
 #/Q 
 
 #Q 
 Business cycle :: The <mark style="background: #FF5582A6;">recurring pattern of expansion and contraction in economic activity</mark>, typically measured by changes in GDP over time.
 #/Q 
 ## Goals
-#Q
-- Economic growth :: Economic growth is the increase in the total output of goods and services in an economy over time.
+#Q #AOSR/78cpn
+- Economic growth :: Economic growth is the increase in the total output of goods and services in an economy over time. #AOSR/78cpn/s/3h0e
 
 #/Q 
 
@@ -104,8 +104,8 @@ Business cycle :: The <mark style="background: #FF5582A6;">recurring pattern of 
 
 #/Q 
 
-#Q 
-- External balance :: External balance refers to a sustainable balance of payments.
+#Q  #AOSR/5m0et
+- External balance :: External balance refers to a sustainable balance of payments. #AOSR/5m0et/s/n00k
 
 #/Q 
 ## Policy Instruments

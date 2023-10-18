@@ -78,9 +78,9 @@ Disadvantages of direct file organization:
 #Q #AOSR/7uvuu
 **Indirect file organization** is a file organization method in which ==each record in a file is mapped to a storage location indirectly through an index table.== #AOSR/7uvuu/c/3d1c 
 
-#Q
+#Q #AOSR/1csgt
 **Advantages of indirect file organization:**
-- **Efficient space usage:** Indirect file organization is ==more efficient in terms of space usage== than direct file organization, since the file only needs to be large enough to store the actual records, not all of the possible records.
+- **Efficient space usage:** Indirect file organization is ==more efficient in terms of space usage== #AOSR/1csgt/c/55su  than direct file organization, since the file only needs to be large enough to store the actual records, not all of the possible records.
 - **Less susceptible to fragmentation:** Indirect file organization is ==less susceptible to fragmentation than direct file organization==, since records can be inserted and deleted without affecting the storage locations of other records.
 
 #Q

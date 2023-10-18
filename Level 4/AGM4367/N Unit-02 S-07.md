@@ -6,12 +6,12 @@ tags:
 # Markets and Social Welfare  
 
 ## Welfare economics  
-#Q
-Welfare Economics :: This is the study of ‘<mark style="background: #CACFD9A6;">how the allocation of resources affects economic wellbeing</mark>’.
+#Q #AOSR/7p72c
+Welfare Economics :: This is the study of ‘<mark style="background: #CACFD9A6;">how the allocation of resources affects economic wellbeing</mark>’. #AOSR/7p72c/s/z394
 #/Q 
 ## Consumer Surplus
-#Q
-Consumer Surplus :: It is the *difference* between the  <mark style="background: #FFF3A3A6;">maximum amount a consumer is willing to pay for a good and the actual amount a  consumer has to pay for the good. </mark>
+#Q #AOSR/e285j
+Consumer Surplus :: It is the *difference* between the  <mark style="background: #FFF3A3A6;">maximum amount a consumer is willing to pay for a good and the actual amount a  consumer has to pay for the good. </mark> #AOSR/e285j/s/6tgf
 
 ![[Pasted image 20230817175820.png]]
 #/Q 
@@ -22,8 +22,8 @@ Producer Surplus :: It is the *difference* between the <mark style="background: 
 ![[Pasted image 20230817175800.png]]
 #/Q 
 ## Market Efficiency
-#Q 
-Market efficiency :: It refers to the <mark style="background: #FFF3A3A6;">effectiveness with which resources are allocated in a market to maximize overall economic welfare.</mark>
+#Q  #AOSR/1bjc3
+Market efficiency :: It refers to the <mark style="background: #FFF3A3A6;">effectiveness with which resources are allocated in a market to maximize overall economic welfare.</mark> #AOSR/1bjc3/s/3vft
 #/Q 
 
 > [!tip]

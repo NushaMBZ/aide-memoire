@@ -93,15 +93,15 @@ Product Definition and Components :: A "product" encompasses both tangible physi
 
 #### Levels of a Product:
 #Q
-1. Core Product :: The core product represents the fundamental benefit that customers seek. It includes intangible aspects like emotional satisfaction, status, or convenience.
+1. <mark style="background: #FF5582A6;">Core Product</mark> :: The core product represents the fundamental benefit that customers seek. It includes intangible aspects like emotional satisfaction, status, or convenience.
 #/Q 
 
 #Q 
-2. Actual Product :: The actual product is the tangible entity that customers purchase and use. Using the car example, it refers to the physical car you buy and drive. 
+2. <mark style="background: #FF5582A6;">Actual Product</mark> :: The actual product is the tangible entity that customers purchase and use. Using the car example, it refers to the physical car you buy and drive. 
 #/Q 
 
 #Q
-3. Augmented Product :: The inclusion of additional features, benefits, attributes or related services that serve to differentiate the product from its competitors.
+3. <mark style="background: #FF5582A6;">Augmented Product</mark> :: The inclusion of additional features, benefits, attributes or related services that serve to differentiate the product from its competitors.
 #/Q 
 ### Price: Factors, Decisions, and Pricing Strategies
 #Q
@@ -206,15 +206,15 @@ Place, :: in the context of marketing, refers to the <mark style="background: #F
 
 #### People:
 #Q
-The people :: who are <mark style="background: #FF5582A6;">involved in the marketing and delivery of the product.</mark>
+People :: The people who are <mark style="background: #FF5582A6;">involved in the marketing and delivery of the product.</mark>
 #/Q 
 #### Physical Evidence:
 #Q
-The tangible evidence :: that the <mark style="background: #FF5582A6;">product exists and that it is worth buying.</mark>
+Physical Evidence :: The tangible evidence that the <mark style="background: #FF5582A6;">product exists and that it is worth buying.</mark>
 #/Q 
 #### Process:
-#Q
-The systems and procedures :: that a company uses to deliver the product to customers.
+#Q #AOSR/15jd6
+Process :: The systems and procedures that a company uses to deliver the product to customers. #AOSR/15jd6/s/2ks8
 #/Q 
 
 ## The Four "C's"

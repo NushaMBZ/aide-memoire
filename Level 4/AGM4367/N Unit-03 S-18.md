@@ -42,8 +42,8 @@ It is typically measured as the <mark style="background: #FFF3A3A6;">percentage 
 - Classical growth theory :: This theory focuses on the role of <mark style="background: #FF5582A6;">capital accumulation and technological progress in driving economic growth.</mark>
 #/Q 
 
-#Q 
-- Neoclassical growth theory:: This theory builds on classical growth theory by incorporating the role of <mark style="background: #FF5582A6;">human capital in economic growth.</mark>
+#Q  #AOSR/7f3uc
+- Neoclassical growth theory:: This theory builds on classical growth theory by incorporating the role of <mark style="background: #FF5582A6;">human capital in economic growth.</mark> #AOSR/7f3uc/s/3ndf
 #/Q 
 
 #Q 
@@ -75,14 +75,14 @@ R  - Lands (resources) are a constant
 ```
 ## Strategies of economic development
 
-#Q
-- The Backwardness Hypothesis :: It explains the ability of developing countries to adopt new technologies developed in the rich countries.
+#Q #AOSR/7msb3
+- The Backwardness Hypothesis :: It explains the ability of developing countries to adopt new technologies developed in the rich countries. #AOSR/7msb3/s/3jkv
 #/Q
 
 #Q
 - Promoting a market economy :: Government should facilitate the functioning of market mechanism with less restrictions and allowing competition. 
 #/Q
 
-#Q
-- Outward orientation of economies :: This is a country’s consideration on international trade.
+#Q #AOSR/7vt0v
+- Outward orientation of economies :: This is a country’s consideration on international trade. #AOSR/7vt0v/s/ujko
 #/Q

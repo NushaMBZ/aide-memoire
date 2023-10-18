@@ -111,8 +111,8 @@ Components of expenditure approach ::
 - **Net exports:** This is the difference between a country's exports and its imports.
 #/Q 
 ### **Value-added approach**
-#Q
-The value-added approach :: to GDP <mark style="background: #FFF3A3A6;">measures the contribution of each industry to the overall economy.</mark> It does this by adding up the value added by each industry in the economy. 
+#Q #AOSR/7eapu
+The value-added approach :: to GDP <mark style="background: #FFF3A3A6;">measures the contribution of each industry to the overall economy.</mark> It does this by adding up the value added by each industry in the economy.  #AOSR/7eapu/s/517p
 #/Q 
 
 > [!tip]
@@ -213,8 +213,8 @@ NDP can be used for a variety of purposes, including::
 	- It is calculated by tracking the prices of a basket of goods and services that are sold by producers.
 #/Q 
 
-#Q 
-- GDP deflator :: The GDP deflator is a price index that is used to <mark style="background: #FFB8EBA6;">measure the change in the prices of all goods and services produced in an economy.</mark>
+#Q  #AOSR/2cqhm
+- GDP deflator :: The GDP deflator is a price index that is used to <mark style="background: #FFB8EBA6;">measure the change in the prices of all goods and services produced in an economy.</mark> #AOSR/2cqhm/s/27i4
 	- It is calculated by dividing nominal GDP by real GDP.
 #/Q 
 $$

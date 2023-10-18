@@ -5,8 +5,8 @@ tags:
 ---
 
 # Externalities
-#Q
-An externality :: is the <mark style="background: #FF5582A6;">impact of one party's economic activities on another party's well-being that is not considered in the market price.</mark> 
+#Q #AOSR/3mps6
+An externality :: is the <mark style="background: #FF5582A6;">impact of one party's economic activities on another party's well-being that is not considered in the market price.</mark>  #AOSR/3mps6/s/27bq
 #/Q 
 
 > [!tip]
@@ -157,21 +157,21 @@ Two measures to control pollution ::
 - **Tradable pollution permits:** Tradable pollution permits are a market-based approach to pollution control. The government sets a cap on the total amount of pollution that can be emitted, and then issues permits to polluters. 
 #/Q 
 
-#Q 
-Advantages and disadvantages of each policy:: 
-- **Pigouvian tax:**
+#Q  #AOSR/115hh
+Advantages and disadvantages of each policy ::
+- **<mark style="background: #FF5582A6;">Pigouvian tax</mark>:
     - Advantages:
 		- Helps internalize negative externalities.
 		- Can be used to address a variety of externalities.
     - Disadvantages:
         - Can be difficult to measure the external cost of pollution
-- **Tradable pollution permits:**
+- **<mark style="background: #FF5582A6;">Tradable pollution permits</mark>:
     - Advantages:
 		- Helps internalize negative externalities.
 		- Can be used to address a variety of externalities
     - Disadvantages:
         - Can be difficult to design the system
-        - Can be difficult to monitor and enforce
+        - Can be difficult to monitor and enforce   #AOSR/115hh/s/p2cm
 #/Q 
 ### Emission standards 
 #Q 

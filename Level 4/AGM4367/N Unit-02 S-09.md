@@ -56,8 +56,8 @@ Let $TR$ be the total revenue, $TC$ be the total cost, $MR$ be the marginal reve
 $$
 \text{Profit} = TR - TC
 $$
-#Q
-The firm can maximize its profit by ==setting MR = MC.== This is because when ==MR = MC== the firm is making the most money possible from each additional unit of output produced. If $MR > MC$, the firm can make more money by producing more output. If $MR < MC$, the firm can make more money by producing less output.
+#Q #AOSR/57aj3
+The firm can maximize its profit by ==setting MR = MC.== This is because when ==MR = MC== #AOSR/57aj3/c/uqm5  the firm is making the most money possible from each additional unit of output produced. If $MR > MC$, the firm can make more money by producing more output. If $MR < MC$, the firm can make more money by producing less output.
 #/Q 
 $$
 \begin{align*}
@@ -83,10 +83,13 @@ A supply curve in a competitive market is a graphical representation of the rela
 This figure shows the relationship between costs and revenue with the quantity of output.  Marginal Cost (MC) curve is upward sloping, Average Total Cost (ATC) curve is ‘U’  shaped and Average Variable Cost (AVC) curve is below the AVC curve.  AVC curve is  first declining and after a minimum it is increasing. The price line is horizontal which  represents the Marginal Revenue (MR) and Average Revenue (AR) considering the fact  that in a competitive market, MR=MC=P (equation 9) at the profit maximisation output  level. Therefore, the firm should come to $𝑄_{MAX}$  output level from $𝑄_1$ or $𝑄_2$ production  levels.   
 
 ## Firm’s Short Run Decision to Shut Down
-#Q
-A firm's short-run decision to shut down :: is the decision <mark style="background: #FF5582A6;">to stop production temporarily</mark>, even though it is still able to operate. This decision is made when the <mark style="background: #ABF7F7A6;">firm is not covering its variable costs</mark>, which are the costs that change with the quantity of output produced.
+#Q #AOSR/39j69
+A firm's short-run decision to shut down :: is the decision <mark style="background: #FF5582A6;">to stop production temporarily</mark>, even though it is still able to operate. This decision is made when the <mark style="background: #ABF7F7A6;">firm is not covering its variable costs</mark>, which are the costs that change with the quantity of output produced. #AOSR/39j69/s/4a8p
 $$
-TR<AVC
+P<AVC
+$$
+$$
+TR<TVC
 $$
 #/Q
 #Q

@@ -62,9 +62,9 @@ Welfare effects of price floor ::
 ![[Pasted image 20230821221657.png]]
 #/Q 
 
-#Q
+#Q #AOSR/3kcan
 
-> A **binding price floor** :: It is a price floor that is <mark style="background: #ABF7F7A6;">set above the equilibrium price</mark>. 
+> A **binding price floor** :: It is a price floor that is <mark style="background: #ABF7F7A6;">set above the equilibrium price</mark>.  #AOSR/3kcan/s/1vm4
 
 #/Q 
 
@@ -167,8 +167,8 @@ Two main types of subsidies:
 - Production subsidies :: are <mark style="background: #ABF7F7A6;">payments that are made to producers of a good or service.</mark> These subsidies can be used to reduce the cost of production, which can lead to lower prices for consumers.
 #/Q 
 ![[Pasted image 20230821230613.png]]
-#Q
-- Consumption subsidies :: are <mark style="background: #ABF7F7A6;">payments that are made to consumers of a good or service. </mark>These subsidies can be used to reduce the price of the good or service, which can make it more affordable for consumers to purchase. 
+#Q #AOSR/5bo3h
+- Consumption subsidies :: are <mark style="background: #ABF7F7A6;">payments that are made to consumers of a good or service. </mark>These subsidies can be used to reduce the price of the good or service, which can make it more affordable for consumers to purchase.  #AOSR/5bo3h/s/r496
 #/Q 
 
 #Q
