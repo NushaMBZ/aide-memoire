@@ -26,9 +26,7 @@ International trade :: is the exchange of goods and services between two or more
 #Q #AOSR/7epib
 The theory of absolute advantage :: is an economic theory that states that a country should <mark style="background: #ABF7F7A6;">specialize in the production of goods and services in which it has an absolute advantage and trade those goods and services with other countries for goods and services in which those countries have an absolute advantage.</mark> #AOSR/7epib/s/5ern
 
-$$
-OPC=\frac{\text{Sacrificing Units}}{\text{Increasing Units}}
-$$
+
 
 #/Q 
 
@@ -48,6 +46,9 @@ The PPF is typically drawn <mark style="background: #FFF3A3A6;">with two goods o
 #Q #AOSR/9t7ok
 Comparative advantage :: is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners. #AOSR/9t7ok/s/1kl1
 #/Q 
+$$
+OPC=\frac{\text{Sacrificing Units}}{\text{Increasing Units}}
+$$
 
 The theory of comparative advantage assumes that countries have different opportunity costs in the production of different goods and services. 
 

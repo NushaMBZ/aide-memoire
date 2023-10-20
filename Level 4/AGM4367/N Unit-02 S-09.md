@@ -50,7 +50,7 @@ MR &= \dfrac{dTR}{dQ} \\
 $$
 Therefore, in a perfectly competitive market, AR=MR=P.
 
-## Profit Maximisation
+## Profit Maximization
 
 Let $TR$ be the total revenue, $TC$ be the total cost, $MR$ be the marginal revenue, and $MC$ be the marginal cost. The profit of the firm is given by:
 $$
@@ -80,7 +80,7 @@ The profit is maximized when $\dfrac{dProfit}{dQ} = 0$. This occurs when $MR' = 
 A supply curve in a competitive market is a graphical representation of the relationship between the quantity of a good or service that a firm is willing and able to supply and the price of that good or service.
 ![[Pasted image 20230822084641.png]]
 
-This figure shows the relationship between costs and revenue with the quantity of output.  Marginal Cost (MC) curve is upward sloping, Average Total Cost (ATC) curve is ‘U’  shaped and Average Variable Cost (AVC) curve is below the AVC curve.  AVC curve is  first declining and after a minimum it is increasing. The price line is horizontal which  represents the Marginal Revenue (MR) and Average Revenue (AR) considering the fact  that in a competitive market, MR=MC=P (equation 9) at the profit maximisation output  level. Therefore, the firm should come to $𝑄_{MAX}$  output level from $𝑄_1$ or $𝑄_2$ production  levels.   
+This figure shows the relationship between costs and revenue with the quantity of output.  Marginal Cost (MC) curve is upward sloping, Average Total Cost (ATC) curve is ‘U’  shaped and Average Variable Cost (AVC) curve is below the AVC curve.  AVC curve is  first declining and after a minimum it is increasing. The price line is horizontal which  represents the Marginal Revenue (MR) and Average Revenue (AR) considering the fact  that in a competitive market, MR=MC=P (equation 9) at the profit maximization output  level. Therefore, the firm should come to $𝑄_{MAX}$  output level from $𝑄_1$ or $𝑄_2$ production  levels.   
 
 ## Firm’s Short Run Decision to Shut Down
 #Q #AOSR/39j69
