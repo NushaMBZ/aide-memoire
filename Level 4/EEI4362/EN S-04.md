@@ -3,7 +3,7 @@
 Variables are used to store and manipulate data. There are several types of variables in Java, which can be categorized into three main groups:
 #Q
 Instance Variables (Non-Static Variables) ::
-- These variables are associated with an instance of a class and are declared within the class but outside of any method or constructor.
+- These variables are <mark style="background: #FF5582A6;">associated with an instance of a class</mark> and are <mark style="background: #FF5582A6;">declared within the class but outside of any method or constructor.</mark>
 - They are also known as object-level variables because their values are unique to each instance of the class.
 - Instance variables are created when an object is instantiated from a class and destroyed when the object is garbage collected.
 - They have default values based on their data type (e.g., 0 for numeric types, false for boolean, and null for reference types).
@@ -17,7 +17,7 @@ public class MyClass {
 
 #Q
 Static Variables (Class Variables)::
-- Static variables are associated with the class itself rather than with instances of the class.
+- Static variables are associated with<mark style="background: #FF5582A6;"> the class itself rather than with instances of the class.</mark>
 - They are declared using the `static` keyword and are shared among all instances of the class.
 - Static variables are created when the class is loaded and are destroyed when the class is unloaded.
 - They are often used to store constants or shared data among class instances.
@@ -66,3 +66,6 @@ int[] numbers = {1, 2, 3}; // Array elements are variables
 int value = numbers[0]; // Accessing an array element
 ```
 #/Q 
+
+> [!tip]
+> Static method means that it can be accessed without creating an object of the class.
