@@ -177,7 +177,7 @@ What does procedural law entail? How does it relate to substantive law?
 
 How does procedural law facilitate the enforcement of substantive law?
 
-- Procedural law facilitates the enforcement of substantive law by outlining the processes, procedures, and mechanisms for resolving legal disputes and obtaining remedies.
+- Procedural law facilitates the enforcement of substantive law by <mark style="background: #FF5582A6;">outlining the processes, procedures, and mechanisms for resolving legal disputes and obtaining remedies.</mark>
 
 What is the significance of procedural law in the legal system?
 
