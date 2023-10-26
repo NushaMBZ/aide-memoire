@@ -42,3 +42,9 @@ An interface is like <mark style="background: #FF5582A6;">a contract or a set of
 # Access Modifiers
 
 Access modifiers are <mark style="background: #FF5582A6;">keywords used to control the visibility or accessibility of classes, methods, variables,</mark> and other class members. 
+
+# Compiler
+A compiler translates code from a<mark style="background: #FF5582A6;"> high-level programming language into machine code before the program runs. </mark>
+
+# Interpreter
+An interpreter <mark style="background: #FF5582A6;">translates code written in a high-level programming language into machine code line-by-line as the code runs.</mark>
