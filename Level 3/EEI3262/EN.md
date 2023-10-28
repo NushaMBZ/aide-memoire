@@ -116,3 +116,39 @@ public class Rectangle implements Shapes {
 ![[Pasted image 20231026213216.png]]
 
 ![[Pasted image 20231026213346.png]]
+
+## Dividing a number by 0 is considered as a runtime error. Write a code snippet that would generate that error. (use two int variables and assign the division to a third variable). 
+```java
+public class DivideByZeroError {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 0;
+
+        // Attempt to divide by zero, which will result in an ArithmeticException
+        int result = a / b;
+
+        // This code will not be reached because an exception will be thrown
+        System.out.println("Result: " + result);
+    }
+}
+
+```
+## Rewrite the code in above with the exception handled.
+
+```java
+public class DivideByZeroErrorHandled {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 0;
+
+        try {
+            int result = a / b;
+            System.out.println("Result: " + result);
+        } catch (ArithmeticException e) {
+            System.out.println("An error occurred: " + e.getMessage());
+        }
+    }
+}
+
+```
+
