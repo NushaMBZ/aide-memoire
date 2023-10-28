@@ -304,7 +304,7 @@ public class mainCar {
 
 ## <mark style="background: #BBFABBA6;">Abstraction</mark>
 
-- Abstraction :: is the process of <mark style="background: #FF5582A6;">simplifying complex reality by modeling classes based on the essential attributes and behaviors while ignoring unnecessary details.</mark> #AOSR/65oo6/s/7nig
+- Abstraction :: is the process of <mark style="background: #FF5582A6;">simplifying complex reality by modeling classes based on the essential attributes and behaviors while ignoring unnecessary details.</mark> 
 
 - Abstraction means ignoring irrelevant features, properties, or functions and emphasizing the relevant ones...
 
