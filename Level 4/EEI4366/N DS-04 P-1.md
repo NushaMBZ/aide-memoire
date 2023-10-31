@@ -157,15 +157,15 @@ This is a powerful and expressive query language designed for querying and trans
 
 - **Select All Book Titles**
 ```xquery
-for $title in /library/book/title
-return $title 
+for $sfsdfsdf in /library/book/title
+return $sfsdfsdf 
 ```
 
 - **Select Books Published Before 2000
 ```xquery
-for $title in /library/book
-where $book/publicationYear < 2000
-return $book
+for $asdasdad in /library/book
+where $asdasdad/publicationYear < 2000
+return $asdasdad
 ```
 
 - **Select the price of the Mystery Book**
@@ -190,4 +190,35 @@ return $book
 ```xquery
 for $details in //*[text()="F. Scott Fitzgerald"]
 return $details
+```
+
+
+
+
+```mysql
+select OrderNo,ShipDate
+from Shipment
+where WNo="W2";
+```
+
+```mysql
+select *
+from OrderItem
+inner join Shipment on Shipment.OrderNo=OrderItem.OrderNo
+where Shipment.ShipDate>'2022-12-12';
+```
+
+```mysql
+select * 
+from Order
+inner join Shipment on Shipment.OrderNo=OrderItem.OrderNo
+inner join Warehouse on Shipment.WNo=Warehouse.WNo
+where Warehouse.location = 'Kandy';
+```
+
+```mysql
+select *
+from Customer
+inner join Order on Order.CusNo=Customer.CusNo
+where Order.OrderDate='2022-12-15';
 ```

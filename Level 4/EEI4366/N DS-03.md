@@ -179,14 +179,82 @@ SELECT function_name(argument1, argument2, ...);
 
 "Not Only SQL," is a term used to describe a category of database management systems that are designed to store, retrieve, and manage data in ways that differ from traditional relational databases (SQL databases). NoSQL databases are characterized by their ability to handle <mark style="background: #FF5582A6;">large volumes of unstructured or semi-structured data</mark> and their flexibility in accommodating various data models.
 
-Key characteristics of NoSQL databases include:
+## Features
 
-1. **<mark style="background: #FFF3A3A6;">Schema flexibility</mark>:** Unlike traditional relational databases, which require a fixed schema (predefined structure) for data, NoSQL databases allow for dynamic and flexible schemas.
+1. **<mark style="background: #ADCCFFA6;">Non-relational</mark>**: Unlike relational databases, which use tables and fixed schemas, NoSQL databases do not rely on a fixed structure for storing data. 
     
-2. **<mark style="background: #FFF3A3A6;">Scalability</mark>:** NoSQL databases are often designed to scale out horizontally, making it easier to handle large amounts of data and high traffic loads.
+2. **<mark style="background: #ADCCFFA6;">Schema-flexible</mark>**: NoSQL databases are often schema-less or schema-agnostic, allowing for the storage of data with varying structures within the same database.
     
-3. **<mark style="background: #FFF3A3A6;">High performance</mark>:** Many NoSQL databases are optimized for specific use cases, such as read-heavy or write-heavy workloads, which can result in better performance for those specific tasks compared to traditional databases.
+3. **<mark style="background: #ADCCFFA6;">Scalability</mark>**: NoSQL databases are designed for horizontal scalability, making it easy to distribute data across multiple servers or nodes.
     
-4. **Data model diversity:** NoSQL databases support various data models, including document-based (e.g., MongoDB), key-value (e.g., Redis), column-family (e.g., Apache Cassandra), and graph-based (e.g., Neo4j).
+4. **<mark style="background: #ADCCFFA6;">High Performance</mark>**: NoSQL databases are optimized for high-speed data read and write operations.
     
-5. **<mark style="background: #BBFABBA6;">No rigid ACID transactions</mark>:** NoSQL databases often prioritize performance and scalability over strict ACID (Atomicity, Consistency, Isolation, Durability) transactions found in traditional SQL databases.
+5. **<mark style="background: #ADCCFFA6;">Distributed Architecture</mark>**: Many NoSQL databases are distributed databases, meaning data is distributed across multiple servers or nodes. 
+
+## **Advantages of NoSQL Databases**
+
+1. **Flexible Data Models**: NoSQL databases can handle various data structures, such as semi-structured, unstructured, and structured data. 
+    
+2. **Scalability**: NoSQL databases are designed for horizontal scalability. 
+    
+3. **High Performance**: NoSQL databases are optimized for high-speed data read and write operations. 
+    
+4. **Schema-less or Schema-flexible**: Many NoSQL databases are schema-less or schema-agnostic, which means you can add, modify, or remove fields in your data without affecting existing data records. 
+    
+5. **Distributed Architecture**: NoSQL databases are often distributed databases, providing data redundancy, fault tolerance, and improved availability.
+
+## **Disadvantages of NoSQL Databases:**
+
+1. **Lack of ACID Compliance**: Many NoSQL databases prioritize availability and partition tolerance over strict consistency, which can lead to eventual consistency.
+    
+2. **Limited Query Capabilities**: NoSQL databases may have limited query capabilities compared to SQL databases. 
+    
+3. **Learning Curve**: Developers familiar with SQL databases may need to learn a new query language and understand the specific data model of the chosen NoSQL database.
+    
+4. **Data Integrity and Validation**: Ensuring data integrity and applying data validation rules can be more challenging in NoSQL databases, as there is often no centralized schema to enforce constraints.
+    
+5. **Not Suitable for All Use Cases**: While NoSQL databases are versatile, they are not a one-size-fits-all solution. 
+
+```mysql
+create table TicketBooking (
+TicketNo int primary key,
+IssueData date not null,
+CusNo int not null,
+PerfNo int not null,
+SeatNo int not null,
+seatStatus boolean not null,
+foreign key (CusNo) references  Customer(CusNo),
+foreign key (PerfNo) references Performance(PerfNo),
+foreign key (SeatNo) references Seat(SeatNo)
+);
+
+create table Performance (
+PerfNo int primary key,
+Date date not null,
+Theater varchar(10) not null,
+);
+
+create table Customer (
+CusNo int primary key,
+Name varchar(15) not null,
+Address varchar(25) not null,
+Cusphone varchar(11) not null,
+);
+
+create table Seat (
+SeatNo int primary key,
+Area varchar(15) not null,
+Theater varchar(15) not null,
+);
+
+insert into Customer(CusNo,Name,Address,Cusphone)
+values (12,"Jhon Doe","Meow Street #30","+94762503321");
+
+update Customer
+set Customer.Cusphone = '0775756464'
+where Customer.CusNo=1345;
+
+
+delete from Performance
+where Performance.Date>'2023-01-15';
+```
