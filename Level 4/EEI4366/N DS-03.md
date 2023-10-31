@@ -189,4 +189,4 @@ Key characteristics of NoSQL databases include:
     
 4. **Data model diversity:** NoSQL databases support various data models, including document-based (e.g., MongoDB), key-value (e.g., Redis), column-family (e.g., Apache Cassandra), and graph-based (e.g., Neo4j).
     
-5. **No rigid ACID transactions:** NoSQL databases often prioritize performance and scalability over strict ACID (Atomicity, Consistency, Isolation, Durability) transactions found in traditional SQL databases.
+5. **<mark style="background: #BBFABBA6;">No rigid ACID transactions</mark>:** NoSQL databases often prioritize performance and scalability over strict ACID (Atomicity, Consistency, Isolation, Durability) transactions found in traditional SQL databases.
