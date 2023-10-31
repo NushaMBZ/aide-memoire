@@ -10,19 +10,19 @@ Stored procedures are typically used to <mark style="background: #FF5582A6;">per
 
 Key characteristics of stored procedures include:
 
-1. Precompilation: Stored procedures are precompiled and optimized by the database management system, which can lead to improved performance because the SQL code doesn't need to be parsed and compiled each time it's executed.
+1. <mark style="background: #FFF3A3A6;">Precompilation</mark>: Stored procedures are precompiled and optimized by the database management system, which can lead to improved performance because the SQL code doesn't need to be parsed and compiled each time it's executed.
     
-2. Reusability: Stored procedures can be called multiple times from different parts of an application or by different users, promoting code reuse and consistency.
+2. <mark style="background: #FFF3A3A6;">Reusability</mark>: Stored procedures can be called multiple times from different parts of an application or by different users, promoting code reuse and consistency.
     
-3. Encapsulation: They encapsulate a set of SQL statements and procedural logic into a single unit, allowing developers to hide the implementation details and provide a clean and well-defined interface for interacting with the database.
+3. <mark style="background: #FFF3A3A6;">Encapsulation</mark>: They encapsulate a set of SQL statements and procedural logic into a single unit, allowing developers to hide the implementation details and provide a clean and well-defined interface for interacting with the database.
     
 4. Security: Stored procedures can be used to control access to database tables by granting permissions to execute the procedure rather than directly accessing the tables, enhancing security.
     
-5. Parameterization: Stored procedures often accept parameters, making them flexible and adaptable for various use cases by passing different values to the same procedure.
+5. <mark style="background: #FFF3A3A6;">Parameterization</mark>: Stored procedures often <mark style="background: #BBFABBA6;">accept parameters, making them flexible and adaptable for various use cases</mark> by passing different values to the same procedure.
     
-6. Transaction management: They can be used to group multiple SQL statements into a single transaction, ensuring data consistency and integrity.
+6. <mark style="background: #FFF3A3A6;">Transaction management</mark>: They can be used to group multiple SQL statements into a single transaction, ensuring data consistency and integrity.
     
-7. Error handling: Stored procedures can include error handling code to deal with exceptions and errors that might occur during execution.
+7. <mark style="background: #FFF3A3A6;">Error handling</mark>: Stored procedures can include error handling code to deal with exceptions and errors that might occur during execution.
 
 ## Syntax
 
@@ -32,7 +32,7 @@ CREATE PROCEDURE procedure_name(IN parameter1 datatype, IN parameter2 datatype, 
 BEGIN
     -- SQL statements and procedural logic here
     select age from customer
-    where employee_id = parmeter1
+    where employee_id = parmeter1;
     -- You can use parameters in your SQL statements
     -- For example:
     -- SELECT * FROM table_name WHERE column_name = parameter1;
@@ -63,11 +63,12 @@ There are typically three types of parameters: input parameters, output paramete
 - These parameters are commonly used for filtering data or passing values for processing within the procedure.
 
 ```mysql
-CREATE PROCEDURE ExampleProcedure(IN input_param INT)
+DELIMITER //
+CREATE PROCEDURE finddoctor(IN doctorid INT)
 BEGIN
-    -- Use the input parameter in SQL statements within the procedure
-    SELECT * FROM table_name WHERE column_name = input_param;
-END;
+  SELECT * FROM Doctor WHERE Doctor.staff_id = doctorid;
+END //
+DELIMITER ;
 ```
 
 **Output Parameters (OUT)**:
@@ -121,7 +122,7 @@ DROP PROCEDURE [IF EXISTS] procedure_name;
 
 # Functions
 
-Functions in MySQL are reusable blocks of code that accept parameters, perform calculations or operations, and return a single value. They are typically used to encapsulate complex logic and make it easier to work with databases.
+Functions in MySQL are <mark style="background: #FFF3A3A6;">reusable blocks of code that accept parameters, perform calculations or operations, and return a single value.</mark> They are typically used to encapsulate complex logic and make it easier to work with databases.
 
 1. **User-Defined Functions (UDFs)**:
     
@@ -129,6 +130,7 @@ Functions in MySQL are reusable blocks of code that accept parameters, perform c
     - These functions are defined by the user, and their behavior is often specific to the requirements of a particular database or application.
     - UDFs can accept parameters, perform calculations or operations, and return values just like built-in or system-defined functions.
     - Common types of UDFs include scalar functions (returning a single value), table-valued functions (returning a table-like result set), and aggregate functions (used in combination with the GROUP BY clause).
+      
 2. **System-Defined Functions (SDFs)**:
     
     - SDFs, also known as built-in functions or system functions, are functions provided by the database management system itself.
@@ -139,15 +141,16 @@ Functions in MySQL are reusable blocks of code that accept parameters, perform c
 To define and create functions use the `CREATE FUNCTION` statement.
 
 ```mysql
-CREATE FUNCTION function_name ([parameter1 datatype[, parameter2 datatype, ...]])
-  RETURNS return_datatype
-  [DETERMINISTIC | NOT DETERMINISTIC]
-  [SQL DATA ACCESS {CONTAINS SQL | NO SQL | READS SQL DATA | MODIFIES SQL DATA}]
-  BEGIN
-    -- Function body: SQL statements
-    -- Return a value using the RETURN statement
-    RETURN return_value;
-  END;
+DELIMITER //
+CREATE FUNCTION get_full_name(first_name VARCHAR(255), last_name VARCHAR(255)) RETURNS VARCHAR(255)
+BEGIN
+  DECLARE full_name VARCHAR(255);
+
+  SET full_name = CONCAT(first_name, ' ', last_name);
+
+  RETURN full_name;
+END //
+DELIMITER ;
 ```
 
 - `function_name`: This is the name of the function.
@@ -178,11 +181,11 @@ SELECT function_name(argument1, argument2, ...);
 
 Key characteristics of NoSQL databases include:
 
-1. **Schema flexibility:** Unlike traditional relational databases, which require a fixed schema (predefined structure) for data, NoSQL databases allow for dynamic and flexible schemas.
+1. **<mark style="background: #FFF3A3A6;">Schema flexibility</mark>:** Unlike traditional relational databases, which require a fixed schema (predefined structure) for data, NoSQL databases allow for dynamic and flexible schemas.
     
-2. **Scalability:** NoSQL databases are often designed to scale out horizontally, making it easier to handle large amounts of data and high traffic loads.
+2. **<mark style="background: #FFF3A3A6;">Scalability</mark>:** NoSQL databases are often designed to scale out horizontally, making it easier to handle large amounts of data and high traffic loads.
     
-3. **High performance:** Many NoSQL databases are optimized for specific use cases, such as read-heavy or write-heavy workloads, which can result in better performance for those specific tasks compared to traditional databases.
+3. **<mark style="background: #FFF3A3A6;">High performance</mark>:** Many NoSQL databases are optimized for specific use cases, such as read-heavy or write-heavy workloads, which can result in better performance for those specific tasks compared to traditional databases.
     
 4. **Data model diversity:** NoSQL databases support various data models, including document-based (e.g., MongoDB), key-value (e.g., Redis), column-family (e.g., Apache Cassandra), and graph-based (e.g., Neo4j).
     

@@ -43,7 +43,8 @@ This type of data does not adhere to a fixed schema like structured data but sti
 > [!XML]
 This is a markup language designed to store, transport, and structure data in a human-readable and machine-readable format.
 
-### Components
+### Characteristics
+
 1. **Tags:** XML documents consist of text enclosed within markup tags
     
 2. **Elements:** Elements are the building blocks of an XML document and represent individual pieces of data or content. 
@@ -52,15 +53,13 @@ This is a markup language designed to store, transport, and structure data in a 
     
 4. **Hierarchy:** XML documents are organized hierarchically, with elements nested within other elements.
     
-5. **Well-Formedness:** An XML document must adhere to certain rules to be considered well-formed. 
+5. **Well-Formedness:** An XML document <mark style="background: #FFF3A3A6;">must adhere to certain rules to be considered well-formed. </mark>
     
-6. **Case Sensitivity:** XML is case-sensitive, meaning that element and attribute names are distinguished by case.
+6. **Case Sensitivity:** XML is <mark style="background: #FFF3A3A6;">case-sensitive</mark>, meaning that element and attribute names are distinguished by case.
     
-7. **Data Types:** XML does not enforce specific data types for content within elements, making it flexible for representing various types of data, including text, numbers, dates, and more.
+7. **Data Types:** <mark style="background: #FFF3A3A6;">XML does not enforce specific data types</mark> for content within elements, making it flexible for representing various types of data, including text, numbers, dates, and more.
     
-8. **Character Encoding:** XML documents can specify their character encoding, allowing for the representation of non-ASCII characters and various character sets.
-    
-9. **Namespace Support:** XML supports the use of namespaces, which help avoid naming conflicts when multiple XML vocabularies are used within the same document or context.
+8. **Character Encoding:** XML documents <mark style="background: #FFF3A3A6;">can specify their character encoding,</mark> allowing for the representation of non-ASCII characters and various character sets.
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -93,14 +92,6 @@ This is a markup language designed to store, transport, and structure data in a 
 </library>
 ```
 
-```xquery
-for $person in /AutoLoans/person
-for $loan in $person/loan
-where $loan/amout>75000
-return ($person/name, $loan/payoutdata, $loan/amount)
-```
-
-
 ## XPath
 
 > [!Definition]
@@ -108,15 +99,9 @@ return ($person/name, $loan/payoutdata, $loan/amount)
 
 1. **Location Paths:** XPath expressions are constructed using location paths that define the path to a particular element or set of elements within an XML document. Location paths consist of a series of steps separated by slashes ("/").
     
-2. **Node Types:** XPath recognizes various types of nodes in an XML document, including elements, attributes, text nodes, comments, and processing instructions.
+2. **Functions:** XPath includes a <mark style="background: #FFF3A3A6;">set of built-in functions that can be used in expressions to manipulate and evaluate data. </mark>
     
-3. **Predicates:** XPath allows you to apply conditions or filters, known as predicates, to select specific nodes that meet certain criteria. Predicates are enclosed in square brackets "[]" and are used to refine node selection.
-    
-4. **Axes:** XPath provides axes that define the direction of navigation within the XML document. Common axes include child, parent, descendant, ancestor, sibling, and self.
-    
-5. **Functions:** XPath includes a set of built-in functions that can be used in expressions to manipulate and evaluate data. 
-    
-6. **Wildcards:** XPath supports wildcards such as "\*" and "@" to represent elements and attributes with variable names.
+3. **Wildcards:** XPath supports wildcards such as "\*" and "@" to represent elements and attributes with variable names.
 
 ### Examples
 1. **Select All Book Titles:**
