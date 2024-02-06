@@ -2,7 +2,8 @@
 dg-publish: true
 dg-home: true
 ---
-![[assets/attachments/anime study.gif]]
+<img src="https://raw.githubusercontent.com/NushaMBZ/aide-memoire/main/assets/attachments/anime%20study.gif" alt="roku " width="600">
+
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
 ## Features
