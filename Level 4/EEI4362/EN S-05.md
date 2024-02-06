@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Data Types
 
 1. **Primitive Data Types**: These data types represent single values and are not objects.

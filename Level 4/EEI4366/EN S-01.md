@@ -1,6 +1,6 @@
 ---
-tags:
-  - eei4366
+tags: 
+dg-publish: true
 ---
 ## The File-based Approach
 The file-based approach, also known as a file-based system or file-oriented approach, is a method of organizing and managing data in a computer system.

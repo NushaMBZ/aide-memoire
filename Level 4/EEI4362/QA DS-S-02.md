@@ -1,6 +1,6 @@
 ---
-tags:
-  - eei4362
+tags: []
+dg-publish: true
 ---
 Discuss the advantages of using object-oriented (O-O) techniques in complicated systems that require continuous maintenance, adaptation, and design. Provide examples to support your argument.
 

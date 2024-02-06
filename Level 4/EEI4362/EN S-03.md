@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Exception Handling
 
 `try`, `catch`, and `throw` statements are used for handling exceptions, which are unexpected events or errors that can occur during the execution of a program.

@@ -1,4 +1,8 @@
-> [!question]
+---
+dg-publish: true
+---
+
+>[!question]
 > Define the characteristics of an oligopoly market and a monopolistically competitive market.
 
 Oligopoly Market Characteristics:

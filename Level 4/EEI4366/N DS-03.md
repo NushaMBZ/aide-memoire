@@ -1,6 +1,7 @@
 ---
 tags:
   - eei4366
+dg-publish: true
 ---
 # Stored Procedure
 

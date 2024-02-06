@@ -1,3 +1,6 @@
+---
+dg-home: true
+---
 
 ## HCI
 

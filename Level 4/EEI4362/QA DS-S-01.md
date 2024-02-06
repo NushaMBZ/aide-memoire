@@ -1,6 +1,6 @@
 ---
-tags:
-  - eei4362
+tags: []
+dg-publish: true
 ---
 #Q #AOSR/36pp6
 Discuss the _fundamental principles of object-oriented programming_ and how they relate to real-world concepts.

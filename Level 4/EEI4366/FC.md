@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 ```aosr-deck-config
 {
 	"rule": {

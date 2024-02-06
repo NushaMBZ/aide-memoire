@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 A technique used in web development involves employing scripts on a web server that produces a response customized for each user's request to the website
 

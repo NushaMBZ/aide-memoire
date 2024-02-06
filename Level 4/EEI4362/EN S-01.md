@@ -1,6 +1,6 @@
 ---
+dg-publish: true
 tags:
-  - eei4362-n
 ---
 # Object Model
 #Q #AOSR/16bg1

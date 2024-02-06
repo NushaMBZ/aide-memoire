@@ -1,4 +1,8 @@
-> [!question]
+---
+dg-publish: true
+---
+
+[!question]
 > Define the concept of externalities, positive externalities, negative externalities, production externalities and consumption externalities
 
 > [!question]

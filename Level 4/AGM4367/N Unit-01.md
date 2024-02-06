@@ -1,7 +1,6 @@
 ---
 dg-publish: true
-tags:
-  - agm4367
+tags: []
 ---
 # Economics
 #Q #AOSR/g6il6

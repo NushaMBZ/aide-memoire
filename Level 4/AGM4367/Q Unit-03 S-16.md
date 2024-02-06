@@ -1,4 +1,8 @@
-> [!question]
+---
+dg-publish: true
+---
+
+>[!question]
 > What is macroeconomics? How does it differ from microeconomics?
 
 Macroeconomics and microeconomics are two major branches of economics that focus on different aspects of the economy. Here's an overview of each and how they differ:

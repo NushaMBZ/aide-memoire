@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Types of Variables
 
 Variables are used to store and manipulate data. There are several types of variables in Java, which can be categorized into three main groups:
