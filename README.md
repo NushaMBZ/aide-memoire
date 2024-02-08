@@ -6,6 +6,9 @@ dg-home: true
 
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
+> [!note]
+> For more pleasant view visit this [link](https://aide-memoire-seven.vercel.app/ "https://aide-memoire-seven.vercel.app") by [@AhmedAfni](https://www.github.com/AhmedAfni).
+
 
 ## Courses
 
