@@ -10,15 +10,11 @@ Here, we record topics related to the courses we follow, these discussions are m
 ## Courses
 
 ### Level 03
-- [[EEI3262]] 
-- [[EEI3269]]
-- [[EEI3373]]
-- [[ISI3376]]
+- [[EEX3373]]
 - [[LLJ3265]]
 - [[MHZ3459]] | WIP
 ### Level 04
 - [[AGM4367]]
-- [[EEI4346]]
 - [[EEI4361]]
 - [[EEI4362]]
 - [[EEI4366]]
@@ -51,4 +47,4 @@ Here, we record topics related to the courses we follow, these discussions are m
 ## Todos
  - [ ] Advanced collaboration tools
  - [ ] Summarized Chapters
- - [ ] AI assistant
+ - [ ] AI assisted learning
