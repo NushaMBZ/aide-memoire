@@ -1,43 +1,39 @@
 ---
-dg-publish: false
-dg-home: false
+dg-publish: true
+dg-home: true
 ---
+
 <img src="https://raw.githubusercontent.com/NushaMBZ/aide-memoire/main/assets/attachments/anime%20study.gif" alt="roku ">
 
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
-
-> [!note]
-> For more pleasant view visit this [link](https://aide-memoire-seven.vercel.app/ "https://aide-memoire-seven.vercel.app") by [@AhmedAfni](https://www.github.com/AhmedAfni).
-
-
 ## Courses
 
 ### Level 03
-- EEX3373
-- LLJ3265
-- MHZ3459 | WIP
+- [[EEX3373]]
+- [[LLJ3265]]
+- [[MHZ3459]] | WIP
 ### Level 04
-- AGM4367
-- EEI4361
-- EEI4362
-- EEI4366
-- EEX4373
-- EEI4465 | WIP
+- [[AGM4367]]
+- [[EEI4361]]
+- [[EEI4362]]
+- [[EEI4366]]
+- [[EEX4373]]
+- [[EEI4465]] | WIP
 ### Level 05
-- EEI5467
-- EEI5563 | WIP
-- CVM5402 | WIP
-- MHJ5372 | WIP
-- EEX5376 | WIP
-- EEI5466 | WIP
+- [[EEI5467]]
+- [[EEI5563]] | WIP
+- [[CVM5402]] | WIP
+- [[MHJ5372]] | WIP
+- [[EEX5376]] | WIP
+- [[EEI5466]] | WIP
 
 ### Level 06
-- EEI6360 | WIP
-- EEI5466 | WIP
-- EEI6360 | WIP
-- EEI6171 | WIP
-- EEI6567 | WIP
-- EEM6202 | WIP
+- [[EEI6360]] | WIP
+- [[EEI5466]] | WIP
+- [[EEI6360]] | WIP
+- [[EEI6171]] | WIP
+- [[EEI6567]] | WIP
+- [[EEM6202]] | WIP
 ## Features
 - [x] Collaborative note-taking
 - [x] Version history
