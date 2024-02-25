@@ -12,20 +12,22 @@ Here, we record topics related to the courses we follow, these discussions are m
 - [[EEX3373|Communication & Computer Technology]]
 - [[LLJ3265|Introduction of Sri Lankan Law]]
 - [[MHZ3459|Basic Mathematics for Computing]] | WIP
+- [[EEI3269|Introduction to Mobile Application]]
+- [[ISI3373|Fundamental of Information System]]
 ### Level 04
 - [[AGM4367|Economics and Marketing for Engineering]]
 - [[EEI4361|User Experience Engineering]]
 - [[EEI4362|Object Oriented Design]]
 - [[EEI4366|Data Modelling and Database Systems]]
 - [[EEX4373|Data Science]]
-- [[EEI4465|Data Structures and Algorithm]] | WIP
+- [[EEX4465|Data Structures and Algorithm]]
 ### Level 05
 - [[EEI5467|Software Testing and Quality Assurance]]
-- [[EEI5563|Computer Architecture and Operating Systems]] | WIP
+- [[EEI5563|Computer Architecture and Operating Systems]]
 - [[CVM5402|Accounting for Engineers]] | WIP
 - [[MHJ5372|Technology, Society and Environment]] | WIP
 - [[EEX5376|Embedded Systems and Internet of Things]] | WIP
-- [[EEI5466|Advanced Database Systems]] | WIP
+- [[EEI5466|Advanced Database Systems]]
 
 ### Level 06
 - [[EEI6360|Software Project Management]] | WIP

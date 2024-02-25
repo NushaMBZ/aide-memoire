@@ -14,18 +14,18 @@ Here, we record topics related to the courses we follow, these discussions are m
 - MHZ3459 Basic Mathematics for Computing | WIP
 ### Level 04
 - [AGM4367 Economics and Marketing for Engineering](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%204/AGM4367)
-- [EEI4361User Experience Engineering](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%204/EEI4361)
+- [EEI4361 User Experience Engineering](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%204/EEI4361)
 - [EEI4362 Object Oriented Design](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%204/EEI4362)
 - [EEI4366 Data Modelling and Database Systems](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%204/EEI4366)
 - [EEX4373 Data Science](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%204/EEX4373)
-- EEI4465 Data Structures and Algorithm | WIP
+- [EEI4465 Data Structures and Algorithm](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%204/EEX4465)
 ### Level 05
 - [EEI5467 Software Testing and Quality Assurance ](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%204/EEX4373)
-- EEI5563 Computer Architecture and Operating Systems | WIP
+- [EEI5563 Computer Architecture and Operating Systems](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%205/EEI5563) 
 - CVM5402 Accounting for Engineers | WIP
 - MHJ5372 Technology Society and Environment | WIP
 - EEX5376 Embedded Systems and Internet of Things | WIP
-- EEI5466 Advanced Database Systems | WIP
+- [EEI5466 Advanced Database Systems](https://github.com/NushaMBZ/aide-memoire/tree/main/Level%205/EEI5466)
 
 ### Level 06
 - EEI6360 Software Project Management | WIP
